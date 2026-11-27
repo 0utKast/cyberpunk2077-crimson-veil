@@ -1,0 +1,225 @@
+# Velo Carmesi / Crimson Veil — TweakXL Core Definitions (Phase 0, 100% Base Game 2.x, 0 ep1)
+
+Mappins.CrimsonVeilQuestMappin:
+  $base: Mappins.QuestStaticMappinDefinition
+  showInWorld: true
+  showOnMap: true
+  showOnMinimap: true
+  visibilityRange: 100000.0
+  possibleVariants:
+    - Mappins.DefaultQuestVariant
+
+# ---------------------------------------------------------------------------
+# Objetos de Mision Fase 0 (Cartas y Vial de Plasma)
+# ---------------------------------------------------------------------------
+
+Items.CrimsonVeil_StainedMoonCard:
+  $base: Items.q001_netrunner_software_shard
+  displayName: LocKey#cv_item_moon_card_name
+  localizedDescription: LocKey#cv_item_moon_card_desc
+  quality: Quality.Rare
+  tags:
+    - !append-once Quest
+
+Items.CrimsonVeil_PlasmaSample:
+  $base: Items.q001_netrunner_software_shard
+  displayName: LocKey#cv_item_plasma_name
+  localizedDescription: LocKey#cv_item_plasma_desc
+  quality: Quality.Legendary
+  tags:
+    - !append-once Quest
+
+# ---------------------------------------------------------------------------
+# Recompensa Iconica Fase 0 — Hoja de Neurotoxina «Colmillo Palido»
+# ---------------------------------------------------------------------------
+
+Items.CrimsonVeilKnifeAbility:
+  $base: Items.IconicWeaponModAbilityBase
+  UIData:
+    $type: gamedataGameplayLogicPackageUIData_Record
+    localizedDescription: LocKey#cv_weapon_fang_ability
+
+Items.CrimsonVeilKnifeIconicMod:
+  $base: Items.IconicMeleeWeaponModBase
+  OnAttach:
+    - Items.CrimsonVeilKnifeAbility
+  statModifiers:
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.ChemicalDamage
+      value: 28.0
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.CritChance
+      value: 18.0
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.CritDamage
+      value: 25.0
+
+Items.Preset_Neurotoxin_Knife_CrimsonVeil:
+  $base: Items.Preset_Neurotoxin_Knife_Default
+  displayName: LocKey#cv_weapon_fang_name
+  localizedDescription: LocKey#cv_weapon_fang_desc
+  quality: Quality.Epic
+  tags:
+    - !append-once IconicWeapon
+  statModifiers:
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.IsItemIconic
+      value: 1.0
+  slotPartListPreset:
+    - !append-once
+      $type: gamedataSlotItemPartPreset_Record
+      slot: AttachmentSlots.IconicMeleeWeaponMod1
+      itemPartPreset: Items.CrimsonVeilKnifeIconicMod
+
+# ---------------------------------------------------------------------------
+# Objetos de Mision Acto I (Clave de Frecuencia y Manifiesto NOX-9)
+# ---------------------------------------------------------------------------
+
+Items.CrimsonVeil_ChorusCipher:
+  $base: Items.q001_netrunner_software_shard
+  displayName: LocKey#cv_item_cipher_name
+  localizedDescription: LocKey#cv_item_cipher_desc
+  quality: Quality.Rare
+  tags:
+    - !append-once Quest
+
+Items.CrimsonVeil_Nox9Manifest:
+  $base: Items.q001_netrunner_software_shard
+  displayName: LocKey#cv_item_manifest_name
+  localizedDescription: LocKey#cv_item_manifest_desc
+  quality: Quality.Legendary
+  tags:
+    - !append-once Quest
+
+# ---------------------------------------------------------------------------
+# Recompensa Iconica Acto I — Pistola Silenciada «Velo Silente»
+# ---------------------------------------------------------------------------
+
+Items.CrimsonVeilNueAbility:
+  $base: Items.IconicWeaponModAbilityBase
+  UIData:
+    $type: gamedataGameplayLogicPackageUIData_Record
+    localizedDescription: LocKey#cv_weapon_veil_ability
+
+Items.CrimsonVeilNueIconicMod:
+  $base: Items.IconicWeaponModBase
+  OnAttach:
+    - Items.CrimsonVeilNueAbility
+  statModifiers:
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.ChemicalDamage
+      value: 35.0
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.CritChance
+      value: 22.0
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.HeadshotDamageMultiplier
+      value: 0.35
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.ReloadTime
+      value: -0.15
+
+Items.Preset_Nue_CrimsonVeil:
+  $base: Items.Preset_Nue_Default
+  displayName: LocKey#cv_weapon_veil_name
+  localizedDescription: LocKey#cv_weapon_veil_desc
+  quality: Quality.Epic
+  tags:
+    - !append-once IconicWeapon
+  statModifiers:
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.IsItemIconic
+      value: 1.0
+  slotPartListPreset:
+    - !append-once
+      $type: gamedataSlotItemPartPreset_Record
+      slot: AttachmentSlots.IconicWeaponModLegendary
+      itemPartPreset: Items.CrimsonVeilNueIconicMod
+
+# ---------------------------------------------------------------------------
+# Objetos de Mision Acto II (Badlands — Liturgia de Ceniza)
+# ---------------------------------------------------------------------------
+
+Items.CrimsonVeil_MateoBadge:
+  $base: Items.q001_netrunner_software_shard
+  displayName: LocKey#cv_item_mateo_badge_name
+  localizedDescription: LocKey#cv_item_mateo_badge_desc
+  quality: Quality.Rare
+  tags:
+    - !append-once Quest
+
+Items.CrimsonVeil_Nox9bFormula:
+  $base: Items.q001_netrunner_software_shard
+  displayName: LocKey#cv_item_nox9b_formula_name
+  localizedDescription: LocKey#cv_item_nox9b_formula_desc
+  quality: Quality.Legendary
+  tags:
+    - !append-once Quest
+
+# ---------------------------------------------------------------------------
+# Recompensa Iconica Acto II — Revolver «Alba Carmesi»
+# ---------------------------------------------------------------------------
+
+Items.CrimsonVeilBuryaAbility:
+  $base: Items.IconicWeaponModAbilityBase
+  UIData:
+    $type: gamedataGameplayLogicPackageUIData_Record
+    localizedDescription: LocKey#cv_weapon_dawn_ability
+
+Items.CrimsonVeilBuryaIconicMod:
+  $base: Items.IconicWeaponModBase
+  OnAttach:
+    - Items.CrimsonVeilBuryaAbility
+  statModifiers:
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.ThermalDamage
+      value: 40.0
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.CritChance
+      value: 25.0
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.HeadshotDamageMultiplier
+      value: 0.40
+
+Items.Preset_Burya_CrimsonVeil:
+  $base: Items.Preset_Burya_Default
+  displayName: LocKey#cv_weapon_dawn_name
+  localizedDescription: LocKey#cv_weapon_dawn_desc
+  quality: Quality.Legendary
+  tags:
+    - !append-once IconicWeapon
+  statModifiers:
+    - !append-once
+      $type: gamedataConstantStatModifier_Record
+      modifierType: Additive
+      statType: BaseStats.IsItemIconic
+      value: 1.0
+  slotPartListPreset:
+    - !append-once
+      $type: gamedataSlotItemPartPreset_Record
+      slot: AttachmentSlots.IconicWeaponModLegendary
+      itemPartPreset: Items.CrimsonVeilBuryaIconicMod

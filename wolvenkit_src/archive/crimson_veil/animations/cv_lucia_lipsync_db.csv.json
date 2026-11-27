@@ -1,0 +1,177 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-26T15:53:25.4590559Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\animations\\cv_lucia_lipsync_db.csv"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "C2dArray",
+      "compiledData": [
+        [
+          "1",
+          "1",
+          "cv_a2_lucia_intro",
+          "undefined",
+          "cv_a2_lucia_intro"
+        ],
+        [
+          "2",
+          "1",
+          "cv_a2_lucia_intro_en",
+          "undefined",
+          "cv_a2_lucia_intro_en"
+        ],
+        [
+          "1",
+          "2",
+          "cv_a2_lucia_a1",
+          "undefined",
+          "cv_a2_lucia_a1"
+        ],
+        [
+          "2",
+          "2",
+          "cv_a2_lucia_a1_en",
+          "undefined",
+          "cv_a2_lucia_a1_en"
+        ],
+        [
+          "1",
+          "3",
+          "cv_a2_lucia_a2",
+          "undefined",
+          "cv_a2_lucia_a2"
+        ],
+        [
+          "2",
+          "3",
+          "cv_a2_lucia_a2_en",
+          "undefined",
+          "cv_a2_lucia_a2_en"
+        ],
+        [
+          "1",
+          "4",
+          "cv_a2_lucia_adv",
+          "undefined",
+          "cv_a2_lucia_adv"
+        ],
+        [
+          "2",
+          "4",
+          "cv_a2_lucia_adv_en",
+          "undefined",
+          "cv_a2_lucia_adv_en"
+        ],
+        [
+          "1",
+          "5",
+          "cv_a2_roof_lucia_greet",
+          "undefined",
+          "cv_a2_roof_lucia_greet"
+        ],
+        [
+          "2",
+          "5",
+          "cv_a2_roof_lucia_greet_en",
+          "undefined",
+          "cv_a2_roof_lucia_greet_en"
+        ]
+      ],
+      "compiledHeaders": [
+        "Bank",
+        "Clip",
+        "AnimationName",
+        "streamingContext",
+        "FallbackAnimationName"
+      ],
+      "cookingPlatform": "PLATFORM_PC",
+      "data": [
+        [
+          "1",
+          "1",
+          "cv_a2_lucia_intro",
+          "undefined",
+          "cv_a2_lucia_intro"
+        ],
+        [
+          "2",
+          "1",
+          "cv_a2_lucia_intro_en",
+          "undefined",
+          "cv_a2_lucia_intro_en"
+        ],
+        [
+          "1",
+          "2",
+          "cv_a2_lucia_a1",
+          "undefined",
+          "cv_a2_lucia_a1"
+        ],
+        [
+          "2",
+          "2",
+          "cv_a2_lucia_a1_en",
+          "undefined",
+          "cv_a2_lucia_a1_en"
+        ],
+        [
+          "1",
+          "3",
+          "cv_a2_lucia_a2",
+          "undefined",
+          "cv_a2_lucia_a2"
+        ],
+        [
+          "2",
+          "3",
+          "cv_a2_lucia_a2_en",
+          "undefined",
+          "cv_a2_lucia_a2_en"
+        ],
+        [
+          "1",
+          "4",
+          "cv_a2_lucia_adv",
+          "undefined",
+          "cv_a2_lucia_adv"
+        ],
+        [
+          "2",
+          "4",
+          "cv_a2_lucia_adv_en",
+          "undefined",
+          "cv_a2_lucia_adv_en"
+        ],
+        [
+          "1",
+          "5",
+          "cv_a2_roof_lucia_greet",
+          "undefined",
+          "cv_a2_roof_lucia_greet"
+        ],
+        [
+          "2",
+          "5",
+          "cv_a2_roof_lucia_greet_en",
+          "undefined",
+          "cv_a2_roof_lucia_greet_en"
+        ]
+      ],
+      "headers": [
+        "Bank",
+        "Clip",
+        "AnimationName",
+        "streamingContext",
+        "FallbackAnimationName"
+      ]
+    },
+    "EmbeddedFiles": []
+  }
+}

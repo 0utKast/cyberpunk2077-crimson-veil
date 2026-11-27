@@ -1,0 +1,16 @@
+# Build outputs & distribution archives (published in GitHub Releases)
+*.archive
+*.zip
+*.rar
+*.7z
+
+# Python / OS / Env artifacts
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db

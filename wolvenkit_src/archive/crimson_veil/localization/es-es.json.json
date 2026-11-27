@@ -1,0 +1,3540 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-24T08:00:00.0000000Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\localization\\es-es.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceOnScreenEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_misty_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Acechadora del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Acólito Nocturno del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Carta del Tarot Manchada — La Luna de Sangre",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_moon_card_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Una carta de La Luna hallada boca arriba junto a los cirios en el callejón trasero tras Misty's Esoterica, marcada con restos de hemoglobina sintética oscura.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_moon_card_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vial de Plasma Sintético — Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_plasma_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vial de diálisis portátil recogido en el altar de Northside. Contiene fotosensibilizadores de porfirina reactivos bajo radiación UV de 365 nm.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_plasma_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Colmillo Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_fang_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Daga neurotóxica equilibrada utilizada por iniciados nocturnos de El Coro Pálido. Recalibrada para cortar regeneración cromática.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_fang_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "COLMILLO PÁLIDO: +28 de daño químico/neurotóxico, +18 % de probabilidad de crítico y +25 % de daño crítico.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_fang_ability"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Velo Carmesí: Sangre bajo el Neón",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_p0_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examina el altar carmesí en el callejón trasero tras la tienda de Misty (acceso a la azotea).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Una mesa improvisada con cirios fúnebres y una carta de La Luna manchada ha aparecido en el callejón trasero tras Misty's Esoterica, camino de la clínica de Vik y el acceso a la azotea. Examina el altar carmesí fuera de la tienda y sube con Misty a la azotea al anochecer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Habla con Misty en la azotea nocturna y realiza la tirada de los Tres Arcanos.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sobre los neones de Little China a las 22:00 h, habla con Misty sobre El Coro Pálido y decodifica la tirada de los Tres Arcanos bajo un enfoque forense o simbólico.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investiga el altar de sangre en los Campos Petrolíferos de Northside (usa el Emisor UV contra El Coro Pálido).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Las coordenadas señalan una explanada desierta entre torres petrolíferas en Northside. Abate a los acólitos de El Coro Pálido —sobrecarga el Emisor UV cercano para frenar su regeneración hematológica— y recoge la muestra de plasma.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Regresa con Misty a la azotea de Little China con la muestra de plasma sintético.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lleva el vial de plasma sintético de vuelta con Misty en la azotea de Little China (subiendo desde el altar del callejón trasero tras su tienda si bajaste) para cerrar este primer rastro.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examinaste el presagio de La Luna en Misty's Esoterica, descifraste los Tres Arcanos con Misty sobre Little China, desbarataste la emboscada de El Coro Pálido en los Campos Petrolíferos con el Emisor UV y entregaste la muestra de plasma (+1.200 €$ y «Colmillo Pálido»).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Códice de Arcanos — La Luna de Sangre y El Colgado",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_tarot_p0_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "MAPEO DE PATRONES // MISTY'S ESOTERICA\n\nI. LA LUNA DE SANGRE: Ventana operativa estrictamente nocturna (22:00–04:00). Los iniciados se transfunden plasma modificado antes del anochecer.\nII. EL COLGADO INVERTIDO: Ciclos clandestinos de hemodiálisis suspendida en polígonos olvidados.\nIII. LA TORRE: Colapso inmediato del escudo nanítico dérmico al recibir radiación ultravioleta concentrada.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_tarot_p0_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nota Clínica — Hemodiálisis Sintética y Porfiria Cromática (Vulnerabilidad UV)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_porphyria_p0_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "INFORME DE VULNERABILIDAD FOTOTÓXICA // AUDITORÍA WATSON\n\nLos colmillos Vampyre combinados con diálisis clandestina de eritrocitos sintéticos dejan porfirinas reactivas acumuladas en la dermis. En oscuridad absoluta, sus nanitos aceleran la cicatrización (+2,5 %/s). Sin embargo, un pulso UV de 365 nm desata fotolisis oxidativa: ceguera instantánea, cortocircuito en implantes y anulación total de la regeneración.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_porphyria_p0_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Informe de Campo — El Coro Pálido (Northside)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_chorus_p0_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ETIQUETA RECUPERADA // CAMPOS PETROLÍFEROS DE NORTHSIDE\n\n«Protocolo Coro — Célula Cero»: antiguos biosculptores Exotics y técnicos de clínicas negras ocultan sus pruebas de hematología sintética tras rituales ocultistas y arcanos invertidos. Bajo la máscara del Tarot se esconde la telemetría del Proyecto NOX-9.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_chorus_p0_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Callejón tras Misty's Esoterica: Altar del Presagio Carmesí",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_esoterica"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Azotea de Misty (Little China)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Callejón tras Misty's Esoterica: Subir con Misty a la azotea",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_return_esoterica"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Campos Petrolíferos de Northside: Altar de Sangre",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_oilfields"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Emisor UV Industrial (Sobrecargar)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_uv_emitter"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[VELO CARMESÍ] Un altar carmesí aguarda en el callejón trasero tras la tienda de Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_start"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LITTLE CHINA · 22:00] Misty te espera junto a la mesa del Tarot",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_rooftop_enter"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TIRADA DECODIFICADA] Coordenadas marcadas en Campos Petrolíferos de Northside",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_oilfields_unlocked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NORTHSIDE] Examina el Altar de Sangre para analizar el ritual del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_oil_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMBOSCADA · EL CORO PÁLIDO] ¡Acólitos Vampyre al ataque! Usa el Emisor UV cercano contra su regeneración",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_oil_ambush"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMISOR UV LISTO] Condensador 365 nm armado — Examina el Altar de Sangre y úsalo cuando ataquen",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMISOR UV] Porfiria fotosensible expuesta — Regeneración anulada (14 s)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_overload"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMISOR UV] Pulso 365 nm disparado — Atrae a los Vampyres más cerca de la torre (24 m)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_miss"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMISOR UV] Condensador recargando — listo en ",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_cooling_pre"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[COMBATE ACTIVO] Abate a los acólitos del Coro Pálido (usa el Emisor UV) antes de recoger la muestra",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_shrine_combat_lock"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TÁCTICO] Regeneración hematológica detectada — ¡Sobrecarga el Emisor UV cercano!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_hint"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CORO PÁLIDO] Amenazas neutralizadas — Recoge el vial de plasma en el altar",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sample_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PLASMA RECOGIDO] Regresa con Misty a la azotea de Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sample_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[VELO CARMESÍ] Fase 0 completada (+1.200 €$ y «Colmillo Pálido»)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Altar del Presagio Carmesí",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_esoterica_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Subir con Misty a la azotea (22:00 · Noche)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ascend_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Qué es esta carta manchada junto a las velas?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_inspect_card"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Abrir Códice de Arcanos",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_open_codex"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski — Azotea Privada",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_misty_roof_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Quiénes son «El Coro Pálido» exactamente?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ask_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Por qué huyen de la luz ultravioleta?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ask_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Realizar la tirada de los Tres Arcanos",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_start_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bajar de nuevo a Misty's Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_descend_esoterica"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Entregar la muestra de plasma sintético a Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_deliver_plasma"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ir directamente a los Campos Petrolíferos de Northside",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_fast_travel_oil"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre Emisora UV Industrial",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Comprobar torre emisora UV",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_uv_check"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sobrecargar Emisor UV (Pulso 365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_uv_trigger"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Condensador UV recargando",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_uv_cooling"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Altar de Sangre — Northside",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_shrine_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examinar el altar de sangre",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_inspect_shrine"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Altar de sangre (Abate al Coro Pálido)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_shrine_combat_lock"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Recoger muestra de plasma sintético",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_take_plasma"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "VELO CARMESÍ // TIRADA DE ARCANOS Y CÓDICE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "SIMBOLISMO ESOTÉRICO FRENTE A HEMATOLOGÍA CLANDESTINA · AZOTEA DE MISTY",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_subtitle"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "TIRADA DE ARCANOS",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_tab_spread"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CÓDICE DE CAMPO [PINCHOS]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_tab_codex"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ENFOQUE: FORENSE [RAZÓN]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_lens_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ENFOQUE: SIMBÓLICO [MISTY]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_lens_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CONFIRMAR TIRADA Y RASTREAR EL ALTAR",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_confirm"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CERRAR [ESC]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_close"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Elige una carta como Arcano Regente antes de confirmar",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_pick_hint"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I · LA LUNA",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "SECRETO NOCTURNO Y PORFIRINAS",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_tag"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LECTURA FORENSE: Hemoglobina sintética y traza extrema de porfirinas reactivas. Quien sangró sobre La Luna sufriría quemaduras internas graves bajo el sol directo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LECTURA DE MISTY: Dos muescas de uña en la esquina inferior izquierda — «Estoy despierta en la oscuridad, pero no puedo salir a la luz». Lucía guardaba ya ese secreto en su piel.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "II · EL COLGADO INVERTIDO",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "PROMESA DE RENACER Y DIÁLISIS",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_tag"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LECTURA FORENSE: Supuestas clínicas nocturnas ofrecen terapias respiratorias que sustituyen sangre por diálisis NOX-9 para atrapar a los pacientes tras el anochecer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LECTURA DE MISTY: El Colgado invertido es el falso voto de renacer pagando un sacrificio en silencio: buscan pertenecer a algo que no los descarte al amanecer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "III · LA TORRE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "RESIDUO PETROQUÍMICO · NORTHSIDE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_tag"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LECTURA FORENSE: La cera en el borde de La Torre atrapó gravilla aceitosa y residuo petroquímico de los depósitos abandonados de Northside. Su sangre hierve bajo luz UV a 365 nm.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LECTURA DE MISTY: La Torre es la caída inevitable cuando esa falsa salvación se derrumba. Bajo la luz ultravioleta, la sombra del Coro Pálido no puede sostenerse.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EXPEDIENTE SELLADO] Avanza en la investigación de la Fase 0 para descifrarlo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_locked_shard"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Acólito del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_vampyre"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Alguien dejó esa Luna manchada antes del alba, V. Espera a la noche y sube conmigo a la azotea.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_esoterica_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Aquí arriba Night City respira distinto. Gracias por subir cuando el neón apaga el sol, V.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_rooftop_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Eso no era tinta en La Luna: olía a cobre frío, líquido de diálisis y miedo disfrazado de rito.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_rooftop_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Quiénes son exactamente «El Coro Pálido»? ¿Cromados callejeros o una secta nueva?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_ask_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Antiguos biosculptores Exotics y fugados de clínicas negras. Usan colmillos Vampyre y sangre sintética para creerse inmortales.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_ans_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Espera... mis ópticas leyeron trazas de porfirina reactiva a UV. ¿De verdad les quema la luz?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_ask_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Es química rota, no magia. Su diálisis sucia arde bajo luz ultravioleta intensa; recuérdalo si se cruzan contigo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_ans_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Frío y clínico, justo como tú. Rastrea los pozos petrolíferos de Northside y tráeme una muestra intacta de ese plasma.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_tarot_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Aún sabes leer lo que calla la ciudad. Sigue ese hilo carmesí hasta los Pozos Petrolíferos de Northside, pero no bajes la guardia.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_tarot_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pozos muertos, una bolsa de plasma entre velas y un foco UV industrial montado justo al lado. Toca vigilar las sombras.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_oilfields_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡La noche pertenece al Coro, intruso! ¡Derrama tu sangre en el polvo o arrodíllate ante el Velo!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_vampyre_ambush"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Maldición... ¡se están regenerando en la oscuridad! ¡Sobrecarga ese Emisor UV ahora mismo!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_uv_hint"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vial de plasma sintético asegurado. Misty tiene que ver estos datos arriba en su azotea.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_sample_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mira estas lecturas de porfirina... Es peor que superstición: alguien prueba el Proyecto NOX-9 en los márgenes de Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_debrief_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Quédate esta hoja y tu paga, V. Cuando las sombras vuelvan a cerrarse sobre los almacenes, volveré a llamarte.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_debrief_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_valdes_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Centinela del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_gatekeeper_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Filo Carmesí del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_cell_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Guardia Criogénico del Coro",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_cell_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_valdes"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Centinela del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_gatekeeper"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Clave de Frecuencia del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_cipher_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Santo y seña nocturno entregado por el doctor Adrián Valdés: «La sombra bebe antes del alba». Permite franquear pacíficamente el control del muelle oeste.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_cipher_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Manifiesto Proyecto NOX-9 — Enlace Badlands",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_manifest_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Registro criogénico extraído del terminal del muelle oeste. Vincula lotes de porfirina de Biotechnica con una planta del desierto y señala Misty's Esoterica como «Nexo de Silencio».",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_manifest_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Velo Silente",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_veil_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pistola Nue de precisión modificada con munición neurotóxica antiporfirina y supresor acústico equilibrado para incursiones nocturnas.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_veil_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "VELO SILENTE: +35 de daño químico, +22 % de probabilidad de crítico, +35 % de multiplicador en cabeza y recarga más veloz.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_veil_ability"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Velo Carmesí — Acto I: El Pulso del Lote NOX-9",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_a1_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V — El contacto de Vik cruzó el lote NOX-9-K4 con patentes retiradas de Biotechnica: lo firmó el ex-hematólogo Dr. Adrián Valdés. Acaba de saltar un pulso de telemetría del mismo lote en un embarcadero del Canal de Kabuki. Revisa el descarte antes de que el Coro borre el rastro.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_sms_a1_call_recap"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investiga el pulso del lote NOX-9-K4 en el Canal de Kabuki (3 pistas)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El contacto de Vik vinculó el lote NOX-9-K4 de Northside con el ex-hematólogo de Biotechnica Dr. Adrián Valdés, y acaba de saltar telemetría suya en el Canal de Kabuki. Examina el refrigerador criogénico, la carta invertida y el relé de campo para localizar dónde se esconde Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Localiza e interroga al Dr. Adrián Valdés en Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El relé de Kabuki señala un callejón oculto a cota de calle al sur de Little China, donde El Coro Pálido le dejó una amenaza. Habla con el Dr. Adrián Valdés para descubrir su papel con el suero NOX-9, toda la verdad sobre la Dra. Helena Solís («La Cantora») y su secta, y adónde trasladaron a Lucía y Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Rastrea el traslado de Lucía en el Muelle Oeste de Watson (clave: «La sombra bebe antes del alba»)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El Dr. Valdés reveló que Helena Solís («La Cantora») convirtió su suero NOX-9 en la jaula química de El Coro Pálido, y que todo traslado de Lucía Reyes y Mateo pasa por el Puesto Criogénico del Muelle Oeste de Watson hacia las Badlands (NOX-9B). Usa su pincho con la clave nocturna «La sombra bebe antes del alba».",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lleva el Manifiesto NOX-9 de vuelta con Misty a su azotea de Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El manifiesto señala la tienda de Misty como «Nexo de Silencio» y apunta hacia un búnker clausurado en las Badlands. Sube con Misty a su azotea de Little China para analizar la amenaza.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Destapaste toda la verdad tras el lote NOX-9: el exinvestigador de Biotechnica Dr. Adrián Valdés creó el suero hace seis años y la Dra. Helena Solís («La Cantora») lo secuestró para levantar El Coro Pálido. El manifiesto del Muelle Oeste confirma que sacaron a Lucía Reyes (L-14) y a Mateo (M-09) de Watson rumbo a un búnker clausurado en las Badlands donde Solís prueba el suero NOX-9B sin porfirinas (inmune a la luz UV), y marca Misty's Esoterica como «Nexo de Silencio». Misty y Vik reforzarán la tienda y triangularán el búnker para cruzar al desierto en el Acto II.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Rastro de Kabuki — Lote NOX-9-K4 y amenaza a Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_kabuki_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "EMBARCADERO DEL CANAL DE KABUKI // RASTRO FORENSE\\n- Refrigerador criogénico: Sellos de Biotechnica raspados, matraces vacíos del lote NOX-9-K4 y etiquetas de dosificación para Sujeto L-14 (Lucía Reyes) y Sujeto M-09 (Mateo).\\n- La Sacerdotisa invertida: Grapada a la licencia médica anulada del ex-hematólogo de Biotechnica Dr. Adrián Valdés — amenaza directa de El Coro Pálido.\\n- Relé de telemetría: Baliza de retorno activa apuntando al callejón de Little China donde se oculta Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_kabuki_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Testimonio de Valdés — NOX-9, Helena Solís y la secta",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_valdes_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LITTLE CHINA // INTERROGATORIO AL DR. ADRIÁN VALDÉS\\n- Origen de NOX-9: Diseñado hace 6 años para salvar pulmones dañados por el smog sin implantes corporativos; acumula porfirinas letales bajo luz solar o UV a 365 nm. Despedido y arruinado, Valdés vendió sus patentes a la Dra. Helena Solís.\\n- El Coro Pálido («La Cantora»): Solís convirtió la fórmula en una secta nocturna: captan jóvenes vulnerables en clínicas gratuitas, crean adicción semanal y usan el miedo al alba como jaula.\\n- Complicidad y ruptura: Valdés les fabricó estabilizadores por culpa y miedo hasta descubrir que secuestran a quienes intentan salir.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_valdes_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pincho de Valdés — Muelle Oeste y pista NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_pier_lead_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "PINCHO CIFRADO ENTREGADO // PISTAS PARA AVANZAR\\n- Ruta de traslado: Todos los sujetos recién despertados (Lucía Reyes L-14) y los historiales de Mateo pasan por el Puesto Criogénico del Muelle Oeste de Watson rumbo al búnker de Helena Solís en las Badlands.\\n- Santo y seña nocturno: «La sombra bebe antes del alba» (permite burlar al centinela y las dos torres UV de 365 nm).\\n- Suero de 2.ª generación: Solís afirma haber purificado una variante sin porfirinas denominada NOX-9B en su laboratorio central.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_pier_lead_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Muelle Sur de Kabuki: Descarte Criogénico (3 Pistas)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_kabuki"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Little China (Callejón Oculto): Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_valdes"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Muelle Oeste (Northside Docks): Puesto Criogénico del Coro",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_waterfront"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Callejón tras Misty's Esoterica: Informar a Misty en la azotea",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_return_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACTO I · PULSO DEL NOX-9] Telemetría del lote NOX-9-K4 localizada en el Canal de Kabuki",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_start"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTA 1/3] Matraces NOX-9-K4 para Sujeto L-14 (Lucía) y M-09 (Mateo)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clue_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTA 2/3] La Sacerdotisa invertida — Amenaza del Coro al Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clue_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTA 3/3] Relé triangular fijado en el escondite del Dr. Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clue_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[RASTRO TRIANGULADO] El relé señala al Dr. Adrián Valdés en el Callejón Oculto (Little China)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clues_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTAS RECOGIDAS] Clave «La sombra bebe antes del alba», Muelle Oeste y dossier NOX-9B en el Códice",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_valdes_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[INFILTRACIÓN LIMPIA] Centinela convencido — Accede al terminal criogénico del fondo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_stealth_ok"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CÉLULA EN ALERTA] ¡Usa las dos torres UV del muelle para frenar su regeneración!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_pier_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LUZ DIURNA] La luz solar debilita al Coro Pálido y bloquea su regeneración",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_daylight"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[MUELLE DESPEJADO] Descarga el Manifiesto NOX-9 en el terminal del fondo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_manifest_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[MANIFIESTO NOX-9] La tienda de Misty es un objetivo — Regresa a su azotea",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_manifest_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACTO I COMPLETADO] +2.500 €$, +900 XP — Próximo capítulo: Búnker en las Badlands y NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TERMINAL SELLADO] Engaña al centinela con la clave o neutraliza primero a la célula",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_vault_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Refrigerador de Plasma Criogénico",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a1_cooler"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examinar matraces de sangre criogénica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a1_inspect_cooler"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Marca Ocultista de La Sacerdotisa",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a1_shrine"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examinar La Sacerdotisa invertida",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a1_inspect_shrine"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Relé de Telemetría Biotechnica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a1_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descifrar coordenadas de Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a1_inspect_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Adrián Valdés — Callejón Oculto",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_valdes_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hablar con el Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_valdes"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Cuál es tu papel en el Proyecto NOX-9? ¿Por qué lleva tu firma?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_ask_role"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Quién es La Cantora y qué relación tienes tú con El Coro Pálido?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_ask_sect"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Adónde llevaron a Lucía Reyes y a Mateo desde Northside?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_ask_leads"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Empatía] Aún puedes ayudar a sacarlos. Dame la clave y tus archivos.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Presión] Dame la clave del muelle y tus notas sobre Solís ahora mismo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Me marcho por ahora.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_leave"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Centinela del Coro Pálido — Muelle Oeste",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_gate_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hablar con el centinela del muelle",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_gate"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Clave de Valdés] «La sombra bebe antes del alba.»",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_gate_bluff"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vuestra farsa termina esta noche.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_gate_fight"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre UV Oeste (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_west"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre UV Este (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_east"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Terminal del Manifiesto NOX-9",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_vault_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descargar Manifiesto NOX-9 de las Badlands",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_take_manifest"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Entregar el Manifiesto NOX-9 a Misty (Cierre Acto I)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_deliver_manifest"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descartes clínicos tirados junto al canal de Kabuki... Toca revisar la zona sin alertar a nadie todavía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_kabuki_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Un refrigerador portátil con sellos de Biotechnica raspados... Lleva estabilizadores de porfirina sintética.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_clue_blood"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La Sacerdotisa invertida clavada entre cirios. En el reverso hay una licencia médica anulada en Little China.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_clue_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El relé triangular sigue activo: apunta a un callejón escondido en Little China. Doctor Adrián Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_clue_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡Silencio, baja la mano y escúchame! Si el Coro Pálido te hubiera enviado, ya estaría muerto... ¿Tú qué quieres?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_intro_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vengo por el Proyecto NOX-9, doctor. Explícame qué mete esa gente en la sangre y cómo romper sus implantes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_ask_nox9"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fue un suero militar de Biotechnica para supervivencia en penumbra. En la calle lo corrompieron: regenera carne de noche, pero estalla bajo luz UV a 365 nm.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_ans_nox9"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Y el teatro del Tarot? Están dejando cartas manchadas junto a la tienda de una amiga en Little China.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_ask_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Eso no sé explicarlo con ciencia... En diálisis profunda dibujan Arcanos y oyen un coro desde un búnker en las Badlands. «La Cantora» cree que esa tienda resuena igual.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_ans_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Gracias por oírme antes de disparar. En el muelle oeste usan el santo y seña «La sombra bebe antes del alba». Úsalo y saca el manifiesto sin ruido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_give_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡Basta, te daré todo! Vigilan el muelle oeste con dos torres ultravioleta. Su contraseña es «La sombra bebe antes del alba». Déjame desaparecer después.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_give_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ya tengo su clave y el punto de descarga en el muelle oeste. Vamos a ver qué esconde el Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_valdes_depart"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Puesto criogénico en el muelle y dos focos UV listos para barrer el cemento... puedo colarme con la clave o abrir fuego.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_pier_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Alto ahí, carne tibia. Nadie cruza el muelle criogénico de noche sin cantar el velo de La Cantora.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_gate_challenge"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La sombra bebe antes del alba. Me envía el doctor Valdés para revisar el manifiesto del relevo nocturno.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_gate_bluff"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Que el frío te guarde, iniciado. El terminal del fondo sigue abierto para el relevo, pero no toques los tanques.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_gate_bluff_ok"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡Intruso en el embarcadero! ¡Sellad las válvulas y arrancadle hasta la última gota!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_gate_hostile"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mierda... El manifiesto apunta a las Badlands y marca la tienda de Misty como «Nexo de Silencio». Tengo que avisarle ya.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_manifest_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sentí que volvías en calma, V. Lograste arrancarle sus secretos al Coro sin derramar más sangre en el muelle.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_debrief_stealth"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vi el resplandor violeta recortar la niebla sobre el puerto, V. Me alivia tenerte de pie otra vez bajo mis faroles.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_debrief_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Este manifiesto une a Biotechnica con las cartas de El Diablo y La Muerte. Toma esta pistola silenciada y tus edis para lo que viene.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_debrief_badlands"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Espera... los sueños del patio no hablan solo de química. Si «La Cantora» viene a por mi tienda, nos veremos en las Badlands.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_cliffhanger"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Velo Carmesí: La Luna Manchada",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_r2_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty's Esoterica — Aviso urgente",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_conv_misty_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, gracias por contestar. No toques la carta de la puerta trasera sin escanearla antes. Te espero junto a los cirios, en el callejón de Esoterica.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_sms_r2_call_recap"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Acude al callejón trasero de Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty llamó asustada tras encontrar un altar improvisado con media docena de cirios derretidos por la humedad y una sola carta del Tarot manchada frente a la puerta trasera de Esoterica.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Escanea la carta manchada y habla con Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Analiza la mancha de la carta de La Luna con tus ópticas Kiroshi y pregunta a Misty todo lo que sabe sobre Lucía, Mateo y la vigilancia frente a su tienda.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sube a la azotea con Misty a las 22:00",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty te pidió subir a la azotea de Esoterica cuando anochezca del todo, lejos de oídos indiscretos, para enseñarte todo lo que Lucía le contó antes de desaparecer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investiga los depósitos de Northside de noche",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La gravilla aceitosa y el residuo petroquímico en el borde de La Torre señalan un santuario en los depósitos abandonados de Northside. Sobrecarga el emisor UV y neutraliza a la escolta.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Registra el santuario en busca de pruebas de Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Despejado el perímetro, revisa las cajas médicas junto al altar para averiguar adónde trasladaron a Lucía Reyes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vuelve con Misty a la azotea con las pruebas",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_06"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Recuperaste un vial vacío de plasma NOX-9 y un recibo rasgado que demuestra que Lucía sigue viva. Lleva las pruebas a Misty en la azotea de Esoterica.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_06"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Prólogo completado. Lucía Reyes sigue con vida en manos del Coro Pálido, abastecido con plasma experimental NOX-9. El siguiente rastro apunta al responsable del lote médico, el doctor Adrián Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Callejón de Esoterica (Misty)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_alley"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Azotea de Esoterica (22:00)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Depósitos de Northside (Coro Pálido)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_oilfields"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Azotea de Esoterica (Regresar con Misty)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_debrief"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ficha Personal — Lucía Reyes y el código de La Luna",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_lucia_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "KABUKI // CALLEJÓN DE MISTY'S ESOTERICA\\nSujeto: Lucía Reyes (23 años), abrigo verde, suele barrer el escaparate de Esoterica y vive en una pensión de Kabuki.\\nEstado: Lleva tres noches desaparecida tras aceptar un supuesto tratamiento pulmonar nocturno gratuito.\\nCódigo del Arcano: Dos muescas minúsculas de uña en la esquina inferior izquierda de La Luna — «Estoy despierta en la oscuridad, pero no puedo salir a la luz».\\nRecibo de Northside: «Sujeto L-14 — Trasladarla antes del relevo del muelle». Confirma que Lucía sigue con vida.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_lucia_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Análisis Kiroshi — Hemoglobina Sintética y Porfirinas NOX-9",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_porphyria_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "BIOTECHNICA / LOTE NO REGISTRADO NOX-9\\nMuestra: Mancha oscura analizada sobre la carta de La Luna.\\nComposición: Hemoglobina sintética mezclada con un estabilizador experimental y traza extrema de porfirinas reactivas.\\nEfecto clínico: Mantiene el metabolismo activo de noche, pero provoca quemaduras internas graves y colapso celular bajo luz UV de 365 nm o sol directo.\\nEquipo recuperado: Pistola modificada «Velo Silente» con munición de luz fría.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_porphyria_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Desapariciones en Watson — Mateo y vigilancia callejera",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_missing_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOTAS DE TESTIGO // MISTY OLSZEWSKI\\n- Mateo (técnico nocturno del muelle de Northside): Desapareció tres días antes que Lucía tras empezar a evitar la luz del sol y exigir su historial de dosis.\\n- Otros dos jóvenes del barrio sin familia cercana faltaron días antes con síntomas parecidos.\\n- Vigilancia: Un furgón negro sin matrícula aparcó dos madrugadas frente al callejón e inutilizaron las farolas antes de colocar los cirios.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_missing_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Informe de Campo — Depósitos de Northside y El Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_northside_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "SANTUARIO DE NORTHSIDE // PISTA DEL PRÓLOGO\\nTirada en la azotea: La Luna, El Colgado invertido y La Torre junto a los apuntes de Lucía sobre El Coro Pálido.\\nRastro en La Torre: Gravilla aceitosa y residuo petroquímico atrapado en la cera señalan los depósitos abandonados de Northside.\\nFacción detectada: «El Coro Pálido», vigías nocturnos armados con emisores UV de contención.\\nSiguiente paso: Seguir la firma farmacéutica del lote NOX-9 para encontrar al investigador responsable y rescatar a Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_northside_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Escanear altar y hablar con Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_int_r2_alley"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Preguntar a Misty por lo ocurrido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_int_r2_alley_qa"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Registrar cajas médicas (vial y recibo)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_int_r2_evidence"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Investigar] ¿Quiénes más desaparecieron antes que Lucía?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_missing"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Investigar] ¿Por qué crees que alguien te vigila?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_watched"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Investigar] ¿Lucía mencionó alguna clínica o grupo?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Quédate a cubierto; nos vemos arriba a las diez.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_rooftop_now"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No es ningún hechizo ni pacto, Misty: es química sucia.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_roof_chem"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Cómo conectabas estos tres arcanos con sus cuadernos?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_roof_cards"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Espera — dale la vuelta a La Torre y mira la cera del borde.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_roof_tower"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[HOLOMENSAJE] Misty te espera en el callejón trasero de Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_call"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ESCÁNER KIROSHI] Hemoglobina sintética y porfirinas NOX-9 — La carta es de Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_scan_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[22:00] Sube a la azotea de Esoterica cuando anochezca",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_rooftop_wait"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PRUEBA RECUPERADA] Lucía sigue viva (Sujeto L-14) — Vuelve con Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_proof_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PRÓLOGO COMPLETADO] +1.200 €$ · +500 EXP · «Velo Silente» · Códice actualizado",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_prologue_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿V? Gracias a Dios que coges. Necesito que vengas al callejón trasero de Esoterica en cuanto puedas.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_misty_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Misty? Suenas asustada. ¿Ha pasado algo en la tienda?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_v_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Varias amigas y vecinos del barrio llevan días desapareciendo sin dejar rastro, y siento que alguien me vigila. Esta mañana encontré un extraño altar delante de la puerta: media docena de cirios derretidos por la humedad y una sola carta del Tarot cubierta por una mancha oscura.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_misty_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No dejes entrar a nadie y quédate donde pueda verte. Voy para Watson ahora mismo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_v_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No la toques todavía, V. Escanéala primero. La dejaron de noche, antes del alba, sin que nadie viera quién fue.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_warn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No es sangre normal, Misty. Es hemoglobina sintética mezclada con un estabilizador experimental, y tiene una traza altísima de porfirinas reactivas. Quien sangró sobre esta carta sufriría quemaduras internas graves si le diera el sol directo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_scan"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Es de Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_lucia_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿La chica del abrigo verde que a veces barre tu escaparate?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_lucia_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sí. Mira la esquina inferior izquierda, donde alguien hizo dos muescas minúsculas con una uña. Se lo enseñé el mes pasado, cuando me dijo que tenía pesadillas y no podía dormir. Jugábamos a que cada Arcano era una palabra secreta. La Luna significa: «Estoy despierta en la oscuridad, pero no puedo salir a la luz». Lleva tres noches sin aparecer por su pensión de Kabuki.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_lucia_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Si alguien dejó esto aquí, no fue un simple secuestro de carroñeros. Los carroñeros no dejan velas ni cartas del Tarot. ¿Qué más sabes sobre las otras desapariciones?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_candles"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dijiste por teléfono que había más desaparecidos antes que Lucía. ¿Quiénes son?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_missing_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mateo, un técnico nocturno del muelle de Northside, desapareció tres días antes que Lucía. Empezó a evitar la luz del día y no volvió tras decir que exigiría su historial médico. Antes que él faltaron otros dos jóvenes del barrio.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_missing_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Por qué dices que alguien te está vigilando desde la calle?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_watched_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dos madrugadas seguidas aparcó un furgón negro sin matrícula frente al callejón, con las luces apagadas. Y anoche alguien inutilizó las farolas de esta acera justo antes de dejar los cirios.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_watched_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Lucía llegó a darte algún nombre o clínica antes de desaparecer?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_chorus_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Solo me dijo que aceptó un tratamiento nocturno gratuito en una clínica satélite para curarse los pulmones del smog. A la semana siguiente temía al amanecer y susurraba algo sobre El Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_chorus_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sube conmigo a la azotea cuando anochezca del todo. Abajo hay demasiado ruido y demasiados ojos. A las diez te enseño todo lo que Lucía me contó antes de desaparecer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "De acuerdo. Quédate a cubierto dentro. Nos vemos en la azotea a las diez.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Gracias por subir a tiempo, V. He extendido las cartas junto a los apuntes de Lucía: La Luna, El Colgado invertido y La Torre. Si alguien se la llevó tras dejar esa señal, no está lejos de Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_misty_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mira bajo esta lámpara ultravioleta de trescientos sesenta y cinco nanómetros. En el reverso de La Luna hay un sello químico de trasvase que apunta a los depósitos petrolíferos de Northside.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_misty_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Depósitos de Northside, de noche y sin testigos. Voy para allá a buscar a Lucía antes de que la muevan.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_v_depart"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Veo el santuario improvisado entre los tanques y un emisor ultravioleta cubriendo la entrada. Voy a apagar ese foco y limpiar el perímetro.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_oil_v_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, detecto un pico eléctrico en tus ópticas. Rompe la caja del emisor si te cierran el paso y revisa las cajas médicas que dejaron junto al altar.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_oil_misty_radio"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Un vial clínico vacío de plasma NOX-9 y un recibo de transporte rasgado de esta misma madrugada: Sujeto L-14, Lucía Reyes, trasladarla antes del relevo del muelle. Sigue viva, Misty. Vuelvo a la azotea con las pruebas.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_oil_v_note"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Sigue viva? Gracias al cielo, V. Ver el código de su lote médico y ese recibo confirma que no llegamos tarde.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_debrief_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Los secuestradores la sacaron antes del alba, pero dejaron atrás un cargamento de plasma NOX-9 y esta pistola modificada con cargador de luz fría. Quien fabrique ese compuesto nos llevará directo hasta Lucía y Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_debrief_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Toma tus edis y guarda ese arma cerca. Quédate el archivo del códice actualizado y descansa un momento; en cuanto descifremos quién firma el lote NOX-9 iremos a por Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_debrief_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Gracias por venir a las diez, V. Aquí arriba la lluvia apaga el ruido de abajo y nadie escucha.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_open_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía me pidió que le leyera estas cartas la última vez que subió: La Luna, El Colgado invertido y La Torre. En sus apuntes hablaba de El Coro Pálido, gente que se oculta de la luz cerca de Northside.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_open_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Me preguntó si uno puede entregar algo de sí mismo para no morir solo en esta ciudad... Ojalá hubiera entendido entonces que no me hablaba de una metáfora.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_open_m3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty, no es ningún hechizo ni un pacto de Tarot. Es química sucia: hemoglobina sintética y porfirinas reactivas que hierven bajo los rayos ultravioleta.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_chem_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lo sé, V... pero quienes aceptan esa sangre no solo buscan huir de la enfermedad. Buscan pertenecer a algo que no los descarte al amanecer, y ahí es donde esa secta los atrapa.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_chem_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dime cómo conectabas estos tres arcanos con sus cuadernos: La Luna, El Colgado invertido y La Torre.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_cards_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La Luna es el secreto nocturno que Lucía ya guardaba en su piel. El Colgado invertido es la promesa de renacer pagando un sacrificio en silencio. Y La Torre... es la caída cuando esa falsa salvación se derrumba.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_cards_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Espera, Misty, dale la vuelta a La Torre. La cera del borde tiene gravilla aceitosa y residuo petroquímico... esto viene directo de los depósitos abandonados de Northside.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_tower_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Si te cruzas con ellos en Northside, recuerda la luz ultravioleta. Tráeme pruebas de que Lucía sigue viva, V... no dejes que se convierta en otra sombra más del Coro.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_promise_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, ¿tienes un segundo? Le pasé a Vik el código del lote NOX-9-K4 y el recibo de Lucía que sacaste de Northside. Un viejo contacto suyo cruzó esa fórmula con patentes retiradas de Biotechnica: el único hematólogo que diseñó y firmó ese compuesto es un tal doctor Adrián Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Y ese Valdés trabaja para El Coro Pálido o se esconde de ellos? Si firmó la fórmula del lote, sabrá quién se llevó a Lucía y a Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Justo hace unos minutos saltó un pulso de telemetría del mismo lote NOX-9-K4 junto a un embarcadero abandonado del Canal de Kabuki. Ve a revisar lo que hayan tirado allí: seguro que nos lleva directo hasta Valdés antes de que el Coro borre su rastro.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Voy para el Canal de Kabuki ahora mismo. Si Valdés sigue en Watson, lo voy a encontrar.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_v2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Embarcadero de desagüe en el Canal de Kabuki... Ahí están los descartes médicos, las velas y un relé todavía encendido. Vamos a revisar cada pista.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_kabuki_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Un refrigerador de diálisis portátil con sellos de Biotechnica raspados. Dentro hay matraces vacíos del lote NOX-9-K4 y etiquetas de dosificación para el Sujeto L-14, Lucía Reyes, y el Sujeto M-09, Mateo. Esta es la misma fórmula de Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_clue_cooler"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La Sacerdotisa invertida clavada entre cirios húmedos... y grapada al reverso está la licencia médica anulada del doctor Adrián Valdés. No es un altar cualquiera: El Coro Pálido la dejó aquí como amenaza para demostrarle que saben que sigue en Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_clue_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Este relé de telemetría de Biotechnica sigue caliente y rebotando señal. Acaba de triangular el retorno hacia un callejón escondido en Little China. Ya tengo el escondite exacto del doctor Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_clue_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡Quieto, no des un paso más! Si te envía La Cantora para callarme, dispara de una vez y acaba con esto.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Baja el pulso, doctor Valdés. No vengo del Coro Pálido. Vengo por el lote NOX-9-K4 de Northside... y por Lucía Reyes y Mateo. Sabemos que tú firmaste esa fórmula.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Empieza por tu papel en todo esto. ¿Qué es exactamente el NOX-9 y por qué lleva tu firma de Biotechnica?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_ask_role"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Diseñé el NOX-9 hace seis años para salvar a trabajadores con pulmones destrozados por el smog sin condenarlos a pagar implantes corporativos. Aumentaba el oxígeno en sangre y regeneraba tejido, pero acumulaba porfirinas letales: cualquier luz solar o ultravioleta de 365 nm te abrasa por dentro. Biotechnica enterró el proyecto y me echó a la calle. Arruinado, le vendí mis patentes y muestras a la doctora Helena Solís creyendo que terminaría la cura.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_ans_role"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Y cómo acabó tu suero médico en manos de una secta que deja cartas del Tarot y caza gente de noche?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_ask_sect"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Helena Solís se hace llamar ahora La Cantora y convirtió mi fracaso en El Coro Pálido. Atraen a chicos desesperados como Lucía y Mateo con clínicas nocturnas gratuitas, los vuelven dependientes de diálisis semanales y usan el pánico al amanecer como jaula y liturgia. Yo... seguí fabricándoles estabilizadores durante meses por culpa y por miedo a que me mataran. Cuando descubrí que secuestraban a quien intentaba dejarlo, escapé aquí. Por eso dejaron La Sacerdotisa invertida en Kabuki: para recordarme que me vigilan.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_ans_sect"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Si les preparabas estabilizadores, sabes adónde trasladaron a Lucía desde Northside y dónde tienen a Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_ask_leads"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Todos los sujetos recién despertados y los registros de traslado pasan antes por su puesto criogénico del Muelle Oeste de Watson, custodiado por un centinela nocturno y dos torres ultravioleta. Desde ese terminal coordinan los envíos hacia el búnker central de Helena en las Badlands, donde dice haber purificado una segunda generación del suero sin porfirinas: el NOX-9B.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_ans_leads"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Aún puedes arreglar parte del daño, Adrián. Dame tus claves, las coordenadas del muelle y tus notas del NOX-9. Voy a sacar a Lucía y a Mateo de ahí.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Gracias por escucharme antes de juzgarme. Toma este pincho de la mesa: lleva la contraseña del relevo nocturno, «La sombra bebe antes del alba», las coordenadas del terminal criogénico del Muelle Oeste y mi expediente completo sobre el NOX-9 y el NOX-9B. Úsalo para entrar sin alertar a las torres si puedes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_give_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Tu arrepentimiento no va a sacar a Lucía de una cámara criogénica. Dame la clave del muelle y todo lo que tengas sobre Solís ahora mismo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡Está bien, llévatelo todo! En ese pincho de la mesa tienes el santo y seña nocturno, «La sombra bebe antes del alba», las coordenadas del Muelle Oeste y mis archivos del NOX-9 y el NOX-9B. Solo déjame desaparecer antes de que el Coro baje por este callejón.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_give_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pincho cifrado en mi poder: clave nocturna del Coro, coordenadas del Muelle Oeste de Watson y expediente completo de Valdés sobre Solís y el NOX-9B. Ya tenemos todo para golpear el puesto criogénico.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_depart"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Has vuelto de una pieza, V... y sin dejar otro rastro de pólvora en el puerto. La contraseña de Valdés funcionó. Dime qué sacaste de ese terminal del Muelle Oeste.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m1_stealth"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vi los destellos violetas sobre el puerto desde aquí arriba, V. Me alegra tenerte de vuelta y a salvo. Dime qué sacaste de ese terminal del Muelle Oeste.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m1_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ya tenemos el mapa completo, Misty. El doctor Adrián Valdés creó el NOX-9 hace seis años, pero la doctora Helena Solís —la que llaman La Cantora— le robó el proyecto para montar El Coro Pálido. El manifiesto del muelle confirma que sacaron a Lucía Reyes y a Mateo de Watson rumbo a un búnker clausurado de Biotechnica en las Badlands.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Entonces Lucía y Mateo siguen vivos, pero fuera de la ciudad... Espera, V: ¿qué es esta nota al final del manifiesto? Han marcado Misty's Esoterica como «Nexo de Silencio» y con vigilancia prioritaria. Saben que estamos tirando del hilo desde aquí.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Y todavía hay algo más peligroso. Según las notas de Valdés y los registros de carga, en ese búnker del desierto Solís está probando una segunda versión del suero llamada NOX-9B, sin porfirinas. Si consigue estabilizarlo, dejarán de arder con la luz ultravioleta y perderemos la única ventaja táctica que tenemos contra ellos.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_v2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No podemos dejar que terminen ese suero ni que nos encierren aquí. Voy a reforzar la tienda con Vik y a cruzar estas frecuencias del manifiesto para triangular la entrada exacta del búnker en las Badlands. Toma tus edis por lo que has hecho hoy, V. En cuanto descifremos la ruta, te llamaré para cruzar al desierto, rescatar a Lucía y a Mateo y detener a La Cantora de una vez por todas.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mantén la persiana bajada y ten el móvil cerca, Misty. En cuanto tengas las coordenadas del búnker, nos vemos en las Badlands y acabamos con El Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_v3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_lucia_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dra. Helena Solís («La Cantora»)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_solis_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Centinela del Búnker del Coro",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_bunker_sentry_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Guardia Criogénico del Búnker",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_bunker_sentry_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hoja de Honor de La Cantora",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_solis_guard_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Guardia del Biorreactor NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_solis_guard_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Acechadora del Ala de Diálisis",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_lab_stalker_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Centinela de Conductos",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_lab_stalker_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fanático del Coro Carmesí",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_zealot_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Tejedora del Santuario NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_zealot_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fanático de Diálisis del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Tirador de la Cripta del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hoja Carmesí del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_c_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Centinela del Ala Este",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_d_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Zelote del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_c_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Carnicero Carmesí del Coro",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_d_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fusilero del Santuario Carmesí",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_e_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Guardián de la Escalera",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_f_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_lucia"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dra. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_solis"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Placa Rota de Mateo (Sujeto M-09)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_mateo_badge_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Placa de técnico del muelle de Northside partida por disparos en Biotechnica Flats. Mateo saboteó las líneas criogénicas del convoy para que Lucía escapara.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_mateo_badge_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Síntesis Purificada NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_nox9b_formula_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fórmula hematológica de segunda generación sin porfirinas fototóxicas a 365 nm, capaz de revertir la dependencia nocturna de Lucía y los supervivientes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_nox9b_formula_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Alba Carmesí",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_dawn_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Revólver pesado Burya modificado con munición térmica de espectro solar pensada para quemar implantes del Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_dawn_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ALBA CARMESÍ: +40 de daño térmico, +25 % de probabilidad de crítico y +40 % de multiplicador en cabeza.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_dawn_ability"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Velo Carmesí — Acto II: Liturgia de Ceniza",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_a2_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V — Vik y yo cruzamos las balizas del Muelle Oeste con los repetidores del sur. El convoy NOX-9 se detuvo en un punto de servicio de Biotechnica Flats antes de entrar al búnker clausurado de La Cantora. Revisa ese punto primero.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_sms_a2_call_recap"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investiga el descarte del convoy NOX-9 en Biotechnica Flats (3 pistas)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty y Vik siguieron las frecuencias del Muelle Oeste hasta un área de servicio en Biotechnica Flats. Revisa las cápsulas criogénicas, la placa rota y el repetidor de microondas para averiguar qué pasó con Mateo y triangular el búnker de Helena Solís.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Asalta el Búnker Geotérmico de las Badlands y localiza a Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El repetidor apunta a la estación geotérmica de Biotechnica a 1 km al noreste, donde Solís ejecutó a Mateo (M-09) tras su sabotaje. Neutraliza a la guardia exterior con la torre UV y habla con Lucía Reyes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Accede al búnker subterráneo de Biotechnica por la escotilla exterior.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Usa la escotilla desbloqueada junto a Lucía Reyes para descender al Subnivel -1 del complejo del Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 1 (1/4): Purga el sello de acceso criogénico.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Puentea el terminal del sello criogénico frente a ti para iniciar el asalto a la nave de diálisis.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 1 (2/4): Sobrecarga el Emisor UV (365 nm) en la nave de diálisis.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02d"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cruza la puerta doble verde y sobrecarga el Emisor UV marcado (365 nm) para cortar la regeneración del Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02d"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 1 (3/4): Neutraliza a la escuadra del Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02e"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Elimina a los cinco operativos del Coro Pálido desplegados en la nave de diálisis y en la rampa.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02e"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 1 (4/4): Sube la rampa y desbloquea la puerta de entrada al Nivel 2.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02f"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sube la rampa de hormigón en el extremo este de la nave y desbloquea la puerta metálica de entrada al Nivel 2.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02f"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 2 (1/5): Sobrecarga el Emisor UV del corredor (365 nm).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03a"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sobrecarga el Emisor UV marcado (365 nm) en la sala principal del Subnivel -2 para cortar la regeneración del Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03a"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 2 (2/5): Neutraliza a la guardia del Coro Pálido en el Subnivel -2.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Abate a los cinco fanáticos y celotes del Coro Pálido que custodian el corredor del Subnivel -2.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 2 (3/5): Confronta a la Dra. Helena Solís («La Cantora») en la cámara NOX-9B.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Avanza hacia el sur por el pasillo abierto tras las cortinas plásticas hasta el estudio NOX-9B y confronta a la Dra. Helena Solís.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Enfréntate a la Dra. Helena Solís («La Cantora») en la cámara NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía confirmó que Solís está al 98 % del suero NOX-9B inmune a la luz UV y pretende silenciar Esoterica. Cruza el Subnivel -1, ábrete paso por el Subnivel -2 y confronta a la Dra. Helena Solís.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 2 (4/5): Abate a Helena Solís y accede al biorreactor NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sobrecarga el emisor UV de 365 nm de la cámara para anular la regeneración de Helena Solís («La Cantora») y sus refuerzos, abátelos y asegura o purga el núcleo del biorreactor NOX-9B antes de evacuar.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nivel 2 (5/5): Evacúa por el conducto de extracción hacia la superficie.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_05_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El núcleo NOX-9B ha quedado resuelto. Usa la escotilla de extracción marcada en el corredor para salir a la superficie.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_05_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Regresa con Misty y Lucía a la azotea de Esoterica en Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La crisis del búnker en las Badlands ha quedado resuelta. Vuelve a la azotea de Esoterica en Little China, donde te esperan Misty y Lucía Reyes para el cierre definitivo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Velo Carmesí completado. Lucía Reyes ha regresado a salvo a Little China, se esclareció el sacrificio de Mateo en Biotechnica Flats y quedó sellado el destino del suero NOX-9B y de El Coro Pálido de Helena Solís.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica Flats: Convoy NOX-9 (3 Pistas)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_flats"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Búnker de Biotechnica (Badlands): Rescatar a Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_bunker"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cámara NOX-9B: Confrontar a Helena Solís («La Cantora»)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_solis"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biorreactor NOX-9B: Asegurar o Purgar la Fórmula",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_core"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Azotea de Misty (Little China): Reunirse con Misty y Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_return_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACTO II · LITURGIA DE CENIZA] Rastro del convoy en Biotechnica Flats",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_start"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTA 1/3] Cápsula de Lucía (L-14) y envíos de NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clue_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTA 2/3] Placa de Mateo (M-09) — Ejecutado al sabotear el convoy",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clue_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PISTA 3/3] Baliza del Búnker de Biotechnica fijada",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clue_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BÚNKER LOCALIZADO] El repetidor señala la estación geotérmica de Biotechnica (1 km NE)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clues_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PERÍMETRO DESPEJADO] Habla con Lucía Reyes junto al acceso",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_outer_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACCESO ABIERTO] Usa la escotilla metálica del suelo junto a Lucía para bajar al Subnivel -1",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_descent"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LA CANTORA EN COMBATE] Usa la Torre UV del biorreactor para neutralizar a Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_solis_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CÁMARA DESPEJADA] Accede al biorreactor NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_chamber_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[FÓRMULA NOX-9B ASEGURADA] Regresa a Esoterica con Misty y Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_core_secured"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BIORREACTOR PURGADO] Fórmula destruida — Regresa con Misty y Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_core_burned"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BIORREACTOR SELLADO] Neutraliza primero a Helena Solís y su escolta",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_core_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[FINAL ACTO II] Habla con Misty y Lucía en la azotea",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_finale_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[VELO CARMESÍ COMPLETADO] +4.000 €$, +1.500 XP y revólver icónico «Alba Carmesí»",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cápsula Criogénica del Convoy NOX-9",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a2_pod"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examinar cápsula de Lucía (L-14)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_inspect_pod"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Placa de Mateo y Carta de La Luna",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a2_mateo"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Recoger placa de Mateo (M-09)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_inspect_mateo"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Repetidor de Microondas Biotechnica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a2_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Triangular búnker del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_inspect_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre UV Exterior (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_bunker"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre UV del Reactor (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_chamber"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía Reyes — Acceso al Búnker",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_lucia_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hablar con Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_lucia"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Encontré la placa de Mateo en Biotechnica Flats. ¿Qué pasó durante el traslado?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_lucia_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿En qué estado está exactamente el suero NOX-9B ahí abajo?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_lucia_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ponte a cubierto. Bajo a enfrentarme a Helena Solís («La Cantora»).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_lucia_adv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dra. Helena Solís («La Cantora») — Cámara NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_solis_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Confrontar a Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_solis"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Valdés diseñó el NOX-9 para curar pulmones. Tú montaste una secta y mataste a Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Explícame el NOX-9B. ¿De verdad elimina la dependencia y el daño solar?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Por qué marcaste Misty's Esoterica como «Nexo de Silencio» en tus manifiestos?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_q3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Final A · El Segundo Suero] Luchar por la fórmula intacta del NOX-9B para Valdés y liberar a Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_end_cure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Final B · Pacto en la Penumbra] Pactar la liberación de Lucía y borrar Watson de tus registros.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_end_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Final C · Alba de Sangre] Abatir a Solís y calcinar por completo el biorreactor del Coro Pálido.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_end_burn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Volver ahora.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_leave"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biorreactor NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_core_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descargar fórmula NOX-9B intacta",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_take_core"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Purgar y destruir el suero NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_burn_core"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biorreactor sellado",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_core_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Informar a Misty y Lucía sobre el búnker (Final Acto II)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_finale"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Compuerta del Búnker Subterráneo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_surface"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descender al Subnivel -1 (Laberinto de Diálisis)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_enter"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Compuerta sellada (Despeja el acceso y habla con Lucía)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Montacargas de Subida a Superficie",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_exit"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Subir a la superficie junto a Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_surface"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Relé de Sello Criogénico Alfa",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_seal_a"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Puentear y purgar sello criogénico",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_seal_purge"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Relé de Sello Criogénico Beta",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_seal_b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Compuerta del Subnivel -2 (Santuario)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_sub2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descender al Subnivel -2 (Cámara NOX-9B)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_sub2_go"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Compuerta sellada (Purga los dos sellos del Subnivel -1)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_sub2_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre UV del Laberinto (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_sub1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Torre UV del Corredor (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_sub2_corr"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Conducto de Extracción de Emergencia",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Evacuar a la superficie junto a Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NIVEL 1 · NAVE DE DIÁLISIS] Purga el sello de acceso frente a ti para comenzar",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub1_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[SELLO DE ACCESO PURGADO] Cruza la puerta doble verde y sobrecarga el Emisor UV marcado",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_seal_a_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[2/4 · EMISOR UV] Sobrecargar Emisor UV (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_uv_tower"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMISOR UV SOBRECARGADO] Regeneración anulada — Elimina a la escuadra del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_step_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[3/4 · NAVE DE DIÁLISIS] Eliminar escuadra del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_clear_hall"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NAVE DESPEJADA] Sube la rampa hasta la puerta de entrada al Nivel 2",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_hall_cleared"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[4/4 · ENTRADA NIVEL 2] Puerta metálica sellada",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_level2_door"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Puerta de Entrada al Nivel 2",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_level2_door"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descender al Nivel 2 (Santuario Carmesí)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_level2_door_open"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Puerta sellada (Sobrecarga el Emisor UV y despeja la nave primero)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_level2_door_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NIVEL 1 COMPLETADO] Descendiendo al Nivel 2 (Santuario Carmesí)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub1_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[1/5 · EMISOR UV CORREDOR] Sobrecargar Emisor UV (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_sub2_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[2/5 · CORREDOR] Eliminar guardia del Coro Pálido",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_sub2_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EMISOR UV SOBRECARGADO] Regeneración anulada — Abate a la guardia del corredor",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_uv_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CORREDOR DESPEJADO] Avanza al sur por el pasillo hasta la Dra. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_hall_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NIVEL 2 COMPLETADO · EVACUACIÓN] Vuelve a la azotea de Esoterica con Misty y Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_extracted"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[INTERFERENCIA NEURAL · EL CORO] Frecuencia vocal de «La Cantora» al máximo en la cámara interior",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_horror"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[SUBNIVEL -2 · SANTUARIO CARMESÍ] Has descendido al nivel inferior — Ábrete paso hasta Dra. Helena Solís en el estudio NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_breach"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LA CANTORA · FASE II] ¡El Coro responde! Acólitos de refuerzo irrumpen en la cámara",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_solis_phase2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica Flats — El Sacrificio de Mateo (M-09)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_flats_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "DESCARTE EN BIOTECHNICA FLATS // REGISTRO FORENSE\\n- Cápsula L-14: Transportaba a Lucía Reyes junto a muestras de calibración del NOX-9B.\\n- Sujeto M-09 (Mateo): Cortó los cables criogénicos para intentar liberar a Lucía; Helena Solís lo ejecutó junto al área de servicio y borró su expediente.\\n- Repetidor de microondas: Señala a 1 km al noreste hacia la estación geotérmica clausurada.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_flats_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Búnker de las Badlands — Lucía y la Dra. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_lucia_solis_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ESTACIÓN GEOTÉRMICA DE BIOTECHNICA // ACTO II\\n- Lucía Reyes: Sobrevivió al traslado bajo vigilancia UV en el búnker geotérmico y reconoció al instante el código de La Luna de Misty.\\n- Dra. Helena Solís («La Cantora»): Exdirectora clínica que convirtió el NOX-9 en una red sectaria. Su biorreactor llevó el NOX-9B sin porfirinas al 98 % de síntesis.\\n- Nexo de Silencio: Solís señaló Esoterica tras detectar las señales del Tarot de Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_lucia_solis_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Epílogo — Esoterica Vuelve a Abrir y La Luna",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_epilogue_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "MISTY'S ESOTERICA // CIERRE DE CAMPAÑA\\n- Lucía Reyes regresó sana y salva a Little China bajo el cuidado de Misty.\\n- Según la decisión de V en la cámara del biorreactor (El Segundo Suero, Pacto en la Penumbra o Alba de Sangre), Vik y Valdés obtuvieron la cura NOX-9B, Solís borró Watson de sus registros o el reactor ardió hasta los cimientos.\\n- La carta de La Luna sobre la mesa deja de ser una llamada de socorro en la oscuridad: Mateo (M-09) no murió en vano.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_epilogue_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, ya tenemos las coordenadas. Vik y yo cruzamos las balizas del manifiesto del Muelle Oeste con los repetidores del sur.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Dónde descargaron a Lucía? ¿Seguimos a tiempo antes de que estabilicen el NOX-9B?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El convoy se detuvo por última vez en un punto de servicio de Biotechnica Flats antes de entrar al búnker clausurado de La Cantora. Ve allí y triangula el acceso.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Salgo hacia Biotechnica Flats ahora mismo. Tú no abras la tienda hasta que te avise, Misty.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_v2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Zona de servicio en mitad de Biotechnica Flats... Ahí está el equipo criogénico descartado del convoy. Veamos qué dejaron atrás.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_flats_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cápsula de traslado con código L-14, Lucía Reyes... Está abierta y limpia por dentro, y las pruebas de carga marcan lotes nuevos de NOX-9B.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_clue_pod"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Una placa de técnico de Northside partida y otra carta de La Luna... Mateo M-09 intentó sabotear el convoy para ayudar a escapar a Lucía, y Helena Solís lo ejecutó aquí mismo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_clue_mateo"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Este repetidor de microondas aún conserva el enlace del búnker: un kilómetro al noreste, bajo la antigua estación geotérmica de Biotechnica. Vamos a por ellas.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_clue_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "La estación geotérmica de las Badlands... El Coro Pálido vigila la entrada exterior con otra torre UV. Habrá que abrirse paso hasta Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_bunker_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿V? ¡Sabía que Misty descifraría las dos muescas en la carta de La Luna! Creía que nadie saldría a buscarme tan lejos de Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty removió media ciudad para encontrarte, Lucía. Estás fuera de peligro por ahora, pero antes dime todo lo que pasa ahí abajo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Encontré la placa de Mateo en Biotechnica Flats. Dime la verdad sobre lo que ocurrió durante el traslado.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mateo descubrió que no nos estaban curando, sino convirtiéndonos en cobayas dependientes del suero. Cortó los cables criogénicos en mitad del desierto para que yo pudiera huir, pero Solís lo abatió delante de mí y borró su expediente.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_a1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿En qué punto está exactamente ese suero NOX-9B que prepara Helena Solís ahí abajo?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lo tiene al noventa y ocho por ciento en el biorreactor inferior. Si termina la síntesis, El Coro Pálido dejará de ser vulnerable a la luz ultravioleta. Además, quiere silenciar la tienda de Misty porque la considera un puente de conciencia con sus pacientes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_a2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ponte a cubierto detrás del perímetro exterior y espera mi señal. Bajo ahora mismo a enfrentarme a La Cantora.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_adv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ten cuidado abajo, V: Solís tiene dos guardias y focos ultravioleta en la terraza del reactor. Si nos ves vivos en la azotea de Misty, por fin seremos libres.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_adv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Así que tú eres la sombra de Misty Olszewski. Pensé que Adrián Valdés enviaría a un asesino corporativo, no a alguien que aún cree en rescates románticos.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Valdés empezó el NOX-9 para curar pulmones, Solís. Tú lo convertiste en una secta y mataste a Mateo cuando intentó huir.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_solis_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica quería dejar morir a los pobres de Watson cuando no podían pagar implantes. Yo les di regeneración real y comunidad en la noche. Mateo rompió nuestro juramento de silencio y puso en riesgo a todo el Coro.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_a1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Explícame el NOX-9B. ¿De verdad quita las porfirinas o solo es otra correa química más cara?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_solis_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "El NOX-9B elimina la fototoxicidad a trescientos sesenta y cinco nanómetros y estabiliza la sangre sin depender de diálisis semanales. Quien controle esta fórmula podrá caminar al sol… o elegir a quién deja atrás en las sombras.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_a2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¿Y qué demonios pinta Misty Olszewski en tus manifiestos? ¿Por qué ordenaste vigilar Esoterica como Nexo de Silencio?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_solis_q3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Porque Lucía usó sus cartas del Tarot para comunicarse fuera del Coro y porque esa tienda recuerda a mis acólitos la vida que abandonaron. Bajar de la torre empieza por cerrar todas las puertas del pasado.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_a3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No vas a negociar con la sangre de nadie más, Solís. Me llevo intacta la fórmula del NOX-9B para Valdés y saco a Lucía de aquí hoy mismo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_end_cure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "¡Entonces arderás entre el acero del Coro Pálido! ¡Cerrad las compuertas del reactor y no dejéis que toque el núcleo!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hagamos un trato rápido y sucio: liberas a Lucía, entregas dosis de emergencia y borras Misty's Esoterica de tus redes para siempre. A cambio, sigo de largo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_end_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sabia elección en Night City. Watson queda fuera de nuestros registros y Lucía puede irse con su amiga. Pero no vuelvas a cruzar nuestra sombra.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Esta cámara muere aquí contigo, Cantora. Voy a calcinar hasta la última probeta del NOX-9B y borrar El Coro Pálido del mapa.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_end_burn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fórmula depurada NOX-9B descargada y encriptada para Adrián Valdés y Misty. Hora de volver a Watson con Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_core_secured"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biorreactor purgado y archivos reducidos a ceniza. Ya no fabricarán más cadenas químicas desde aquí. Volvamos con Misty.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_core_destroyed"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "No sé cómo darte las gracias, V. Volver a oír la lluvia de Little China sin temer al próximo amanecer parecía imposible hasta hoy.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_lucia_greet"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vik ya está revisando tu fórmula del NOX-9B junto al doctor Valdés desde la distancia. Por primera vez, Lucía y los demás tienen esperanza real de volver a caminar bajo el sol.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_cure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía está a salvo bajo mi techo y Watson ha quedado fuera del alcance de Solís. Sé que el Coro seguirá oculto en otros distritos, pero hoy salvaste a quien podíamos salvar.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Arrancaste ese laboratorio de raíz y nadie volverá a atrapar chicos desesperados bajo tierra. Tardaremos tiempo en limpiar el suero de la sangre de Lucía, pero al menos ya nadie la persigue.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_burn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cuando volvamos a abrir Esoterica mañana, La Luna sobre esa mesa ya no será una llamada de socorro en la oscuridad. Toma este revólver Alba Carmesí y tu paga, V: Mateo no murió en vano.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_epilogue"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BAJAR AL SUBNIVEL -2] Escotilla / Escaleras hacia la cámara NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_sub2_descent"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cuídate en el barrio, Lucía, y cierra bien cuando caiga la noche, Misty. Si El Coro Pálido vuelve a sacar cabeza en Night City, ya sabes qué número marcar.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_v_close"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Reunirte con Misty y Lucía Reyes (Cierre Acto II)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_finale_roof"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Subir con Misty y Lucía a la azotea (Final Acto II)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ascend_rooftop_a2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACTO I LISTO] Habla con Misty en la azotea para cerrar el Acto I",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_debrief_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PRUEBAS RECUPERADAS] Habla con Misty en la azotea para cerrar el Prólogo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_debrief_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Escáner Kiroshi] Analizar la mancha en la carta del Tarot",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_scan_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Esperar hasta las 22:00 y subir con Misty a la azotea",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_wait_roof"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Abrir Códice de Investigación",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_open_codex"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Callejón de Esoterica — Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_r2_alley_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Entregar el vial NOX-9 y el recibo de Lucía a Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_deliver_vial"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sentarte frente a Misty junto a la mesa del Tarot",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_sit_table"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ir ahora a los Depósitos de Northside",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_go_northside"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bajar al callejón trasero de Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_descend_alley"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski — Azotea (22:00)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_r2_roof_night_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hablar con Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "EXPEDIENTE SELLADO",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_locked_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[SELLADO]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_locked_shard_row"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Saltar línea",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hint_skip_line"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

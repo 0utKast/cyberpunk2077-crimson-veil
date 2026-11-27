@@ -1,0 +1,412 @@
+# Velo Carmesi / Crimson Veil — TweakXL Actors (Phase 0, 100% Base Game 2.x, 0 ep1)
+
+NPCEquipmentGroup.CrimsonVeil_Unarmed:
+  $type: gamedataNPCEquipmentGroup_Record
+  equipmentItems: []
+
+# ---------------------------------------------------------------------------
+# Misty Olszewski — Aliada pacifica no combatiente (Azotea de Little China)
+# Cero conflicto con Misty vanilla en Esoterica; desarmada y sin voz generica
+# ---------------------------------------------------------------------------
+
+Character.CrimsonVeil_Misty:
+  $base: Character.afterlife_merc_netrunner_w_hard
+  entityTemplatePath: "crimson_veil\\characters\\cv_misty.ent"
+  appearanceName: default
+  displayName: LocKey#cv_npc_misty_name
+  fullDisplayName: LocKey#cv_npc_misty_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Normal
+  primaryEquipment: NPCEquipmentGroup.CrimsonVeil_Unarmed
+  secondaryEquipment: NPCEquipmentGroup.CrimsonVeil_Unarmed
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+# ---------------------------------------------------------------------------
+# El Coro Palido — Acolitos Vampyre en Campos Petroliferos de Northside
+# Escindidos con biosculpt nocturno, colmillos Vampyre y porfiria fotosensible
+# ---------------------------------------------------------------------------
+
+Character.CrimsonVeil_VampyreScoutA:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_vampyre_a_name
+  fullDisplayName: LocKey#cv_npc_vampyre_a_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_VampyreScoutB:
+  $base: Character.cvi_voodooboys_grunt1_ranged2_saratoga_ma
+  displayName: LocKey#cv_npc_vampyre_b_name
+  fullDisplayName: LocKey#cv_npc_vampyre_b_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+# ---------------------------------------------------------------------------
+# Acto I (Watson): Dr. Adrian Valdes (informante pacifico con JALI 30 FPS)
+# ---------------------------------------------------------------------------
+
+Character.CrimsonVeil_DrValdes:
+  $base: Character.q005_arasaka_agent_male
+  entityTemplatePath: "crimson_veil\\characters\\cv_valdes.ent"
+  appearanceName: default
+  displayName: LocKey#cv_npc_valdes_name
+  fullDisplayName: LocKey#cv_npc_valdes_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Normal
+  primaryEquipment: NPCEquipmentGroup.CrimsonVeil_Unarmed
+  secondaryEquipment: NPCEquipmentGroup.CrimsonVeil_Unarmed
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+# ---------------------------------------------------------------------------
+# Acto II (Badlands — Liturgia de Ceniza): Lucia Reyes, Helena Solis y Escolta
+# ---------------------------------------------------------------------------
+
+Character.CrimsonVeil_LuciaReyes:
+  $base: Character.afterlife_merc_netrunner_w_hard
+  entityTemplatePath: "crimson_veil\\characters\\cv_lucia.ent"
+  appearanceName: default
+  displayName: LocKey#cv_npc_lucia_name
+  fullDisplayName: LocKey#cv_npc_lucia_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Normal
+  primaryEquipment: NPCEquipmentGroup.CrimsonVeil_Unarmed
+  secondaryEquipment: NPCEquipmentGroup.CrimsonVeil_Unarmed
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+Character.CrimsonVeil_HelenaSolis:
+  $base: Character.afterlife_merc_netrunner_w_hard
+  entityTemplatePath: "crimson_veil\\characters\\cv_solis.ent"
+  appearanceName: default
+  displayName: LocKey#cv_npc_solis_name
+  fullDisplayName: LocKey#cv_npc_solis_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Boss
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+Character.CrimsonVeil_BunkerSentryA:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_bunker_sentry_a_name
+  fullDisplayName: LocKey#cv_npc_bunker_sentry_a_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_BunkerSentryB:
+  $base: Character.cvi_voodooboys_grunt1_ranged2_saratoga_ma
+  displayName: LocKey#cv_npc_bunker_sentry_b_name
+  fullDisplayName: LocKey#cv_npc_bunker_sentry_b_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_SolisGuardA:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_solis_guard_a_name
+  fullDisplayName: LocKey#cv_npc_solis_guard_a_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+Character.CrimsonVeil_SolisGuardB:
+  $base: Character.arr_scavenger_grunt2_ranged2_copperhead_ma
+  displayName: LocKey#cv_npc_solis_guard_b_name
+  fullDisplayName: LocKey#cv_npc_solis_guard_b_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+# ---------------------------------------------------------------------------
+# Acto I (Watson): Celula Criogenica del Coro Palido (Muelle Oeste)
+# Centinela dialogable que puede dejar pasar con la clave o iniciar combate
+# ---------------------------------------------------------------------------
+
+Character.CrimsonVeil_Gatekeeper:
+  $base: Character.cvi_voodooboys_grunt1_ranged2_saratoga_ma
+  displayName: LocKey#cv_npc_gatekeeper_name
+  fullDisplayName: LocKey#cv_npc_gatekeeper_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+Character.CrimsonVeil_VampyreCellA:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_vampyre_cell_a_name
+  fullDisplayName: LocKey#cv_npc_vampyre_cell_a_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+Character.CrimsonVeil_VampyreCellB:
+  $base: Character.arr_scavenger_grunt2_ranged2_copperhead_ma
+  displayName: LocKey#cv_npc_vampyre_cell_b_name
+  fullDisplayName: LocKey#cv_npc_vampyre_cell_b_name
+  affiliation: Factions.Civilian
+  reactionPreset: ReactionPresets.Civilian_Passive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: false
+
+# ---------------------------------------------------------------------------
+# Acto II (Subnivel -1 / -2 — Combate Real contra La Cantora y Acólitos)
+# ---------------------------------------------------------------------------
+
+Character.CrimsonVeil_HelenaSolisCombat:
+  $base: Character.kab_tyger_claws_biker2_ranged2_shingen_wa
+  entityTemplatePath: "crimson_veil\\characters\\cv_solis.ent"
+  appearanceName: default
+  displayName: LocKey#cv_npc_solis_name
+  fullDisplayName: LocKey#cv_npc_solis_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Boss
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_SolisGuardACombat:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_solis_guard_a_name
+  fullDisplayName: LocKey#cv_npc_solis_guard_a_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_SolisGuardBCombat:
+  $base: Character.arr_scavenger_grunt2_ranged2_copperhead_ma
+  displayName: LocKey#cv_npc_solis_guard_b_name
+  fullDisplayName: LocKey#cv_npc_solis_guard_b_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_LabStalkerA:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_lab_stalker_a_name
+  fullDisplayName: LocKey#cv_npc_lab_stalker_a_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_LabStalkerB:
+  $base: Character.cvi_voodooboys_grunt1_ranged2_saratoga_ma
+  displayName: LocKey#cv_npc_lab_stalker_b_name
+  fullDisplayName: LocKey#cv_npc_lab_stalker_b_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub2ZealotA:
+  $base: Character.arr_scavenger_grunt2_melee2_knife_wa
+  displayName: LocKey#cv_npc_sub2_zealot_a_name
+  fullDisplayName: LocKey#cv_npc_sub2_zealot_a_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub2ZealotB:
+  $base: Character.cvi_voodooboys_grunt1_ranged2_sidewinder_wa
+  displayName: LocKey#cv_npc_sub2_zealot_b_name
+  fullDisplayName: LocKey#cv_npc_sub2_zealot_b_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub1FanaticA:
+  $base: Character.arr_scavenger_grunt1_ranged1_pulsar_ma
+  displayName: LocKey#cv_npc_sub1_fanatic_a_name
+  fullDisplayName: LocKey#cv_npc_sub1_fanatic_a_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Normal
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub1FanaticB:
+  $base: Character.arr_scavenger_grunt2_ranged2_copperhead_ma
+  displayName: LocKey#cv_npc_sub1_fanatic_b_name
+  fullDisplayName: LocKey#cv_npc_sub1_fanatic_b_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Normal
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub1FanaticC:
+  $base: Character.arasaka_ninja_fmelee3_katana_ma_elite
+  displayName: LocKey#cv_npc_sub1_fanatic_c_name
+  fullDisplayName: LocKey#cv_npc_sub1_fanatic_c_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub1FanaticD:
+  $base: Character.nid_maelstrom_grunt2_ranged2_ajax_ma
+  displayName: LocKey#cv_npc_sub1_fanatic_d_name
+  fullDisplayName: LocKey#cv_npc_sub1_fanatic_d_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Normal
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub2FanaticC:
+  $base: Character.cvi_voodooboys_grunt1_ranged2_saratoga_ma
+  displayName: LocKey#cv_npc_sub2_fanatic_c_name
+  fullDisplayName: LocKey#cv_npc_sub2_fanatic_c_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub2FanaticD:
+  $base: Character.nid_maelstrom_grunt2_ranged2_ajax_ma
+  displayName: LocKey#cv_npc_sub2_fanatic_d_name
+  fullDisplayName: LocKey#cv_npc_sub2_fanatic_d_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Elite
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub2FanaticE:
+  $base: Character.nid_maelstrom_grunt2_ranged2_copperhead_wa
+  displayName: LocKey#cv_npc_sub2_fanatic_e_name
+  fullDisplayName: LocKey#cv_npc_sub2_fanatic_e_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Normal
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true
+
+Character.CrimsonVeil_Sub2FanaticF:
+  $base: Character.arr_scavenger_grunt1_ranged1_pulsar_ma
+  displayName: LocKey#cv_npc_sub2_fanatic_f_name
+  fullDisplayName: LocKey#cv_npc_sub2_fanatic_f_name
+  affiliation: Factions.Scavengers
+  reactionPreset: ReactionPresets.Ganger_Aggressive
+  rarity: NPCRarity.Normal
+  voiceTag: ""
+  forceCanHaveGenericTalk: false
+  skipDisplayArchetype: true
+  isCrowd: false
+  enableSensesOnStart: true

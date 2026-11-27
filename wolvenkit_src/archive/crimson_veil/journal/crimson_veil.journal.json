@@ -1,0 +1,3048 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-24T08:00:00.0000000Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\journal\\crimson_veil.journal"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "gameJournalResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "entry": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "gameJournalRootFolderEntry",
+          "descriptor": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "base\\journal\\descriptor.journaldesc"
+            },
+            "Flags": "Soft"
+          },
+          "entries": [
+            {
+              "HandleId": "24",
+              "Data": {
+                "$type": "gameJournalPrimaryFolderEntry",
+                "id": "contacts",
+                "journalEntryOverrideDataList": [],
+                "entries": [
+                  {
+                    "HandleId": "25",
+                    "Data": {
+                      "$type": "gameJournalContact",
+                      "avatarID": {
+                        "$type": "TweakDBID",
+                        "$storage": "string",
+                        "$value": "PhoneAvatars.Avatar_Misty"
+                      },
+                      "entries": [
+                        {
+                          "HandleId": "26",
+                          "Data": {
+                            "$type": "gameJournalPhoneConversation",
+                            "entries": [
+                              {
+                                "HandleId": "27",
+                                "Data": {
+                                  "$type": "gameJournalPhoneMessage",
+                                  "attachment": null,
+                                  "delay": 0,
+                                  "id": "msg_r2_call_recap",
+                                  "imageId": {
+                                    "$type": "TweakDBID",
+                                    "$storage": "uint64",
+                                    "$value": "0"
+                                  },
+                                  "isQuestImportant": 1,
+                                  "journalEntryOverrideDataList": [],
+                                  "sender": "NPC",
+                                  "text": {
+                                    "unk1": "0",
+                                    "value": "cv_sms_r2_call_recap"
+                                  }
+                                }
+                              },
+                              {
+                                "HandleId": "28",
+                                "Data": {
+                                  "$type": "gameJournalPhoneMessage",
+                                  "attachment": null,
+                                  "delay": 0,
+                                  "id": "msg_a1_call_recap",
+                                  "imageId": {
+                                    "$type": "TweakDBID",
+                                    "$storage": "uint64",
+                                    "$value": "0"
+                                  },
+                                  "isQuestImportant": 1,
+                                  "journalEntryOverrideDataList": [],
+                                  "sender": "NPC",
+                                  "text": {
+                                    "unk1": "0",
+                                    "value": "cv_sms_a1_call_recap"
+                                  }
+                                }
+                              },
+                              {
+                                "HandleId": "29",
+                                "Data": {
+                                  "$type": "gameJournalPhoneMessage",
+                                  "attachment": null,
+                                  "delay": 0,
+                                  "id": "msg_a2_call_recap",
+                                  "imageId": {
+                                    "$type": "TweakDBID",
+                                    "$storage": "uint64",
+                                    "$value": "0"
+                                  },
+                                  "isQuestImportant": 1,
+                                  "journalEntryOverrideDataList": [],
+                                  "sender": "NPC",
+                                  "text": {
+                                    "unk1": "0",
+                                    "value": "cv_sms_a2_call_recap"
+                                  }
+                                }
+                              }
+                            ],
+                            "id": "conv_cv_misty",
+                            "journalEntryOverrideDataList": [],
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_conv_misty_title"
+                            }
+                          }
+                        }
+                      ],
+                      "id": "cv_misty",
+                      "isCallableDefault": 0,
+                      "journalEntryOverrideDataList": [],
+                      "name": {
+                        "unk1": "0",
+                        "value": "cv_spk_misty"
+                      },
+                      "type": "Caller",
+                      "useFlatMessageLayout": 1
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "HandleId": "1",
+              "Data": {
+                "$type": "gameJournalPrimaryFolderEntry",
+                "id": "quests",
+                "journalEntryOverrideDataList": [],
+                "entries": [
+                  {
+                    "HandleId": "2",
+                    "Data": {
+                      "$type": "gameJournalFolderEntry",
+                      "entries": [
+                        {
+                          "HandleId": "3",
+                          "Data": {
+                            "$type": "gameJournalQuest",
+                            "districtID": "Districts.LittleChina",
+                            "id": "crimson_veil_r2_quest",
+                            "journalEntryOverrideDataList": [],
+                            "recommendedLevelID": {
+                              "$type": "TweakDBID",
+                              "$storage": "string",
+                              "$value": "DeviceContentAssignment.q001"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_quest_r2_title"
+                            },
+                            "type": "SideQuest",
+                            "entries": [
+                              {
+                                "HandleId": "4",
+                                "Data": {
+                                  "$type": "gameJournalQuestPhase",
+                                  "id": "phase_r2",
+                                  "journalEntryOverrideDataList": [],
+                                  "locationPrefabRef": {
+                                    "$type": "NodeRef",
+                                    "$storage": "uint64",
+                                    "$value": "0"
+                                  },
+                                  "entries": [
+                                    {
+                                      "HandleId": "5",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_r2_01"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "6",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_r2_01"
+                                              },
+                                              "id": "desc_r2_01",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "7",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_r2_alley",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_r2_alley"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -143.217,
+                                                "Y": -80.287,
+                                                "Z": -103.527
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "01_r2_alley",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "8",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_r2_02"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "9",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_r2_02"
+                                              },
+                                              "id": "desc_r2_02",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "10",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_r2_scan",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_r2_alley"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -142.717,
+                                                "Y": -81.187,
+                                                "Z": -104.127
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02_r2_scan",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "11",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_r2_03"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "12",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_r2_03"
+                                              },
+                                              "id": "desc_r2_03",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "13",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_r2_rooftop",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_r2_rooftop"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -146.437,
+                                                "Y": -79.677,
+                                                "Z": -61.327
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "03_r2_rooftop",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "14",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_r2_04"
+                                        },
+                                        "districtID": "Districts.Northside",
+                                        "entries": [
+                                          {
+                                            "HandleId": "15",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_r2_04"
+                                              },
+                                              "id": "desc_r2_04",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "16",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_r2_oilfields",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_r2_oilfields"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -435.377,
+                                                "Y": 2552.403,
+                                                "Z": -113.377
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "04_r2_oilfields",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "17",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_r2_05"
+                                        },
+                                        "districtID": "Districts.Northside",
+                                        "entries": [
+                                          {
+                                            "HandleId": "18",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_r2_05"
+                                              },
+                                              "id": "desc_r2_05",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "19",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_r2_evidence",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_r2_oilfields"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -435.377,
+                                                "Y": 2552.403,
+                                                "Z": -113.777
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "05_r2_evidence",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "20",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_r2_06"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "21",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_r2_06"
+                                              },
+                                              "id": "desc_r2_06",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "22",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_r2_debrief",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_r2_debrief"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -146.437,
+                                                "Y": -79.677,
+                                                "Z": -61.327
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "06_r2_debrief",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "23",
+                                      "Data": {
+                                        "$type": "gameJournalQuestDescription",
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_desc_r2_done"
+                                        },
+                                        "id": "desc_r2_done",
+                                        "journalEntryOverrideDataList": []
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "HandleId": "30",
+                          "Data": {
+                            "$type": "gameJournalQuest",
+                            "districtID": "Districts.LittleChina",
+                            "id": "crimson_veil_a1_quest",
+                            "journalEntryOverrideDataList": [],
+                            "recommendedLevelID": {
+                              "$type": "TweakDBID",
+                              "$storage": "string",
+                              "$value": "DeviceContentAssignment.q001"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_quest_a1_title"
+                            },
+                            "type": "SideQuest",
+                            "entries": [
+                              {
+                                "HandleId": "31",
+                                "Data": {
+                                  "$type": "gameJournalQuestPhase",
+                                  "id": "phase_a1",
+                                  "journalEntryOverrideDataList": [],
+                                  "locationPrefabRef": {
+                                    "$type": "NodeRef",
+                                    "$storage": "uint64",
+                                    "$value": "0"
+                                  },
+                                  "entries": [
+                                    {
+                                      "HandleId": "32",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a1_01"
+                                        },
+                                        "districtID": "Districts.Kabuki",
+                                        "entries": [
+                                          {
+                                            "HandleId": "33",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a1_01"
+                                              },
+                                              "id": "desc_a1_01",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "34",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a1_kabuki",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a1_kabuki"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 369.083,
+                                                "Y": 1.613,
+                                                "Z": -114.027
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "01_a1_kabuki_trace",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "35",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a1_02"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "36",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a1_02"
+                                              },
+                                              "id": "desc_a1_02",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "37",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a1_valdes",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a1_valdes"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -176.007,
+                                                "Y": 477.493,
+                                                "Z": -100.247
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02_a1_valdes_hideout",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "38",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a1_03"
+                                        },
+                                        "districtID": "Districts.Northside",
+                                        "entries": [
+                                          {
+                                            "HandleId": "39",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a1_03"
+                                              },
+                                              "id": "desc_a1_03",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "40",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a1_waterfront",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a1_waterfront"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -503.417,
+                                                "Y": 1458.713,
+                                                "Z": -111.377
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "03_a1_waterfront_cryo",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "41",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a1_04"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "42",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a1_04"
+                                              },
+                                              "id": "desc_a1_04",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "43",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a1_return_misty",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a1_return_misty"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -143.217,
+                                                "Y": -80.287,
+                                                "Z": -103.527
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "04_a1_return_misty",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "44",
+                                      "Data": {
+                                        "$type": "gameJournalQuestDescription",
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_desc_a1_done"
+                                        },
+                                        "id": "desc_a1_done",
+                                        "journalEntryOverrideDataList": []
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "HandleId": "45",
+                          "Data": {
+                            "$type": "gameJournalQuest",
+                            "districtID": "Districts.Badlands",
+                            "id": "crimson_veil_a2_quest",
+                            "journalEntryOverrideDataList": [],
+                            "recommendedLevelID": {
+                              "$type": "TweakDBID",
+                              "$storage": "string",
+                              "$value": "DeviceContentAssignment.q001"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_quest_a2_title"
+                            },
+                            "type": "SideQuest",
+                            "entries": [
+                              {
+                                "HandleId": "46",
+                                "Data": {
+                                  "$type": "gameJournalQuestPhase",
+                                  "id": "phase_a2",
+                                  "journalEntryOverrideDataList": [],
+                                  "locationPrefabRef": {
+                                    "$type": "NodeRef",
+                                    "$storage": "uint64",
+                                    "$value": "0"
+                                  },
+                                  "entries": [
+                                    {
+                                      "HandleId": "47",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_01"
+                                        },
+                                        "districtID": "Districts.Badlands",
+                                        "entries": [
+                                          {
+                                            "HandleId": "48",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_01"
+                                              },
+                                              "id": "desc_a2_01",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "49",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_flats",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a2_flats"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 649.113,
+                                                "Y": -4930.437,
+                                                "Z": -67.177
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "01_a2_flats_convoy",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "50",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_02"
+                                        },
+                                        "districtID": "Districts.Badlands",
+                                        "entries": [
+                                          {
+                                            "HandleId": "51",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_02"
+                                              },
+                                              "id": "desc_a2_02",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "52",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_bunker_lucia",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a2_bunker"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1040.343,
+                                                "Y": -3832.577,
+                                                "Z": -91.577
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02_a2_bunker_lucia",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "53",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_02b"
+                                        },
+                                        "districtID": "Districts.Badlands",
+                                        "entries": [
+                                          {
+                                            "HandleId": "54",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_02b"
+                                              },
+                                              "id": "desc_a2_02b",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "55",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_surface_hatch",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_act_hatch_enter"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1044.883,
+                                                "Y": -3829.987,
+                                                "Z": -91.097
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02b_a2_enter_bunker",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "56",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_02c"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "57",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_02c"
+                                              },
+                                              "id": "desc_a2_02c",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "58",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_seal_a",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_hub_seal_a"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1438.583,
+                                                "Y": -1760.487,
+                                                "Z": -124.877
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02c_a2_sub1_seal_a",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "59",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_02d"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "60",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_02d"
+                                              },
+                                              "id": "desc_a2_02d",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "61",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_uv_tower",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_pin_uv_tower"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1444.383,
+                                                "Y": -1765.487,
+                                                "Z": -124.577
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02d_a2_sub1_uv_tower",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "62",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_02e"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "63",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_02e"
+                                              },
+                                              "id": "desc_a2_02e",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "64",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_clear_hall",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_pin_clear_hall"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1449.383,
+                                                "Y": -1771.487,
+                                                "Z": -124.277
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02e_a2_sub1_clear_hall",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "65",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_02f"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "66",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_02f"
+                                              },
+                                              "id": "desc_a2_02f",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "67",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_level2_door",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_pin_level2_door"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1457.883,
+                                                "Y": -1771.987,
+                                                "Z": -123.877
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "02f_a2_sub1_level2_door",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "68",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_03a"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "69",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_03a"
+                                              },
+                                              "id": "desc_a2_03a",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "70",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_sub2_uv",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_pin_sub2_uv"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1464.883,
+                                                "Y": -1787.487,
+                                                "Z": -135.577
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "03a_a2_sub2_uv_tower",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "71",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_03b"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "72",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_03b"
+                                              },
+                                              "id": "desc_a2_03b",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "73",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_sub2_clear",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_pin_sub2_clear"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1461.693,
+                                                "Y": -1790.417,
+                                                "Z": -135.477
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "03b_a2_sub2_clear_hall",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "74",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_03c"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "75",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_03c"
+                                              },
+                                              "id": "desc_a2_03c",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "76",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_solis",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a2_solis"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1450.983,
+                                                "Y": -1821.287,
+                                                "Z": -135.027
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "03c_a2_solis_chamber",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "77",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_04"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "78",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_04"
+                                              },
+                                              "id": "desc_a2_04",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "79",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_core",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_hub_core_title"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1449.383,
+                                                "Y": -1822.287,
+                                                "Z": -135.027
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "04_a2_secure_core",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "80",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_05_extract"
+                                        },
+                                        "districtID": "Districts.SantoDomingo",
+                                        "entries": [
+                                          {
+                                            "HandleId": "81",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_05_extract"
+                                              },
+                                              "id": "desc_a2_05_extract",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "82",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_sub2_extract",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_hub_hatch_extract"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": 1454.883,
+                                                "Y": -1809.487,
+                                                "Z": -135.577
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "05_a2_sub2_extract",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "83",
+                                      "Data": {
+                                        "$type": "gameJournalQuestObjective",
+                                        "counter": 0,
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_obj_a2_05"
+                                        },
+                                        "districtID": "Districts.LittleChina",
+                                        "entries": [
+                                          {
+                                            "HandleId": "84",
+                                            "Data": {
+                                              "$type": "gameJournalQuestDescription",
+                                              "description": {
+                                                "unk1": "0",
+                                                "value": "cv_desc_a2_05"
+                                              },
+                                              "id": "desc_a2_05",
+                                              "journalEntryOverrideDataList": []
+                                            }
+                                          },
+                                          {
+                                            "HandleId": "85",
+                                            "Data": {
+                                              "$type": "gameJournalQuestMapPin",
+                                              "enableGPS": 1,
+                                              "entries": [],
+                                              "id": "mp_a2_return_misty",
+                                              "journalEntryOverrideDataList": [],
+                                              "mappinData": {
+                                                "$type": "gamemappinsMappinData",
+                                                "active": 1,
+                                                "debugCaption": "",
+                                                "localizedCaption": {
+                                                  "unk1": "0",
+                                                  "value": "cv_mappin_a2_return_misty"
+                                                },
+                                                "mappinType": {
+                                                  "$type": "TweakDBID",
+                                                  "$storage": "string",
+                                                  "$value": "Mappins.QuestStaticMappinDefinition"
+                                                },
+                                                "scriptData": null,
+                                                "variant": "ExclamationMarkVariant",
+                                                "visibleThroughWalls": 1
+                                              },
+                                              "offset": {
+                                                "$type": "Vector3",
+                                                "X": -143.217,
+                                                "Y": -80.287,
+                                                "Z": -103.527
+                                              },
+                                              "reference": {
+                                                "$type": "gameEntityReference",
+                                                "dynamicEntityUniqueName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "names": [],
+                                                "reference": {
+                                                  "$type": "NodeRef",
+                                                  "$storage": "string",
+                                                  "$value": "#q101_mp_to_elev_helper1"
+                                                },
+                                                "sceneActorContextName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "slotName": {
+                                                  "$type": "CName",
+                                                  "$storage": "string",
+                                                  "$value": "None"
+                                                },
+                                                "type": "EntityRef"
+                                              },
+                                              "slotName": {
+                                                "$type": "CName",
+                                                "$storage": "string",
+                                                "$value": "None"
+                                              },
+                                              "uiAnimation": {
+                                                "$type": "TweakDBID",
+                                                "$storage": "uint64",
+                                                "$value": "0"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "id": "06_a2_return_misty",
+                                        "itemID": {
+                                          "$type": "TweakDBID",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "journalEntryOverrideDataList": [],
+                                        "locationPrefabRef": {
+                                          "$type": "NodeRef",
+                                          "$storage": "uint64",
+                                          "$value": "0"
+                                        },
+                                        "optional": 0
+                                      }
+                                    },
+                                    {
+                                      "HandleId": "86",
+                                      "Data": {
+                                        "$type": "gameJournalQuestDescription",
+                                        "description": {
+                                          "unk1": "0",
+                                          "value": "cv_desc_a2_done"
+                                        },
+                                        "id": "desc_a2_done",
+                                        "journalEntryOverrideDataList": []
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ],
+                      "id": "side_quest",
+                      "journalEntryOverrideDataList": []
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "HandleId": "87",
+              "Data": {
+                "$type": "gameJournalPrimaryFolderEntry",
+                "id": "onscreens",
+                "journalEntryOverrideDataList": [],
+                "entries": [
+                  {
+                    "HandleId": "88",
+                    "Data": {
+                      "$type": "gameJournalOnscreenGroup",
+                      "id": "crimson_veil_shards",
+                      "journalEntryOverrideDataList": [],
+                      "entries": [
+                        {
+                          "HandleId": "89",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_lucia_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_r2_lucia",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_lucia_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "90",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_porphyria_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_r2_porphyria",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_porphyria_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "91",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_missing_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_r2_missing",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_missing_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "92",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_northside_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_r2_northside",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_r2_northside_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "93",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_a1_kabuki_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_a1_kabuki",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_a1_kabuki_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "94",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_a1_valdes_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_a1_valdes",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_a1_valdes_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "95",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_a1_pier_lead_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_a1_pier_lead",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_a1_pier_lead_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "96",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_a2_flats_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_a2_flats",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_a2_flats_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "97",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_a2_lucia_solis_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_a2_lucia_solis",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_a2_lucia_solis_name"
+                            }
+                          }
+                        },
+                        {
+                          "HandleId": "98",
+                          "Data": {
+                            "$type": "gameJournalOnscreen",
+                            "description": {
+                              "unk1": "0",
+                              "value": "cv_shard_a2_epilogue_text"
+                            },
+                            "iconID": {
+                              "$type": "TweakDBID",
+                              "$storage": "uint64",
+                              "$value": "0"
+                            },
+                            "id": "cv_shard_a2_epilogue",
+                            "journalEntryOverrideDataList": [],
+                            "tag": {
+                              "$type": "CName",
+                              "$storage": "string",
+                              "$value": "quests"
+                            },
+                            "title": {
+                              "unk1": "0",
+                              "value": "cv_shard_a2_epilogue_name"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

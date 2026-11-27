@@ -1,0 +1,927 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-25T18:55:05.3986595Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\workspots\\cv_lucia_loop.workspot"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "workWorkspotResource",
+      "additionalAnimDatabases": [],
+      "animFeatures": [
+        {
+          "$type": "animAnimFeatureEntry",
+          "className": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "animAnimFeatureUpdateWorkspot"
+          },
+          "debugEnabled": 0,
+          "forceAllocate": 0,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "UpdateWorkspot"
+          }
+        }
+      ],
+      "cookingPlatform": "PLATFORM_PC",
+      "hackAlwaysSample": 0,
+      "hasMixerSlot": 0,
+      "isPaused": 0,
+      "jsonFilesDirectory": "",
+      "nodesToInit": [
+        {
+          "HandleId": "0",
+          "Data": {
+            "$type": "animAnimNode_Root",
+            "debugName": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "None"
+            },
+            "id": 4294967295,
+            "nodes": [
+              {
+                "HandleId": "1",
+                "Data": {
+                  "$type": "animAnimNode_Output",
+                  "debugName": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "id": 4294967295,
+                  "node": {
+                    "$type": "animPoseLink",
+                    "node": {
+                      "HandleId": "2",
+                      "Data": {
+                        "$type": "animAnimNode_WorkspotHub",
+                        "additionalLinkIds": [],
+                        "additionalLinks": [],
+                        "animLoopEventName": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "debugName": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "emotionalExpression": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "eventFilterType": "Default",
+                        "facialIdleFemaleAnimation": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "idle__neutral__female"
+                        },
+                        "facialIdleKey_FemaleAnimation": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "facialIdleKey_MaleAnimation": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "facialIdleMaleAnimation": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "idle__neutral__male"
+                        },
+                        "facialKeyWeight": 1,
+                        "id": 4294967295,
+                        "isCoverHubHack": 0,
+                        "mainEmotionalState": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "poseInfoLogger": null,
+                        "visAxes": 0,
+                        "visMask": null,
+                        "visNames": 0,
+                        "visPostPose": 0,
+                        "visPostPoseColor": {
+                          "$type": "Color",
+                          "Alpha": 0,
+                          "Blue": 0,
+                          "Green": 0,
+                          "Red": 0
+                        },
+                        "visPrePose": 0,
+                        "visPrePoseColor": {
+                          "$type": "Color",
+                          "Alpha": 0,
+                          "Blue": 0,
+                          "Green": 0,
+                          "Red": 0
+                        },
+                        "visRigPartMask": {
+                          "$type": "CName",
+                          "$storage": "string",
+                          "$value": "None"
+                        },
+                        "visWhenActive": 0
+                      }
+                    }
+                  },
+                  "poseInfoLogger": null,
+                  "visAxes": 0,
+                  "visMask": null,
+                  "visNames": 0,
+                  "visPostPose": 0,
+                  "visPostPoseColor": {
+                    "$type": "Color",
+                    "Alpha": 0,
+                    "Blue": 0,
+                    "Green": 0,
+                    "Red": 0
+                  },
+                  "visPrePose": 0,
+                  "visPrePoseColor": {
+                    "$type": "Color",
+                    "Alpha": 0,
+                    "Blue": 0,
+                    "Green": 0,
+                    "Red": 0
+                  },
+                  "visRigPartMask": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "None"
+                  },
+                  "visWhenActive": 0
+                }
+              }
+            ],
+            "outputNode": {
+              "$type": "animPoseLink",
+              "node": null
+            },
+            "poseInfoLogger": null,
+            "visAxes": 0,
+            "visMask": null,
+            "visNames": 0,
+            "visPostPose": 0,
+            "visPostPoseColor": {
+              "$type": "Color",
+              "Alpha": 0,
+              "Blue": 0,
+              "Green": 0,
+              "Red": 0
+            },
+            "visPrePose": 0,
+            "visPrePoseColor": {
+              "$type": "Color",
+              "Alpha": 0,
+              "Blue": 0,
+              "Green": 0,
+              "Red": 0
+            },
+            "visRigPartMask": {
+              "$type": "CName",
+              "$storage": "string",
+              "$value": "None"
+            },
+            "visWhenActive": 0
+          }
+        },
+        {
+          "HandleRefId": "1"
+        },
+        {
+          "HandleRefId": "2"
+        }
+      ],
+      "oneFrameToggle": 0,
+      "rootNode": {
+        "HandleRefId": "0"
+      },
+      "staticCommandsRig": {
+        "DepotPath": {
+          "$type": "ResourcePath",
+          "$storage": "uint64",
+          "$value": "0"
+        },
+        "Flags": "Default"
+      },
+      "timeDeltaMultiplier": 1,
+      "useAnimCommands": 0,
+      "useAnimCommandsForCrowd": 0,
+      "useAnimStaticCommands": 0,
+      "useLunaticMode": 0,
+      "variables": {
+        "HandleId": "3",
+        "Data": {
+          "$type": "animAnimVariableContainer",
+          "boolVariables": [],
+          "floatVariables": [],
+          "intVariables": [],
+          "quaternionVariables": [],
+          "transformVariables": [],
+          "vectorVariables": []
+        }
+      },
+      "workspotTree": {
+        "HandleId": "4",
+        "Data": {
+          "$type": "workWorkspotTree",
+          "animGraphSlotName": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "WORKSPOT"
+          },
+          "autoTransitionBlendTime": 0.5,
+          "blacklistVisualTags": {
+            "$type": "redTagList",
+            "tags": []
+          },
+          "blendOutTime": 0,
+          "censorshipFlags": "0",
+          "customTransitionAnims": [],
+          "disableAutoAnimsetGeneraion": 0,
+          "dontInjectWorkspotGraph": 0,
+          "finalAnimsets": [
+            {
+              "$type": "workWorkspotAnimsetEntry",
+              "animations": {
+                "$type": "animAnimSetup",
+                "cinematics": [
+                  {
+                    "$type": "animAnimSetupEntry",
+                    "animSet": {
+                      "DepotPath": {
+                        "$type": "ResourcePath",
+                        "$storage": "string",
+                        "$value": "base\\animations\\npc\\generic_characters\\female_average\\interactive_scene\\generic_average_female_stand__2h_on_sides.anims"
+                      },
+                      "Flags": "Default"
+                    },
+                    "priority": 200,
+                    "variableNames": []
+                  },
+                  {
+                    "$type": "animAnimSetupEntry",
+                    "animSet": {
+                      "DepotPath": {
+                        "$type": "ResourcePath",
+                        "$storage": "string",
+                        "$value": "base\\animations\\npc\\generic_characters\\female_average\\interactive_scene\\generic_average_female_stand_2h_on_sides.anims"
+                      },
+                      "Flags": "Default"
+                    },
+                    "priority": 200,
+                    "variableNames": []
+                  }
+                ],
+                "gameplay": [],
+                "hash": "1414359538988656944"
+              },
+              "loadingHandles": [
+                {
+                  "DepotPath": {
+                    "$type": "ResourcePath",
+                    "$storage": "string",
+                    "$value": "base\\animations\\npc\\generic_characters\\female_average\\interactive_scene\\generic_average_female_stand__2h_on_sides.anims"
+                  },
+                  "Flags": "Default"
+                },
+                {
+                  "DepotPath": {
+                    "$type": "ResourcePath",
+                    "$storage": "string",
+                    "$value": "base\\animations\\npc\\generic_characters\\female_average\\interactive_scene\\generic_average_female_stand_2h_on_sides.anims"
+                  },
+                  "Flags": "Default"
+                }
+              ],
+              "rig": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "base\\characters\\base_entities\\woman_base\\woman_base.rig"
+                },
+                "Flags": "Soft"
+              }
+            }
+          ],
+          "frezeAtTheLastFrame_UseWithCaution": 0,
+          "globalProps": [],
+          "idCounter": 38,
+          "inertializationDurationEnter": 0.5,
+          "inertializationDurationExitForced": 0.200000003,
+          "inertializationDurationExitNatural": 0.5,
+          "initialActions": [],
+          "initialCanUseExits": 1,
+          "itemsPolicy": "ItemPolicy_SpawnItemOnIdleChange, ItemPolicy_DespawnItemOnIdleChange, ItemPolicy_DespawnItemOnReaction",
+          "propsPlaySyncAnim": 0,
+          "rootEntry": {
+            "HandleId": "31",
+            "Data": {
+              "$type": "workSequence",
+              "category": "Any",
+              "disableAutoTransition": 0,
+              "flags": 0,
+              "id": {
+                "$type": "workWorkEntryId",
+                "id": 1
+              },
+              "idleAnim": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "None"
+              },
+              "list": [
+                {
+                  "HandleId": "32",
+                  "Data": {
+                    "$type": "workSequence",
+                    "category": "Any",
+                    "disableAutoTransition": 0,
+                    "flags": 0,
+                    "id": {
+                      "$type": "workWorkEntryId",
+                      "id": 2
+                    },
+                    "idleAnim": {
+                      "$type": "CName",
+                      "$storage": "string",
+                      "$value": "stand__2h_on_sides__01"
+                    },
+                    "list": [
+                      {
+                        "HandleId": "33",
+                        "Data": {
+                          "$type": "workRandomList",
+                          "disableAutoTransition": 0,
+                          "dontRepeatLastAnims": 1,
+                          "flags": 0,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 3
+                          },
+                          "idleAnim": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "None"
+                          },
+                          "list": [
+                            {
+                              "HandleId": "5",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 4
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "6",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__shuffle__01"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 5
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "7",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__shuffle__02"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 6
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "8",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__shuffle__03"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 7
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "9",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__shuffle__04"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 8
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "10",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__rub_hands__01"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 9
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "11",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__deep_breath__01"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 10
+                                }
+                              }
+                            },
+                            {
+                              "HandleId": "12",
+                              "Data": {
+                                "$type": "workAnimClip",
+                                "animName": {
+                                  "$type": "CName",
+                                  "$storage": "string",
+                                  "$value": "stand__2h_on_sides__01__scratch_neck__03"
+                                },
+                                "blendOutTime": 0.5,
+                                "flags": 2,
+                                "id": {
+                                  "$type": "workWorkEntryId",
+                                  "id": 11
+                                }
+                              }
+                            }
+                          ],
+                          "maxClips": 2,
+                          "minClips": 1,
+                          "pauseBetweenLength": 1.2,
+                          "pauseBlendOutTime": 0.5,
+                          "pauseLengthDeviation": 0.6,
+                          "weights": [
+                            0.24,
+                            0.14,
+                            0.14,
+                            0.12,
+                            0.12,
+                            0.09,
+                            0.08,
+                            0.07
+                          ]
+                        }
+                      }
+                    ],
+                    "loopInfinitely": 1,
+                    "previousLoopInfinitely": 1
+                  }
+                },
+                {
+                  "HandleId": "34",
+                  "Data": {
+                    "$type": "workRandomList",
+                    "disableAutoTransition": 0,
+                    "dontRepeatLastAnims": 1,
+                    "flags": 0,
+                    "id": {
+                      "$type": "workWorkEntryId",
+                      "id": 20
+                    },
+                    "idleAnim": {
+                      "$type": "CName",
+                      "$storage": "string",
+                      "$value": "stand__2h_on_sides__01"
+                    },
+                    "list": [
+                      {
+                        "HandleId": "13",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__talk__neutral__07"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 21
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "14",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__talk__neutral__08"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 22
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "15",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__2h_flick__03"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 23
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "16",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__2h_flick__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 24
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "17",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__rh_flick__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 25
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "18",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__rh_flick__02"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 26
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "19",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__rh_flick__03"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 27
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "20",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__describe_down__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 28
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "21",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__describe_right__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 29
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "22",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__this_or_that__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 30
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "23",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__yes__head__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 31
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "24",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__yes__sad__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 32
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "25",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__yes__sad__02"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 33
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "26",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__no__head__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 34
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "27",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__no__02"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 35
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "28",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__shrug__narrow__02"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 36
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "29",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__what__sad__02"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 37
+                          }
+                        }
+                      },
+                      {
+                        "HandleId": "30",
+                        "Data": {
+                          "$type": "workAnimClip",
+                          "animName": {
+                            "$type": "CName",
+                            "$storage": "string",
+                            "$value": "stand__2h_on_sides__01__me__01"
+                          },
+                          "blendOutTime": 0.5,
+                          "flags": 2,
+                          "id": {
+                            "$type": "workWorkEntryId",
+                            "id": 38
+                          }
+                        }
+                      }
+                    ],
+                    "maxClips": 1,
+                    "minClips": 1,
+                    "pauseBetweenLength": 0.0,
+                    "pauseBlendOutTime": 0.5,
+                    "pauseLengthDeviation": 0.0,
+                    "weights": [
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555,
+                      0.05555555555555555
+                    ]
+                  }
+                }
+              ],
+              "loopInfinitely": 1,
+              "previousLoopInfinitely": 1
+            }
+          },
+          "sequencesTimeLimit": 1,
+          "snapToTerrain": 0,
+          "statusEffectID": {
+            "$type": "TweakDBID",
+            "$storage": "uint64",
+            "$value": "0"
+          },
+          "tags": {
+            "$type": "redTagList",
+            "tags": []
+          },
+          "unmountBodyCarry": 1,
+          "useTimeLimitForSequences": 0,
+          "whitelistVisualTags": {
+            "$type": "redTagList",
+            "tags": []
+          },
+          "workspotRig": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "Flags": "Soft"
+          }
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

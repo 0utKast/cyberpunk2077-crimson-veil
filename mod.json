@@ -1,0 +1,34 @@
+{
+  "slug": "crimson_veil",
+  "archive_name": "CrimsonVeil",
+  "name_en": "Crimson Veil",
+  "name_es": "Velo Carmesi",
+  "author": "0utKast",
+  "version": "0.9.0",
+  "game": "cyberpunk2077",
+  "requires_phantom_liberty": false,
+  "license": "Open Permissions (Free to modify, reuse assets, translate, and redistribute with credit)",
+  "description_es": "Velo Carmesí v0.9.0: Versión bilingüe completa (Inglés y Español) con voces ElevenLabs y lip-sync JALI 30 FPS — Prólogo + Acto I pulido (Dr. Adrián Valdés en callejón oculto de Little China) + Acto II completo «Liturgia de Ceniza» (Convoy en Biotechnica Flats, Búnker geotérmico de Badlands, Lucía Reyes y Dra. Helena Solís «La Cantora», 3 finales jugables y epílogo en la azotea con recompensa icónica «Alba Carmesí»). 100 % Juego Base 2.x, 0 ep1.",
+  "description_en": "Crimson Veil v0.9.0: Full Bilingual Release (English & Spanish native ElevenLabs voice acting and 30 FPS JALI lip-sync) — Prologue + Polished Act I (Dr. Adrián Valdés in a hidden Little China back alley with blue Q&A choices ordered on top) + Complete Act II 'Liturgy of Ash' (Biotechnica Flats convoy clues, closed Badlands geothermal bunker, Lucía Reyes & Dr. Helena Solís 'The Cantor', 3 playable endings, and rooftop epilogue with iconic revolver reward). 100% Base Game 2.x, 0 ep1.",
+  "features": {
+    "tweaks": true,
+    "redscript": true,
+    "cet": true,
+    "archive": true,
+    "audioware": true
+  },
+  "frameworks_required": [
+    "RED4ext",
+    "ArchiveXL",
+    "TweakXL",
+    "Codeware",
+    "redscript",
+    "Audioware",
+    "Cyber Engine Tweaks"
+  ],
+  "nexus": {
+    "mod_id": null,
+    "mod_uid": null,
+    "file_id": null
+  }
+}

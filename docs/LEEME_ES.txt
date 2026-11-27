@@ -1,0 +1,45 @@
+Velo Carmesí / Crimson Veil (v0.9.0 — Prólogo + Acto I Pulido + Acto II Completo «Liturgia de Ceniza»)
+Autor: 0utKast
+Compatibilidad: Cyberpunk 2077 2.x — 100 % Juego Base (no requiere Phantom Liberty / cero dependencias ep1)
+Frameworks base requeridos: RED4ext, ArchiveXL, TweakXL, Codeware, redscript, Audioware, Cyber Engine Tweaks
+
+DESCRIPCION GENERAL:
+Velo Carmesí es una campaña narrativa de horror urbano y ciencia oscura para Cyberpunk 2077 protagonizada por Misty Olszewski (no combatiente) y V frente al culto biomédico «El Coro Pálido» y el compuesto experimental NOX-9.
+
+NOVEDADES v0.9.0 (ACTO II COMPLETO «LITURGIA DE CENIZA» + PULIDO FINAL ACTO I):
+- Nuevo Acto II completo tras el cierre del Acto I: holollamada puente de Misty y SMS recapitulativo que te llevan al convoy abatido de **Biotechnica Flats** (3 pistas forenses sobre el sacrificio de Mateo M-09 y el traslado de Lucía), al **Búnker geotérmico clausurado de las Badlands** (perímetro con centinelas y Emisor UV de 365 nm), encuentro cara a cara con **Lucía Reyes** (sujeto L-14) y confrontación en la **Cámara NOX-9B** contra la **Dra. Helena Solís («La Cantora»)**.
+- Dos nuevos personajes completos con apariencia única bloqueada, workspots propios, lip-sync JALI a 30 FPS y voces 100 % originales creadas con ElevenLabs Voice Design (bilingüe completo: 205 líneas en español + 205 en inglés y 4 SFX): **Lucía Reyes** (`cv_lucia`) y **Dra. Helena Solís** (`cv_solis`).
+- Tres finales jugables en la cámara del biorreactor (**Final A · El Segundo Suero**, **Final B · Pacto en la Penumbra** y **Final C · Alba de Sangre**) con escena de epílogo junto a Misty y Lucía en la azotea de Esoterica, recompensa de **+4.000 €$, +1.500 XP**, revólver icónico **«Alba Carmesí»** y Códice ampliado a **10 fragmentos**.
+- Pulido final del Acto I: el Dr. Adrián Valdés se traslada a un callejón oculto a cota de calle al sur de Little China coherente con su huida (y acceso GPS directo), el terminal criogénico del Muelle Oeste queda en el centro despejado de la explanada lejos de workspots ambientales y todos los cuadros de diálogo colocan siempre las preguntas informativas **azules arriba** y las decisiones de avance **amarillas abajo**.
+
+LO QUE INCLUYE EL PRÓLOGO («LA LUNA MANCHADA»):
+- Actualización v0.7.0 (Depósitos de Northside y Debrief Final): mesa biomédica de campaña junto al santuario con maletines criogénicos y el recibo rasgado «Sujeto L-14» (desaparecen al recogerlos), centinelas del Coro Pálido presentes en guardia desde que llegas (permite iniciar el asalto sobrecargando el Emisor UV con destello violeta real de 24 m), biología diurna conectada y recompensa final en azotea entregada al terminar el último diálogo de Misty.
+- Inicio mediante holollamada nativa entrante de Misty (`cv_misty` con su avatar oficial en el HUD del teléfono): varias amigas y vecinos del barrio han desaparecido, se siente vigilada y ha aparecido un altar improvisado con seis cirios húmedos y una sola carta del Tarot manchada frente a la puerta trasera de *Esoterica*.
+- Encuentro en el callejón trasero de *Esoterica* (entidad separada del encuentro nocturno de la azotea): Misty te advierte que no toques la escena sin escanearla antes.
+- Escaneo Kiroshi y revelación de **Lucía Reyes**: la mancha contiene hemoglobina sintética + estabilizador experimental + porfirinas reactivas; las dos muescas de uña en La Luna identifican el código secreto de Lucía (*«Estoy despierta en la oscuridad, pero no puedo salir a la luz»*).
+- Ronda de preguntas en el callejón sobre Mateo (técnico del muelle de Northside desaparecido tres días antes), la vigilancia nocturna del furgón negro y lo que Lucía alcanzó a contar sobre **El Coro Pálido**.
+- Cita a las **22:00** en la azotea de *Esoterica*, lectura bajo lámpara UV de 365 nm, incursión en los depósitos de Northside contra escolta Vampyre y Emisor UV, recuperación del vial vacío NOX-9 y el recibo rasgado (*Sujeto L-14, Lucía sigue viva*), y cierre en azotea con **+1.200 €$, +500 XP, pistola icónica «Velo Silente»** y Códice de 4 expedientes en 4K.
+- Nota: el antiguo prototipo del Acto I ha sido guardado en `archive_v1_drawer/` mientras se reconstruye siguiendo la nueva Biblia Literaria (`docs/HISTORIA_COMPLETA_VELO_CARMESI.md`).
+
+NOTA TRANSPARENTE SOBRE LAS VOCES:
+- La versión v0.9.0 incluye doblaje bilingüe completo nativo en español (205 líneas) e inglés (205 líneas) más 4 efectos de sonido personalizados (414 archivos de audio en total), con cambio automático según el idioma configurado en Cyberpunk 2077.
+- Por respeto estricto a los derechos de autor y a los actores originales del juego, este mod NO extrae ni clona audio de CD Projekt RED. Misty y los nuevos personajes cuentan con voces sintéticas 100 % originales creadas desde cero mediante ElevenLabs Voice Design.
+
+COMO EMPEZAR:
+- Comienza automáticamente con una holollamada entrante de Misty al alcanzar el Acto 2 (tras completar «Jugando con el tiempo») y tener al menos Nivel 10 (fuera de combate y alejado de *Misty's Esoterica*).
+- También puedes iniciarla manualmente en cualquier momento desde el panel opcional de Cyber Engine Tweaks (CET).
+
+INSTALACION:
+1. Instala por separado los frameworks open-source requeridos (RED4ext, ArchiveXL, TweakXL, Codeware, redscript, Audioware y Cyber Engine Tweaks — nunca van incluidos en este ZIP).
+2. Extrae este paquete en la carpeta raíz de Cyberpunk 2077.
+
+PERMISOS Y CREDITOS:
+Permisos 100 % Abiertos (Open Permissions / MIT): puedes modificar, reutilizar activos, traducir y redistribuir este mod libremente manteniendo los créditos.
+Construido con herramientas open-source de la comunidad:
+- WolvenKit & WolvenKit CLI (WolvenKit Team & REDModding Community)
+- RED4ext (WopsS & Contributors)
+- ArchiveXL, TweakXL & Codeware (psiberx)
+- redscript & redscript-cli (jac3km4)
+- Cyber Engine Tweaks (yamashi, maximegmd & Contributors)
+- Audioware (cyb3rpsych0s1s / Roms1383)
+- Voces originales sintéticas y efectos SFX creados con ElevenLabs Voice Design / TTS y masterizados con FFmpeg.

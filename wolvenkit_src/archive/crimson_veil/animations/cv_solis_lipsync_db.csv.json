@@ -1,0 +1,205 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-26T15:53:48.0936176Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\animations\\cv_solis_lipsync_db.csv"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "C2dArray",
+      "compiledData": [
+        [
+          "1",
+          "1",
+          "cv_a2_solis_intro",
+          "undefined",
+          "cv_a2_solis_intro"
+        ],
+        [
+          "2",
+          "1",
+          "cv_a2_solis_intro_en",
+          "undefined",
+          "cv_a2_solis_intro_en"
+        ],
+        [
+          "1",
+          "2",
+          "cv_a2_solis_a1",
+          "undefined",
+          "cv_a2_solis_a1"
+        ],
+        [
+          "2",
+          "2",
+          "cv_a2_solis_a1_en",
+          "undefined",
+          "cv_a2_solis_a1_en"
+        ],
+        [
+          "1",
+          "3",
+          "cv_a2_solis_a2",
+          "undefined",
+          "cv_a2_solis_a2"
+        ],
+        [
+          "2",
+          "3",
+          "cv_a2_solis_a2_en",
+          "undefined",
+          "cv_a2_solis_a2_en"
+        ],
+        [
+          "1",
+          "4",
+          "cv_a2_solis_a3",
+          "undefined",
+          "cv_a2_solis_a3"
+        ],
+        [
+          "2",
+          "4",
+          "cv_a2_solis_a3_en",
+          "undefined",
+          "cv_a2_solis_a3_en"
+        ],
+        [
+          "1",
+          "5",
+          "cv_a2_solis_combat",
+          "undefined",
+          "cv_a2_solis_combat"
+        ],
+        [
+          "2",
+          "5",
+          "cv_a2_solis_combat_en",
+          "undefined",
+          "cv_a2_solis_combat_en"
+        ],
+        [
+          "1",
+          "6",
+          "cv_a2_solis_pact",
+          "undefined",
+          "cv_a2_solis_pact"
+        ],
+        [
+          "2",
+          "6",
+          "cv_a2_solis_pact_en",
+          "undefined",
+          "cv_a2_solis_pact_en"
+        ]
+      ],
+      "compiledHeaders": [
+        "Bank",
+        "Clip",
+        "AnimationName",
+        "streamingContext",
+        "FallbackAnimationName"
+      ],
+      "cookingPlatform": "PLATFORM_PC",
+      "data": [
+        [
+          "1",
+          "1",
+          "cv_a2_solis_intro",
+          "undefined",
+          "cv_a2_solis_intro"
+        ],
+        [
+          "2",
+          "1",
+          "cv_a2_solis_intro_en",
+          "undefined",
+          "cv_a2_solis_intro_en"
+        ],
+        [
+          "1",
+          "2",
+          "cv_a2_solis_a1",
+          "undefined",
+          "cv_a2_solis_a1"
+        ],
+        [
+          "2",
+          "2",
+          "cv_a2_solis_a1_en",
+          "undefined",
+          "cv_a2_solis_a1_en"
+        ],
+        [
+          "1",
+          "3",
+          "cv_a2_solis_a2",
+          "undefined",
+          "cv_a2_solis_a2"
+        ],
+        [
+          "2",
+          "3",
+          "cv_a2_solis_a2_en",
+          "undefined",
+          "cv_a2_solis_a2_en"
+        ],
+        [
+          "1",
+          "4",
+          "cv_a2_solis_a3",
+          "undefined",
+          "cv_a2_solis_a3"
+        ],
+        [
+          "2",
+          "4",
+          "cv_a2_solis_a3_en",
+          "undefined",
+          "cv_a2_solis_a3_en"
+        ],
+        [
+          "1",
+          "5",
+          "cv_a2_solis_combat",
+          "undefined",
+          "cv_a2_solis_combat"
+        ],
+        [
+          "2",
+          "5",
+          "cv_a2_solis_combat_en",
+          "undefined",
+          "cv_a2_solis_combat_en"
+        ],
+        [
+          "1",
+          "6",
+          "cv_a2_solis_pact",
+          "undefined",
+          "cv_a2_solis_pact"
+        ],
+        [
+          "2",
+          "6",
+          "cv_a2_solis_pact_en",
+          "undefined",
+          "cv_a2_solis_pact_en"
+        ]
+      ],
+      "headers": [
+        "Bank",
+        "Clip",
+        "AnimationName",
+        "streamingContext",
+        "FallbackAnimationName"
+      ]
+    },
+    "EmbeddedFiles": []
+  }
+}

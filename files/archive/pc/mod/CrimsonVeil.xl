@@ -1,0 +1,8 @@
+# Crimson Veil — ArchiveXL manifest (100% Base Game 2.x / 0 ep1)
+journal:
+  - crimson_veil\journal\crimson_veil.journal
+localization:
+  onscreens:
+    en-us: crimson_veil\localization\en-us.json
+    es-es: crimson_veil\localization\es-es.json
+    es-mx: crimson_veil\localization\es-es.json

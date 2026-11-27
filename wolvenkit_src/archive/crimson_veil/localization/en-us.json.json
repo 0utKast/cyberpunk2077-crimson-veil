@@ -1,0 +1,3540 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-24T08:00:00.0000000Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\localization\\en-us.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceOnScreenEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_misty_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Stalker",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Night Acolyte",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Stained Tarot Card — The Blood Moon",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_moon_card_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "An Arcane Moon card left face-up beside funeral candles in the back alley behind Misty's Esoterica, stained with dark synthetic hemoglobin.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_moon_card_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Synthetic Plasma Vial — Pale Chorus",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_plasma_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Chilled portable dialysis vial recovered from the Northside blood shrine. Shows high-density porphyrin photosensitizers triggered by 365 nm UV.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_plasma_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Fang",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_fang_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Clandestine throwing neurotoxin dagger balanced for nocturnal Pale Chorus initiates. Rewired by V for anti-regeneration strikes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_fang_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "PALE FANG: +28 Chemical/Neurotoxin damage, +18% Crit Chance, and +25% Crit Damage.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_fang_ability"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Veil: Blood Beneath the Neon",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_p0_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inspect the crimson omen altar in the back alley behind Misty's Esoterica (rooftop access).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "A makeshift candlelit altar with a chemically stained Moon Tarot card has appeared in the back courtyard behind Misty's Esoterica, on the walkway toward Vik's alley and the rooftop access. Inspect the crimson altar (outside the shop) and ascend with Misty at dusk.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Speak with Misty on the night rooftop and perform the Three-Arcana spread.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Overlooking Little China at 22:00, talk with Misty about The Pale Chorus and decode the Three-Arcana spread through either a Forensic or Symbolic lens.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investigate the Northside Oilfields blood shrine and overload the UV Emitter against The Pale Chorus.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The ritual coordinates point to an abandoned oil derrick lot in Northside. Neutralize the Pale Chorus scouts—use the violet UV Emitter nearby to halt their dark blood regeneration—and collect the plasma vial.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Return to Misty on the Little China rooftop with the synthetic plasma sample.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_p0_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bring the synthetic plasma dialysis sample back to Misty on her rooftop (or ascend via the back-alley altar behind Misty's Esoterica) to close this initial trace.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You examined Misty's stained Moon card, decoded the Three-Arcana spread on the Little China rooftop, broke the Pale Chorus ambush at Northside Oilfields with the UV Emitter, and returned with synthetic plasma data (+1,200 E$ & Pale Fang).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_p0_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Arcana Codex — The Blood Moon & The Inverted Hanged Man",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_tarot_p0_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CRYPTIC PATTERN MAPPING // MISTY'S ESOTERICA\n\nI. THE BLOOD MOON: Nocturnal activity window (22:00-04:00). Pale Chorus operatives inject erythropoietin derivatives before sundown.\nII. INVERTED HANGED MAN: Suspended hemodialysis cycles inside abandoned industrial rigs.\nIII. THE TOWER: Structural collapse of subdermal repair nanites when exposed to high-intensity UV radiation.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_tarot_p0_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Clinical Note — Synthetic Hemodialysis & UV Porphyria",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_porphyria_p0_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "PHOTOTOXIC VULNERABILITY REPORT // WATSON RIPPER-AUDIT\n\nVampyre fang injectors combined with unlicensed nocturnal blood exchange leave free-floating synthetic porphyrins in superficial capillaries. Under darkness, repair nanites boost cellular closure (+2.5%/s). Direct exposure to 365 nm UV triggers oxidative photolysis: instant blindness, cyberware micro-arcs, and total suppression of blood regeneration.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_porphyria_p0_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Field Dossier — The Pale Chorus (Northside)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_chorus_p0_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "RECOVERED FIELD TAG // NORTHSIDE OILFIELDS\n\n'Chorus Protocol — Cell Zero': Disillusioned Exotics biosculptors and black-clinic techs masquerading synthetic hematology as an occult coven. Symbolic Tarot tags mark every drop site to conceal telemetry under superstition—Project NOX-9 feeds data back through abandoned Watson relays.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_chorus_p0_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Back Alley behind Misty's Esoterica: Crimson Omen Altar",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_esoterica"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty's Rooftop Sanctuary",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Back Alley behind Misty's Esoterica: Ascend to Misty's Rooftop",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_return_esoterica"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Northside Oilfields: Blood Shrine",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_oilfields"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Industrial UV Emitter (Overload)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_uv_emitter"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CRIMSON VEIL] A crimson omen altar awaits in the back alley behind Misty's Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_start"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LITTLE CHINA · 22:00] Misty awaits beside the Tarot table",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_rooftop_enter"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TAROT DECODED] Northside Oilfields coordinates marked on map",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_oilfields_unlocked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NORTHSIDE] Inspect the Blood Shrine to analyze The Pale Chorus ritual",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_oil_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[AMBUSH · THE PALE CHORUS] Vampyre acolytes attacking! Overload the nearby UV Emitter to halt their regen",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_oil_ambush"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[UV EMITTER ARMED] 365 nm capacitor charged — Inspect the Blood Shrine and trigger it once they attack",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[UV EMITTER] Synthetic porphyria exposed — Vampyre regen halted (14 s)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_overload"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[UV EMITTER] 365 nm pulse fired — Lure the Vampyres closer to the tower (24 m range)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_miss"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[UV EMITTER] Capacitor recharging — ready in ",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_cooling_pre"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[COMBAT ACTIVE] Defeat the Pale Chorus acolytes (use the UV Emitter) before collecting the plasma sample",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_shrine_combat_lock"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TACTICAL] Enemy dark-blood regeneration detected — Overload the UV Emitter!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_hint"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CORO PÁLIDO] Threats neutralized — Collect the plasma vial at the Blood Shrine",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sample_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PLASMA SECURED] Return with Misty to the Little China rooftop",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sample_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CRIMSON VEIL] Phase 0 complete (+1,200 E$ & Pale Fang)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_p0_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Omen Altar",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_esoterica_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Meet Misty on the rooftop (22:00 · Night)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ascend_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "What is this stained card beside the candles?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_inspect_card"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Open Arcana Codex (Journal Shards)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_open_codex"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski — Rooftop Sanctuary",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_misty_roof_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Who exactly are 'The Pale Chorus'?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ask_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Why do they recoil from ultraviolet light?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ask_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Perform the Three-Arcana Tarot spread",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_start_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Head back down to Misty's Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_descend_esoterica"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hand over the synthetic plasma vial to Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_deliver_plasma"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ride straight out to Northside Oilfields (Night)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_fast_travel_oil"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Industrial UV Spotlight Tower",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inspect industrial UV Emitter tower",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_uv_check"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Overload UV Emitter (365 nm Phototoxic Burst)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_uv_trigger"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "UV Capacitor Recharging",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_uv_cooling"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Northside Blood Shrine",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_shrine_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Examine the Blood Shrine",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_inspect_shrine"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Blood Shrine (Defeat The Pale Chorus)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_shrine_combat_lock"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Collect synthetic plasma dialysis vial",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_take_plasma"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CRIMSON VEIL // ARCANA SPREAD & FORENSIC CODEX",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ESOTERIC SYMBOLISM MEETS CLANDESTINE HEMATOLOGY · MISTY'S ROOFTOP SANCTUARY",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_subtitle"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "THREE-ARCANA SPREAD",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_tab_spread"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "FIELD CODEX [SHARDS]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_tab_codex"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LENS: FORENSIC [REASON]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_lens_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LENS: SYMBOLIC [MISTY]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_lens_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CONFIRM SPREAD & TRACK NORTHSIDE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_confirm"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CLOSE [ESC]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_close"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Select an Arcana card to focus your trace",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_pick_hint"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I · THE MOON",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOCTURNAL SECRET & PORPHYRINS",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_tag"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "FORENSIC READING: Synthetic hemoglobin saturated with reactive porphyrins. Anyone who bled onto The Moon would suffer severe internal burns in direct sunlight.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "MISTY'S READING: Two fingernail notches on the lower corner — 'Awake in the dark, unable to face the light.' Lucía already carried that nocturnal secret on her skin.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card1_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "II · INVERTED HANGED MAN",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "FALSE VOW & NOCTURNAL DIALYSIS",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_tag"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "FORENSIC READING: Clandestine night clinics offer pulmonary therapy that swaps natural blood for NOX-9 dialysis, binding patients to life after sundown.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "MISTY'S READING: The Hanged Man inverted is a false vow of rebirth through silent sacrifice: they aren't just dodging illness, they're searching for somewhere to belong.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card2_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "III · THE TOWER",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "PETROCHEMICAL WAX · NORTHSIDE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_tag"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "FORENSIC READING: Turning The Tower over reveals oily petrochemical grit pressed into candle wax from the abandoned Northside oilfields. 365 nm UV light shatters their blood.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "MISTY'S READING: The Tower is the inevitable fall when a borrowed salvation collapses. Under pure ultraviolet light, The Pale Chorus cannot hold its shadow.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_card3_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LOCKED DOSSIER] Advance Phase 0 investigation to decrypt.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_locked_shard"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Acolyte",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_vampyre"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Someone left that stained Moon card before dawn, V. Wait until nightfall and meet me upstairs on the roof.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_esoterica_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Night City breathes easier up here. Thank you for coming up once the neon drowned out the sun, V.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_rooftop_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "That wasn't ordinary ink on the Moon card—it smelled like cold copper, dialysis fluid, and fear dressed as ritual.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_rooftop_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Who are 'The Pale Chorus' exactly—chromed street ghouls or some new corpo cult?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_ask_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Former Exotics biosculptors and black-clinic dropouts. They inject cheap Vampyre fangs and synthetic blood to play immortal.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_ans_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Wait—my optics tagged UV porphyrin warnings on that card. Are they actually allergic to sunlight?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_ask_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "It's broken chemistry, not magic. Their dirty dialysis burns violently under harsh ultraviolet light—remember that if you cross them.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_ans_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sharp and clinical—just like a solo. Check the industrial oilfields up in Northside and bring me one clean plasma sample.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_tarot_forensic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You still read between the lines of this city. Follow that crimson thread into the Northside Oilfields—don't drop your guard.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_tarot_symbolic"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Abandoned derricks, blood drip on rust, and a heavy UV floodlight rigged right beside it. Stay sharp.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_oilfields_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The night belongs to the Chorus, outsider! Bleed into the dust or kneel before the Crimson Veil!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_vampyre_ambush"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Damn it—their chrome is knitting flesh back together in the dark! Overload that UV Emitter!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_uv_hint"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Synthetic porphyrin-plasma sealed. Misty needs to see this telemetry back up on her Little China roof.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_v_sample_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Look at those porphyrin readings... It's worse than superstition. Someone is testing Project NOX-9 across Watson's fringes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_debrief_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Take this modified blade and your Eddies, V. When the shadows gather thicker in the warehouses, I'll call you back up.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_p0_misty_debrief_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_valdes_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Pier Sentinel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_gatekeeper_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Blood-Blade",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_cell_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Cryo-Guard",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_vampyre_cell_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_valdes"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Sentinel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_gatekeeper"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Frequency Cipher",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_cipher_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Nocturnal shift pass-phrase provided by Dr. Adrián Valdés: 'The shadow drinks before dawn.' Lets V bluff past the west pier checkpoint.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_cipher_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Project NOX-9 Manifest — Badlands Link",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_manifest_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Encrypted cryo-shipping ledger pulled from the west pier terminal. Ties Biotechnica porphyrin batches to a desert facility and tags Misty's Esoterica as 'Nexus of Silence'.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_manifest_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Silent Veil",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_veil_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Precision suppressed Nue pistol modified with porphyrin-reactive neurotoxin rounds. Crafted for quiet nocturnal strikes.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_veil_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "SILENT VEIL: +35 Chemical/Toxin damage, +22% Crit Chance, +35% Headshot Multiplier, and faster reload speed.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_veil_ability"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Veil — Act I: Pulse of Batch NOX-9",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_a1_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V — Vik's contact matched the NOX-9-K4 batch to retired Biotechnica hematologist Dr. Adrián Valdés. A live telemetry ping from that batch just triggered at an abandoned Kabuki Canal dock. Check the dumped cryo gear before the Chorus scrubs the trail.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_sms_a1_call_recap"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investigate the NOX-9-K4 telemetry ping at the Kabuki Canal dock (3 clues)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vik's Biotechnica patent lookup tied the Northside NOX-9-K4 batch to former researcher Dr. Adrián Valdés, and a live telemetry ping just hit the Kabuki Canal promenade. Inspect the discarded cryo cooler, the inverted Tarot marker, and the relay pad to find where Valdés is hiding.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Find and question Dr. Adrián Valdés in Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Kabuki relay triangulates to a hidden street-level back alley in southern Little China, where The Pale Chorus left a death threat. Confront Dr. Adrián Valdés to learn his role in NOX-9, the truth about Dr. Helena Solís ('The Cantor') and her cult, and where Lucía and Mateo were moved.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Track the NOX-9 transfer manifest at Watson's West Pier (cipher: 'The shadow drinks before dawn')",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Valdés revealed that Helena Solís ('The Cantor') weaponized his NOX-9 lung serum into The Pale Chorus, and routed Lucía Reyes and Mateo's manifests through the West Pier Cryogenic Checkpoint in Watson before shipping to the Badlands (NOX-9B). Take Valdés's encrypted cipher shard to breach or bypass the checkpoint.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bring the NOX-9 Manifest back to Misty on her Little China rooftop",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a1_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The manifest flags Misty's Esoterica as 'Nexus of Silence' and points to a closed Biotechnica bunker in the Badlands. Head up to Misty's rooftop right away.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You uncovered the full truth behind Batch NOX-9: ex-Biotechnica researcher Dr. Adrián Valdés created the serum six years ago, and Dr. Helena Solís ('The Cantor') hijacked it to run The Pale Chorus. The West Pier manifest confirms Lucía Reyes (L-14) and Mateo (M-09) were moved out of Watson to a sealed Biotechnica bunker in the Badlands, where Solís is developing porphyrin-free NOX-9B to eliminate their weakness to UV light—and flagged Misty's Esoterica as 'Nexus of Silence'. Misty and Vik will fortify the shop and triangulate the bunker entrance ahead of Act II.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a1_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Kabuki Trace — NOX-9-K4 Batch & Valdés Threat",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_kabuki_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "KABUKI CANAL DOCK // FORENSIC TRACE\\n- Cryo Cooler: Scraped Biotechnica seals, empty NOX-9-K4 vials, dosing tags for Subject L-14 (Lucía Reyes) and Subject M-09 (Mateo).\\n- Inverted High Priestess: Stapled with the revoked medical license of ex-Biotechnica hematologist Dr. Adrián Valdés—left as a warning by The Pale Chorus.\\n- Telemetry Relay: Active return beacon pointing straight to Dr. Valdés's hideout in Little China.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_kabuki_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Valdés Testimony — NOX-9, Helena Solís & The Cult",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_valdes_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "LITTLE CHINA // DR. ADRIÁN VALDÉS INTERROGATION\\n- Origin of NOX-9: Designed 6 years ago to treat smog-damaged workers without corpo cyberware; causes fatal porphyrin phototoxicity under sunlight or 365 nm UV. Fired by Biotechnica, Valdés sold his patents to Dr. Helena Solís.\\n- The Pale Chorus ('The Cantor'): Solís weaponized NOX-9 as a nocturnal cult—luring youth with free night clinics, creating weekly dialysis dependency, and using fear of sunrise as control.\\n- Complicity & Break: Valdés mixed stabilizers out of guilt and fear until he learned they abduct patients who try to leave.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_valdes_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Valdés Cipher Shard — West Pier & NOX-9B Lead",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_pier_lead_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "ENCRYPTED SHARD HANDOFF // NEXT OBJECTIVE\\n- Transfer Route: Newly awakened subjects (Lucía Reyes L-14) and Mateo's logs route through the West Pier Cryogenic Checkpoint in Watson before shipment to Helena Solís's Badlands bunker.\\n- Night-Shift Passphrase: 'The shadow drinks before dawn' (grants stealth bypass past the pier sentry and twin 365 nm UV towers).\\n- Second-Generation Serum: Solís claims to have purified a porphyrin-free formula called NOX-9B at her Badlands core lab.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a1_pier_lead_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Kabuki South Canal: Cryogenic Bio-Trace Dump",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_kabuki"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Little China (Hidden Alley): Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_valdes"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Northside West Docks: Pale Chorus Cryo Outpost",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_waterfront"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty's Esoterica Alley: Report NOX-9 Manifest to Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a1_return_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACT I · PULSE OF NOX-9] Live NOX-9-K4 telemetry located at Kabuki Canal",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_start"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE 1/3] NOX-9-K4 flasks for Subject L-14 (Lucía) & M-09 (Mateo)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clue_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE 2/3] Inverted High Priestess — Chorus threat to Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clue_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE 3/3] Relay beacon locked to Dr. Valdés's Little China hideout",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clue_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE TRIANGULATED] Telemetry points to Dr. Adrián Valdés in the Hidden Alley (Little China)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_clues_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LEADS SECURED] Cipher 'The shadow drinks before dawn', West Pier & NOX-9B dossier in Codex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_valdes_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[INFILTRACIÓN LIMPIA] Centinela engañado — Accede al terminal criogénico del fondo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_stealth_ok"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CELL ALERTED] Use the two pier UV towers to halt their regeneration!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_pier_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LUZ DIURNA] La radiación solar debilita la porfirina del Coro Pálido (sin regeneración)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_daylight"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ZONA DESPEJADA] Descarga el Manifiesto NOX-9 en el terminal del fondo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_manifest_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[MANIFIESTO NOX-9] Misty corre peligro — Vuelve rápido a su azotea en Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_manifest_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACT I COMPLETE] +2,500 E$, +900 XP — Next Chapter: Badlands Bunker & NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACCESO BLOQUEADO] Usa el santo y seña con el centinela o abate a la célula del muelle",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_vault_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cryogenic Blood Cooler",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a1_cooler"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inspect cryogenic blood flasks",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a1_inspect_cooler"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inverted Tarot Marker",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a1_shrine"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inspect inverted High Priestess card",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a1_inspect_shrine"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica Telemetry Relay",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a1_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Decrypt Little China coordinate trace",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a1_inspect_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Adrián Valdés — Ex-Biotechnica Hematologist",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_valdes_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Question Dr. Adrián Valdés",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_valdes"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "What is your role in NOX-9? Why is your Biotechnica patent on it?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_ask_role"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Who is The Cantor and what is your relationship with The Pale Chorus?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_ask_sect"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Where did they move Lucía Reyes and Mateo from Northside?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_ask_leads"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Empathy] You can still help pull them out. Give me the cipher and your files.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Pressure] Hand over the pier cipher and your Solís notes right now.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I'm leaving for now.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_valdes_leave"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Sentinel — West Pier",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_gate_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Approach checkpoint sentinel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_gate"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Chorus Cipher] \"The shadow drinks before dawn.\"",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_gate_bluff"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Your cult ends here on this pier.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_gate_fight"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "UV Tower West (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_west"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "UV Tower East (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_east"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9 Cryo Manifest Terminal",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_vault_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Download Badlands NOX-9 Shipping Manifest",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_take_manifest"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Give the NOX-9 Manifest to Misty (Act I Finale)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_deliver_manifest"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Clinical waste dumped along Kabuki creek... Better inspect every trace carefully without raising alarms yet.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_kabuki_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "A chilled cooler with scraped-off Biotechnica seals... Packed with synthetic porphyrin blood stabilizers.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_clue_blood"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "An inverted High Priestess pinned between candles. Scrawled on the back is a revoked medic license in Little China.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_clue_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "This relay link is still warm—it triangulates to a tucked-away alley in Little China. Doctor Adrián Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_clue_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Quiet—keep your voice down and listen! If the Pale Chorus sent you, I'd be dead already. What do you want?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_intro_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I'm tracking Project NOX-9, Doc. Tell me what they're pumping into their veins and how to shut it down.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_ask_nox9"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9 started as a Biotechnica low-light trauma serum. Street zealots corrupted it: cellular regen in darkness, lethal photolysis at 365 nm UV.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_ans_nox9"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Then what's with all the Tarot theater? They're leaving stained cards behind a friend's shop in Little China.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_ask_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "That part defies my charts... Under deep dialysis they sketch Arcana and hear a choir humming from an old Badlands bunker. The Cantor claims her shop tunes to it.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_ans_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Thank you for listening instead of pulling a trigger. Use the pass phrase 'The shadow drinks before dawn' at the west pier and pull their manifest.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_give_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Enough—I'll give you everything! They guard the west pier beneath two UV towers. Their pass phrase is 'The shadow drinks before dawn'. Just let me vanish.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_valdes_give_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Got their cipher and the west waterfront coordinates. Time to see what The Pale Chorus is shipping.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_valdes_depart"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Waterfront cryo checkpoint with twin UV towers flanking the dock... I can bluff past the sentry or burn them down.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_pier_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Halt right there, warmblood. Nobody steps onto the cryo pier without speaking The Cantor's veil.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_gate_challenge"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The shadow drinks before dawn. Doctor Valdés sent me to verify the night-shift cryo manifest.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_gate_bluff"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "May the cold keep you, initiate. The far terminal is unlocked for handoff—don't linger near the vats.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_gate_bluff_ok"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Intruder on the pier! Seal the vats and drain every last drop from their veins!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_gate_hostile"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Damn it... The manifest points out to the Badlands and tags Misty's shop as 'Nexus of Silence'. Gotta warn her fast.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_v_manifest_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I felt you return in stillness, V. You pried their secrets loose without spilling extra blood on the dock.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_debrief_stealth"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I saw violet arc light tear through the harbor fog, V. I'm just glad you're standing safe under my lanterns again.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_debrief_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "This manifest links Biotechnica straight to The Devil and Death. Take this suppressed pistol and your Eddies for what's ahead.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_debrief_badlands"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Wait... those dreams aren't pure chemistry after all. If The Cantor comes for my shop, our path leads straight into the Badlands.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_misty_cliffhanger"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Veil: The Stained Moon",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_r2_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty's Esoterica — Urgent Notice",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_conv_misty_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, thanks for picking up. Don't touch the card at the back alley door without scanning it first. I'm waiting right beside the candles behind Esoterica.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_sms_r2_call_recap"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Go to Esoterica's back alley",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty called in panic after finding an eerie shrine with six damp wax candles and a darkly stained Tarot card outside Esoterica's back entrance in Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Scan the stained card and speak with Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Use your Kiroshi optics to analyze the dark stain on the Moon Tarot card and ask Misty everything she knows about Lucía, Mateo, and the surveillance outside her shop.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Meet Misty on the rooftop at 22:00",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty asked you to wait until nightfall and meet her on Esoterica's rooftop away from prying eyes so she can show you everything Lucía told her before vanishing.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Infiltrate the Northside oilfields shrine",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Oily petrochemical grit trapped in candle wax along The Tower's edge points to an industrial shrine in the Northside oilfields. Overload the UV emitter and defeat The Pale Chorus guards.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Search the Northside altar for clues on Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "With the sentries down, search the medical crates beside the altar for physical proof of where Lucía Reyes was taken.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Return to Misty on the rooftop with the proof",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_r2_06"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You found an empty NOX-9 plasma vial and a torn transport slip proving Lucía is alive. Bring the evidence back to Misty on Esoterica's rooftop.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_06"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Prologue complete. Lucía Reyes is alive in the hands of The Pale Chorus, supplied with experimental NOX-9 plasma. Next leads point toward the batch's creator, Dr. Adrián Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_r2_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Esoterica Alley (Misty)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_alley"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Esoterica Rooftop (22:00)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Northside Oilfields (Pale Chorus)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_oilfields"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Esoterica Rooftop (Return to Misty)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_r2_debrief"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Personal File — Lucía Reyes & The Moon Code",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_lucia_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "KABUKI // MISTY'S ESOTERICA BACK ALLEY\\nSubject: Lucía Reyes (23), green coat, sweeps Esoterica's storefront and lives at a Kabuki boarding house.\\nStatus: Missing for three nights after accepting free night-shift pulmonary therapy.\\nSecret Tarot Sign: Two fingernail notches on the bottom-left corner of The Moon — 'Awake in the dark, unable to face the light.'\\nNorthside Slip: 'Subject L-14 — Transfer before pier shift change.' Confirms Lucía is alive.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_lucia_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Kiroshi Forensics — Synthetic Hemoglobin & NOX-9 Porphyrins",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_porphyria_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "BIOTECHNICA / UNREGISTERED BATCH NOX-9\\nSample: Dark stain lifted from The Moon card outside Esoterica.\\nComposition: Synthetic hemoglobin carrier mixed with experimental hematological stabilizer and extreme reactive porphyrin concentration.\\nClinical Effect: Sustains oxygenation at night, yet triggers severe internal burns and cellular necrosis under 365 nm UV or direct sunlight.\\nRecovered Hardware: Custom pistol 'Velo Silente' loaded with cold-light ammunition.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_porphyria_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Watson Disappearances — Mateo & Street Surveillance",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_missing_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NEIGHBORHOOD WITNESS NOTES // MISTY OLSZEWSKI\\n- Mateo (Northside dock technician): Vanished three days before Lucía after avoiding sunlight and demanding his clinical dosage file.\\n- Two unattached neighborhood youths disappeared under similar nighttime fever symptoms.\\n- Street Surveillance: An unmarked black van idled opposite Esoterica two nights in a row before someone disabled the alley lamps to place the candles.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_missing_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Field Report — Northside Oilfields & The Pale Chorus",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_northside_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NORTHSIDE INDUSTRIAL SHRINE // PROLOGUE TRAIL\\nRooftop Spread: The Moon, Inverted Hanged Man, and The Tower laid alongside Lucía's notes about The Pale Chorus.\\nWax Trace on The Tower: Oily petrochemical grit lifted from the wax edge points directly to the abandoned Northside oilfields.\\nHostile Group: 'The Pale Chorus' — armed night sentries using UV emitters to test and guard transfers.\\nNext Lead: Trace batch signature NOX-9 to locate the original researcher and intercept Lucía's transfer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_r2_northside_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inspect stained Tarot & talk to Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_int_r2_alley"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ask Misty about the missing people",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_int_r2_alley_qa"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Search shrine crates (NOX-9 & slip)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_int_r2_evidence"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Investigate] Who else vanished before Lucía?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_missing"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Investigate] Why do you think someone is watching you?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_watched"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Investigate] Did Lucía name a clinic or group?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_chorus"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Stay out of sight — let's meet on the rooftop at 22:00.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_rooftop_now"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "It isn't magic or a curse, Misty — it's dirty chemistry.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_roof_chem"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "How do these three cards connect to Lucía's notebooks?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_roof_cards"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Wait — turn The Tower over and check the wax on the edge.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_choice_r2_roof_tower"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[HOLOCALL] Misty needs help at Esoterica's back alley",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_call"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[KIROSHI FORENSICS] Synthetic NOX-9 porphyrins — The Moon belongs to Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_scan_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NIGHTFALL 22:00] Head up to Esoterica's rooftop when night falls",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_rooftop_wait"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PROOF FOUND] Lucía is alive (Subject L-14) — Return to Misty on the rooftop",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_proof_taken"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PROLOGUE COMPLETE] +1.200 €$ · +500 XP · 'Velo Silente' · Codex Updated",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_prologue_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V? Thank God you picked up. I need you at Esoterica's back alley as soon as you can.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_misty_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty? You sound shaken. Did something happen at the shop?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_v_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Friends and neighbors have been vanishing for days without a trace, and I feel like someone is watching me. This morning I found a strange shrine outside my door: half a dozen damp melted candles and a single Tarot card covered in a dark stain.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_misty_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Don't let anyone inside and stay where you can be seen. I'm heading to Watson right now.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_call_v_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Don't touch it yet, V. Scan it first. They left it here at night, before dawn, without anyone seeing who it was.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_warn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "That's not normal blood, Misty. It's synthetic hemoglobin mixed with an experimental stabilizer, and it carries an extreme trace of reactive porphyrins. Whoever bled onto this card would suffer severe internal burns under direct sunlight.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_scan"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "It belongs to Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_lucia_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The girl in the green coat who sweeps your storefront sometimes?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_lucia_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Yes. Look at the bottom left corner, where someone carved two tiny fingernail notches. I taught her that last month, when she told me nightmares kept her awake. We played that each Arcanum was a secret word. The Moon means: 'I am awake in the darkness, yet I cannot step into the light.' She hasn't returned to her boarding house in Kabuki for three nights.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_lucia_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "If someone left this behind, it wasn't just scavengers grabbing people off the street. Scavs don't leave candles or Tarot cards. What else do you know about the others?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_candles"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "On the call you said others vanished before Lucía. Who are they?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_missing_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mateo, a night-shift dock tech from Northside, vanished three days before Lucía. He began avoiding daylight and never came back after saying he'd demand his medical file. Before him, two other neighborhood youths vanished.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_missing_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Why do you say someone has been watching you from the street?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_watched_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Two nights in a row a black van with no plates idled across from the alley with its headlights dead. And last night someone killed the streetlights on this block right before leaving the candles.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_watched_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Did Lucía ever give you a name or clinic before she vanished?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_chorus_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "She only told me she'd taken free night-shift treatment at a satellite clinic to heal her lungs from the smog. A week later she dreaded sunrise and whispered something about The Pale Chorus.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_qa_chorus_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Come up to the rooftop with me once true night falls. Down here there is too much noise and too many eyes. At ten I'll show you everything Lucía told me before she disappeared.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_misty_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "All right. Stay inside out of sight. I'll see you on the roof at ten.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_alley_v_rooftop"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Thank you for coming up on time, V. I laid the cards beside Lucía's notes: The Moon, Inverted Hanged Man, and The Tower. If someone took her after leaving that sign, they aren't far from Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_misty_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Look under this three hundred sixty-five nanometer UV lamp. On the back of The Moon there's a chemical transfer stamp pointing straight to the Northside oilfields.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_misty_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Northside oilfields, after dark with zero witnesses. I'm heading there now to find Lucía before they move her.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_v_depart"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I see their makeshift shrine between the tanks and an ultraviolet emitter sweeping the entrance. Time to overload that rig and clear the yard.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_oil_v_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, I hear electrical static tearing across your comms. Break the emitter housing if they pin you down, and search the medical crates beside the altar.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_oil_misty_radio"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "An empty clinical vial of NOX-9 plasma and a torn transport slip stamped earlier this morning: Subject L-14, Lucía Reyes, transfer before pier shift change. She's still alive, Misty. Heading back to the roof with the proof.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_oil_v_note"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "She's still alive? Thank heaven, V. Seeing that medical batch code and transport slip proves we aren't too late.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_debrief_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The abductors moved her before dawn, but they left behind a batch of NOX-9 plasma and this custom pistol loaded with cold-light rounds. Whoever synthesizes that compound will lead us straight to Lucía and Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_debrief_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Take your Eddies and keep that pistol close. Keep the updated codex file and catch your breath; as soon as we trace who signs the NOX-9 batch, we go after Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_debrief_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Thank you for coming at ten, V. Up here the rain washes out the noise below, and no one is listening.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_open_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía asked me to lay out these cards the last time she came up here: The Moon, The Hanged Man inverted, and The Tower. In her notes she wrote of The Pale Chorus, people hiding from daylight somewhere near Northside.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_open_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "She asked me if someone could give away a piece of themselves just so they wouldn't die alone in this city... I wish I'd realized then she wasn't speaking in metaphors.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_open_m3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty, this isn't magic or a Tarot curse. It's dirty chemistry: synthetic hemoglobin and reactive porphyrins that boil under ultraviolet light.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_chem_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I know, V... but the ones who accept that blood aren't only running from sickness. They're looking to belong to something that won't cast them aside at dawn, and that is how that cult traps them.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_chem_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Tell me how you read those three cards alongside her notebooks: The Moon, The Hanged Man inverted, and The Tower.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_cards_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Moon is the nocturnal secret Lucía was already carrying in her veins. The Hanged Man inverted is the false vow of rebirth through silent sacrifice. And The Tower... is the fall when that promised salvation collapses.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_cards_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Wait, Misty, turn The Tower over. There's oily grit and petrochemical residue pressed into the wax along the edge... that comes straight from the abandoned Northside oilfields.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_tower_v"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "If they corner you in Northside, remember the ultraviolet light. Bring me proof that Lucía is still alive, V... don't let her become another shadow in that Chorus.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_r2_roof_promise_m"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, got a second? I passed the NOX-9-K4 batch code and Lucía's slip from Northside over to Vik. An old contact of his ran that formula against retired Biotechnica patents—the only hematologist who designed and signed off on it is a Dr. Adrián Valdés.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Is this Valdés working for The Pale Chorus or hiding from them? If his name is on the formula, he'll know who took Lucía and Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Just a few minutes ago a live telemetry ping from that exact NOX-9-K4 batch fired near an abandoned dock along the Kabuki Canal. Check whatever they dumped there—it should lead straight to Valdés before the Chorus scrubs his trail.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Heading to the Kabuki Canal right now. If Valdés is still in Watson, I'll find him.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_call_v2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Drainage dock down by the Kabuki Canal... There's the dumped medical gear, the candles, and an active relay. Let's inspect every trace.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_kabuki_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "A portable dialysis cooler with scraped Biotechnica seals. Inside are empty NOX-9-K4 flasks and dosing tags for Subject L-14, Lucía Reyes, and Subject M-09, Mateo. That's Valdés's exact formula.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_clue_cooler"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The High Priestess inverted, pinned between damp candles... and stapled to the back is Dr. Adrián Valdés's revoked corporate medical license. Not just a shrine—The Pale Chorus left it as a threat to prove they know he's still in Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_clue_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "This Biotechnica telemetry relay is still warm and pinging. Just triangulated the return beacon to a hidden back alley in Little China. I've got Dr. Valdés's exact hideout.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_clue_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Stop—don't take another step! If The Cantor sent you to silence me, pull the trigger and get it over with.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Easy, Dr. Valdés. I'm not with The Pale Chorus. I'm here about the NOX-9-K4 batch from Northside—and Lucía Reyes and Mateo. We know your name is on that formula.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Start with your part in this. What is NOX-9 really, and why does it carry your Biotechnica patent?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_ask_role"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I engineered NOX-9 six years ago to save workers with smog-ruined lungs who couldn't afford corpo chrome. It boosted oxygen and tissue repair, but trapped lethal porphyrins—sunlight or 365 nm UV boils you from within. Biotechnica buried the trial and fired me. Broke, I sold my patents and samples to Dr. Helena Solís believing she'd finish the cure.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_ans_role"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "And how did your lung serum end up in the hands of a cult leaving Tarot cards and hunting people after dark?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_ask_sect"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Helena Solís now calls herself The Cantor and twisted my failure into The Pale Chorus. They lure desperate kids like Lucía and Mateo into free night clinics, hook them on weekly dialysis, and turn fear of sunrise into a cage and liturgy. I... kept making stabilizers for months out of guilt and fear. When I saw them abducting anyone who tried to quit, I ran here. That's why they pinned the inverted High Priestess in Kabuki—to warn me they're watching.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_ans_sect"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "If you mixed their stabilizers, you know where they moved Lucía from Northside—and where they're holding Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_ask_leads"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Every newly awakened subject and transfer manifest passes first through their cryogenic checkpoint on Watson's West Pier, guarded by a night sentry and twin UV towers. From that terminal they route shipments to Helena's main bunker in the Badlands—where she claims to have purified a second-generation serum without porphyrins: NOX-9B.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_ans_leads"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You can still undo part of this, Adrián. Give me your pass codes, the pier coordinates, and your NOX-9 files. I'm pulling Lucía and Mateo out.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Thank you for hearing me out before judging me. Take this shard on the desk—it holds the night-shift passphrase 'The shadow drinks before dawn', the West Pier cryo terminal coordinates, and my full NOX-9 and NOX-9B dossier. Use it to slip past the UV towers if you can.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_give_trust"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Your guilt won't pull Lucía out of a cryo pod. Hand over the pier pass code and everything you have on Solís right now.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Fine—take all of it! That shard on the desk has the night-shift passphrase 'The shadow drinks before dawn', the West Pier coordinates, and all my NOX-9 and NOX-9B files. Just let me vanish before the Chorus drops into this alley.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_valdes_give_pressure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Encrypted shard secured—night-shift Chorus passphrase, West Pier coordinates, and Valdés's full dossier on Solís and NOX-9B. We've got everything we need to hit that cryo checkpoint.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_v_depart"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You made it back in one piece, V—and without leaving another trail of gunfire across the docks. Valdés's cipher worked. Tell me what you pulled from that West Pier terminal.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m1_stealth"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I saw those violet UV flashes tearing across the harbor from up here, V. I'm just glad you're back safe. Tell me what you pulled from that West Pier terminal.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m1_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "We finally have the full picture, Misty. Dr. Adrián Valdés created NOX-9 six years ago, and Dr. Helena Solís—'The Cantor'—hijacked his work to build The Pale Chorus. The pier manifest confirms they shipped Lucía Reyes and Mateo out of Watson to a sealed Biotechnica bunker in the Badlands.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "So Lucía and Mateo are still alive, just out beyond the city... Wait, V—what's this entry at the bottom of the manifest? They flagged Misty's Esoterica as 'Nexus of Silence' under priority watch. They know someone is pulling the thread from here.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "And there's an even bigger problem. Valdés's files and the cargo logs say Solís is testing a second-generation serum called NOX-9B out in that desert bunker—without porphyrins. If she stabilizes it, ultraviolet light won't burn them anymore, and we lose our only real edge against them.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_v2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "We can't let her finish that serum or box us in here. I'll lock down the shop with Vik and cross-check these manifest frequencies to pinpoint the exact bunker entrance in the Badlands. Take your Eddies for everything you pulled off tonight, V. The moment we crack the route, I'll call you so we can head into the desert, bring Lucía and Mateo home, and stop The Cantor for good.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_m3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Keep the shutters down and your holo close, Misty. The second you lock down those bunker coordinates, I'm heading into the Badlands to finish The Pale Chorus.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a1_r2_debrief_v3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_lucia_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Helena Solís (\"The Cantor\")",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_solis_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bunker Chorus Sentinel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_bunker_sentry_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bunker Chorus Cryo-Guard",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_bunker_sentry_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cantor Honor Blade",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_solis_guard_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cantor Bioreactor Guard",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_solis_guard_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dialysis Wing Stalker",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_lab_stalker_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cryo-Conduit Sentinel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_lab_stalker_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sanguine Choir Zealot",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_zealot_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9B Sanctum Weaver",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_zealot_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Dialysis Fanatic",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_a_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Crypt Gunner",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_b_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Blood-Blade",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_c_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus East Sentinel",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub1_fanatic_d_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Choir Zealot",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_c_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Crimson Butcher",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_d_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Sanctum Gunner",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_e_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pale Chorus Staircase Warden",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_npc_sub2_fanatic_f_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_lucia"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_spk_solis"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mateo's Shattered Dock Badge (M-09)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_mateo_badge_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Northside industrial dock technician badge split by gunfire in Biotechnica Flats. Mateo cut the convoy's cryo lines so Lucía Reyes could escape.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_mateo_badge_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Purified NOX-9B Bioreactor Synthesis",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_nox9b_formula_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Second-generation Biotechnica hematology dataset stripped of phototoxic 365 nm porphyrins, allowing safe cellular recovery for Lucía and surviving Chorus initiates.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_item_nox9b_formula_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Dawn",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_dawn_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Heavy Burya revolver fitted with thermal-incandescent rounds tuned to purge porphyrin contagion.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_dawn_desc"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "CRIMSON DAWN: +40 Thermal Damage, +25% Crit Chance, and +40% Headshot Multiplier.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_weapon_dawn_ability"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Veil — Act II: Liturgy of Ash",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_quest_a2_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V — Vik and I matched the West Pier beacons to the southern desert repeaters. The NOX-9 convoy stopped at a desert service lot in Biotechnica Flats before entering The Cantor's sealed bunker. Check that drop site first.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_sms_a2_call_recap"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Investigate the NOX-9 convoy drop in Biotechnica Flats (3 clues)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty and Vik traced the West Pier manifest frequencies to a desert service yard in Biotechnica Flats. Search the abandoned cryo pods, the Moon marker, and the microwave relay to uncover Mateo's fate and locate Helena Solís's bunker.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_01"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Breach the Badlands Geothermal Bunker and find Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The microwave relay locks onto Biotechnica's decommissioned geothermal compound 1 km northeast, where Helena Solís executed Mateo (M-09) during Lucía's escape attempt. Overload the perimeter UV emitter, defeat the sentries, and talk to Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Enter the subterranean Biotechnica bunker via the surface hatch.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Use the unlocked surface hatch beside Lucía Reyes to descend into Sublevel -1 of the Pale Chorus complex.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 1 (1/4): Purge the entry Cryogenic Seal.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bypass the entry Cryogenic Seal terminal right in front of you to unlock the route to the Dialysis Hall.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 1 (2/4): Overload the UV Emitter (365 nm) in the Dialysis Hall.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02d"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cross the unlocked green double door and overload the marked 365 nm UV Emitter to halt the Pale Chorus regeneration.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02d"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 1 (3/4): Eliminate the Pale Chorus squad in the Dialysis Hall.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02e"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Eliminate all five Pale Chorus operatives inside the Dialysis Hall and on the ramp.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02e"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 1 (4/4): Reach and unlock the Level 2 Entrance Door.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_02f"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Climb the concrete ramp at the east end of the hall and unlock the steel entrance door to Level 2.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_02f"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 2 (1/5): Overload the Corridor UV Emitter (365 nm).",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03a"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Overload the marked 365 nm UV Emitter in the Sublevel -2 sanctum hall to suppress the Pale Chorus's regeneration.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03a"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 2 (2/5): Eliminate the Pale Chorus vanguard in Sublevel -2.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Defeat all five Pale Chorus zealots and fanatics guarding the Sublevel -2 approach corridor.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 2 (3/5): Confront Dr. Helena Solís ('The Cantor') in Studio NOX-9B.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Follow the clear passage south past the strip curtains into Studio NOX-9B and confront Dr. Helena Solís.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03c"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Confront Dr. Helena Solís ('The Cantor') at the NOX-9B reactor terrace",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía confirmed Helena Solís is at 98% completion on porphyrin-free NOX-9B and wants Esoterica silenced. Breach the underground security bulkhead, clear Sublevel -1, fight through Sublevel -2, and confront Dr. Helena Solís.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_03"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 2 (4/5): Defeat Solís's guards and access the NOX-9B bioreactor core",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Overload the sanctum's 365 nm UV emitter to stop Dr. Helena Solís ('The Cantor') and her Pale Chorus reinforcements from regenerating, defeat them, and secure or purge the NOX-9B bioreactor core before extracting.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_04"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 2 (5/5): Evacuate via the Emergency Extraction Shaft.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_05_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The NOX-9B core is resolved. Use the marked emergency extraction hatch in the corridor to return to Badlands surface.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_05_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Return to Misty and Lucía on Esoterica's rooftop in Little China",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_obj_a2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Badlands sanctuary is resolved. Head back up to Misty's rooftop in Little China where Misty and Lucía Reyes are waiting for the final debrief.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_05"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Crimson Veil complete. Lucía Reyes returned safely to Little China, the truth of Mateo's sacrifice in Biotechnica Flats was uncovered, and the fate of NOX-9B and Helena Solís's Pale Chorus was sealed.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_desc_a2_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica Flats: NOX-9 Convoy Drop (3 Clues)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_flats"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Closed Biotechnica Bunker (Badlands): Rescue Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_bunker"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9B Chamber: Confront Dr. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_solis"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9B Bioreactor Core",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_core"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty's Rooftop (Little China): Reunite with Misty & Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_mappin_a2_return_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACT II · LITURGY OF ASH] Convoy telemetry locked in Biotechnica Flats",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_start"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE 1/3] Lucía's pod (L-14) & NOX-9B trials confirmed",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clue_1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE 2/3] Mateo's badge (M-09) — Executed sabotaging the convoy",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clue_2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[TRACE 3/3] Geothermal Bunker beacon locked 1 km NE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clue_3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BUNKER LOCKED] Relay points to Biotechnica's geothermal station (1 km NE)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_clues_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[PERIMETER CLEAR] Speak with Lucía Reyes by the bunker access",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_outer_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BUNKER ACCESS OPEN] Use the steel floor hatch beside Lucía to descend into Sublevel -1",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_descent"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[THE CANTOR HOSTILE] Use the bioreactor UV emitter to neutralize Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_solis_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CHAMBER CLEAR] Access the NOX-9B bioreactor console",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_chamber_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NOX-9B FORMULA SECURED] Return to Misty & Lucía at Esoterica",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_core_secured"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BIOREACTOR PURGED] Formula destroyed — Return to Misty & Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_core_burned"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[BIOREACTOR LOCKED] Neutralize Helena Solís and her honor guard first",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_core_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACT II FINALE] Speak with Misty and Lucía on the rooftop",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_finale_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CRIMSON VEIL COMPLETE] +4,000 E$, +1,500 XP & Iconic 'Crimson Dawn'",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a2_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9 Convoy Cryo-Pod",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a2_pod"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Inspect Lucía's cryo-pod (L-14)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_inspect_pod"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mateo's Shattered Badge & Moon Card",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a2_mateo"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Recover Mateo's badge (M-09)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_inspect_mateo"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica Microwave Relay",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_a2_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Triangulate Pale Chorus bunker",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_inspect_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Perimeter UV Tower (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_bunker"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bioreactor UV Tower (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_chamber"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía Reyes — Bunker Access",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_lucia_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Speak with Lucía Reyes",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_lucia"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I found Mateo's badge in Biotechnica Flats. What happened during the transfer?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_lucia_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "How close is Helena Solís to finishing NOX-9B down there?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_lucia_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Stay in cover. I'm going down to confront Helena Solís ('The Cantor').",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_lucia_adv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Dr. Helena Solís ('The Cantor') — NOX-9B Chamber",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_solis_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Confront Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_solis"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Valdés built NOX-9 to heal lungs. You built a cult and killed Mateo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Explain NOX-9B. Does it truly remove UV dependency and phototoxicity?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Why flag Misty's Esoterica as 'Nexus of Silence' in your shipping logs?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_q3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Ending A · The Second Serum] Fight for intact NOX-9B for Valdés & free Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_end_cure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Ending B · Pact in Dusk] Broker Lucía's release & scrub Watson from ledgers.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_end_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Ending C · Crimson Dawn] Take down Solís and incinerate the NOX-9B bioreactor.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_solis_end_burn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Step back for now.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_leave"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9B Bioreactor",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_core_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Download intact NOX-9B formula",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_take_core"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Purge & destroy NOX-9B serum core",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_burn_core"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bioreactor sealed",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_core_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Meet Misty & Lucía with the Badlands report (Act II Finale)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_finale"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Geothermal Bunker Bulkhead",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_surface"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descend into Sublevel -1 (Dialysis Labyrinth)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_enter"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bulkhead sealed (Defeat guards & speak to Lucía)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Freight Lift to Badlands Surface",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_exit"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Ascend back to Lucía on the Badlands surface",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_surface"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cryogenic Seal Relay Alpha",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_seal_a"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Override & purge cryogenic lock",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_seal_purge"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cryogenic Seal Relay Beta",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_seal_b"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sublevel -2 Sanctum Hatch",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_sub2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descend into Sublevel -2 (NOX-9B Inner Sanctum)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_sub2_go"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hatch locked (Purge both Sublevel -1 seals first)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_sub2_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lab Wing UV Emitter (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_sub1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sanctum Approach UV Emitter (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_uv_sub2_corr"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Emergency Extraction Shaft",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_hatch_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Extract to Badlands surface beside Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_hatch_extract"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LEVEL 1 · DIALYSIS HALL] Purge the entry seal in front of you to begin",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub1_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACCESS SEAL PURGED] Cross the green double door and overload the marked UV Emitter",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_seal_a_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[2/4 · UV EMITTER] Overload UV Emitter (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_uv_tower"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[UV OVERLOADED] Regeneration suppressed — Eliminate the Pale Chorus squad in the hall",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_uv_step_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[3/4 · DIALYSIS HALL] Eliminate Pale Chorus squad",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_clear_hall"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[HALL CLEARED] Climb the ramp to the Level 2 entrance door",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_hall_cleared"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[4/4 · LEVEL 2 ENTRANCE] Sealed steel door",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_level2_door"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Level 2 Entrance Door",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_level2_door"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Descend to Level 2 (Crimson Sanctum)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_level2_door_open"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Door sealed (Overload UV Emitter and clear the hall first)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_level2_door_locked"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LEVEL 1 COMPLETE] Descending to Level 2 (Crimson Sanctum)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub1_complete"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[1/5 · CORRIDOR UV EMITTER] Overload UV Emitter (365 nm)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_sub2_uv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[2/5 · SANCTUM APPROACH] Eliminate Pale Chorus vanguard",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_sub2_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CORRIDOR UV OVERLOADED] Regeneration suppressed — Clear the sanctum vanguard",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_uv_done"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[CORRIDOR CLEARED] Follow the passage south to confront Dr. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_hall_clear"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[LEVEL 2 COMPLETE · EVACUATION] Return to Esoterica rooftop with Misty and Lucía",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_extracted"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[NEURAL INTERFERENCE · THE CHORUS] The Cantor's carrier wave spikes ahead in the NOX-9B chamber",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_horror"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[SUBLEVEL -2 · CRIMSON SANCTUM] You reached the lower level — Fight through to Dr. Helena Solis in Studio NOX-9B",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_sub2_breach"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[THE CANTOR · PHASE II] The Chorus answers! Reinforcement stalkers breach the chamber",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_solis_phase2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica Flats — Mateo's Sacrifice (M-09)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_flats_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "BIOTECHNICA FLATS CONVOY DROP // FORENSIC RECORD\\n- Cryo-Pod L-14: Held Lucía Reyes during desert transit alongside NOX-9B calibration samples.\\n- Subject M-09 (Mateo): Cut the pod's cryo cables to give Lucía a chance to break away; Helena Solís executed him beside the service yard and purged his medical ledger.\\n- Microwave Relay: Points 1 km northeast to Biotechnica's decommissioned geothermal plant.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_flats_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Badlands Bunker — Lucía & Dr. Helena Solís",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_lucia_solis_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "BIOTECHNICA GEOTHERMAL BUNKER // ACT II\\n- Lucía Reyes: Survived the convoy and was held under outer UV guard at the geothermal bunker. She recognized Misty's Moon code immediately.\\n- Dr. Helena Solís ('The Cantor'): Former Biotechnica clinical director who weaponized NOX-9 to trap Watson dropouts in nocturnal dependence. Her lower bioreactor brought porphyrin-free NOX-9B to 98% synthesis.\\n- Nexus of Silence: Solís marked Esoterica because Lucía used Tarot notches to reach outside the Chorus.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_lucia_solis_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Epilogue — Esoterica's Shutters & The Moon",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_epilogue_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "MISTY'S ESOTERICA // CAMPAIGN CLOSURE\\n- Lucía Reyes returned safely to Little China under Misty's care.\\n- Depending on V's choice in the NOX-9B chamber (El Segundo Suero, Pacto en la Penumbra, or Alba de Sangre), either Dr. Valdés & Vik received the purified formula, Solís struck Watson from all Chorus manifests, or the Badlands bioreactor burned to ash.\\n- Mateo (M-09) will be remembered in Kabuki; The Moon card now marks survival rather than a cry in the dark.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_shard_a2_epilogue_text"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V, we cracked the coordinates. Vik and I cross-referenced the West Pier manifest beacons against the southern repeaters.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_m1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Where did they dump Lucía? Are we still ahead of their NOX-9B synthesis window?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_v1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The convoy made one last drop in Biotechnica Flats before vanishing toward The Cantor's sealed bunker. Sweep that drop and lock the entrance.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_m2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Rolling out to Biotechnica Flats right now. Keep Esoterica locked down until I call back.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_call_v2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Abandoned service yard out in Biotechnica Flats... That's the convoy's dumped cryo rig. Let's see what they left behind.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_flats_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Cryo transfer pod tagged Subject L-14, Lucía Reyes. Unsealed and emptied here—alongside fresh shipping tags for NOX-9B trials.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_clue_pod"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "A shattered Northside dock badge beside another Moon card... Mateo M-09 sabotaged this convoy trying to free Lucía, and Helena Solís executed him here.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_clue_mateo"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "This microwave relay still holds the bunker handshake—one kilometer northeast, beneath Biotechnica's decommissioned geothermal plant. Time to end this.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_clue_relay"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica's old geothermal plant... The Pale Chorus has armed sentries and another UV tower guarding the outer perimeter. Gotta clear a path to Lucía.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_bunker_arrive"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "V? I knew Misty would read the two notches on The Moon card! I thought nobody would ever track me out this far past Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty tore half of Watson apart to find you, Lucía. You're clear for now—tell me everything happening down in that bunker.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I found Mateo's badge back in Biotechnica Flats. Tell me what really happened during the convoy transfer.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Mateo figured out they weren't curing us—they were locking us into chemical dependency. He cut the cryo lines out in the flats so I could bolt, and Solís gunned him down right in front of me.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_a1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "How close is Helena Solís to actually stabilizing that NOX-9B serum down in the lab?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The lower bioreactor is already at ninety-eight percent synthesis. Once she finishes it, UV light won't touch them—and she ordered Misty's shop silenced as a subversive link.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_a2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Stay behind the outer perimeter and wait for my signal. I'm heading down to confront The Cantor now.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_lucia_adv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Watch your step down there, V—Solís keeps two guards and UV rigs beside the reactor terrace. Meet us back on Misty's roof once it's over.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_lucia_adv"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "So you're Misty Olszewski's hound. I expected Biotechnica clean-up or Valdés's panic, not someone still chasing sentimental rescues.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_intro"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Valdés built NOX-9 to heal damaged lungs, Solís. You twisted it into a cult and executed Mateo when he tried to walk.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_solis_q1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Biotechnica left Watson workers choking because they couldn't afford chrome. I gave them regeneration and belonging in the dark. Mateo broke our oath and endangered everyone.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_a1"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Tell me about NOX-9B. Does it actually purge the porphyrins, or is it just a tighter leash?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_solis_q2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "NOX-9B strips out 365 nm phototoxicity and stabilizes hemoglobin without weekly dialysis. Whoever holds this formula walks back into sunlight—or decides who stays in the dark.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_a2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Why is Misty Olszewski in your shipping logs? Why mark Esoterica as 'Nexus of Silence'?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_solis_q3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Because Lucía used those Tarot cards to signal outside the Chorus, and that little shop reminds my initiates of the past we asked them to shed.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_a3"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You're done trading in other people's veins, Solís. I'm taking NOX-9B intact to Valdés and walking Lucía out of here tonight.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_end_cure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Then burn beneath the Pale Chorus! Lock the reactor terrace and keep them off that core!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_combat"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Clean truce, Solís: release Lucía with clean stabilizers and scrub Misty's Esoterica from every ledger. Do that, and I walk away.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_end_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Pragmatic as always in Night City. Watson is struck from our manifest and Lucía walks free—just don't step into our shadow again.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_solis_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "This chamber burns with you, Cantor. I'm torching every last vial of NOX-9B and erasing The Pale Chorus tonight.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_end_burn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Purified NOX-9B synthesis pulled and encrypted for Valdés and Misty. Time to bring Lucía home to Watson.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_core_secured"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Bioreactor purged and archives torched to ash. No more chemical chains out of this hole—back to Misty's roof.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_v_core_destroyed"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "I don't know how to thank you, V. Hearing Little China rain without dreading the next sunrise felt impossible until today.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_lucia_greet"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Vik is already reviewing your NOX-9B formula with Dr. Valdés over encrypted comms. For the first time, Lucía and the others have a real shot at walking in daylight again.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_cure"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Lucía is safe under my roof and Solís wiped Watson from her ledgers. The Chorus still lingers elsewhere in the city, yet tonight you saved the one life in reach.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_pact"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "You burned that lab down to its roots so no other desperate kids end up chained underground. Clearing Lucía's blood will take time, yet nobody hunts her anymore.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_burn"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "When we raise Esoterica's shutters tomorrow, The Moon on this table won't be an SOS anymore. Take this Crimson Dawn revolver and your Eddies, V—Mateo didn't die for nothing.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_misty_epilogue"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[DESCEND TO SUBLEVEL -2] Hatch / Stairs to NOX-9B Chamber",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_pin_sub2_descent"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Look after yourself in Kabuki, Lucía—and bolt the door at nightfall, Misty. If The Pale Chorus ever raises its head again, you know my holo.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_a2_roof_v_close"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Meet with Misty and Lucía Reyes (Act II Finale)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_a2_finale_roof"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Go up to the rooftop with Misty and Lucía (Act II Finale)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_ascend_rooftop_a2"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[ACT I READY] Talk to Misty on the rooftop to wrap up Act I",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_a1_debrief_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[EVIDENCE RECOVERED] Talk to Misty on the rooftop to wrap up the Prologue",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_banner_r2_debrief_ready"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[Kiroshi Scanner] Analyze the stain on the Tarot card",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_scan_tarot"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Wait until 22:00 and go up to the roof with Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_wait_roof"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Open Investigation Codex",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_open_codex"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Esoterica Back Alley — Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_r2_alley_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Hand over the NOX-9 vial and Lucía's receipt to Misty",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_deliver_vial"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Sit across from Misty at the Tarot table",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_sit_table"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Head to the Northside Oilfields now",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_go_northside"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Head down to Esoterica's back alley",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_r2_descend_alley"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Misty Olszewski — Rooftop (22:00)",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hub_r2_roof_night_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Talk to Misty Olszewski",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_act_talk_misty"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "SEALED FILE",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_locked_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "[SEALED]",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_ui_locked_shard_row"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Skip line",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "cv_hint_skip_line"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

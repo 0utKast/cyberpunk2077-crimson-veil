@@ -1,0 +1,342 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-25T18:54:56.5666823Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\entities\\cv_ws_solis.ent"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "entEntityTemplate",
+      "appearances": [],
+      "backendDataOverrides": [],
+      "bindingOverrides": [],
+      "compiledData": {
+        "BufferId": "0",
+        "Flags": 7471104,
+        "Type": "WolvenKit.RED4.Archive.Buffer.RedPackage, WolvenKit.RED4, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null",
+        "Data": {
+          "Version": 4,
+          "Sections": 6,
+          "CruidIndex": 0,
+          "CruidDict": {
+            "0": "0",
+            "1": "971000000000000131",
+            "2": "971000000000000132"
+          },
+          "Chunks": [
+            {
+              "$type": "gameObject",
+              "accumulatedTimePasssed": 0,
+              "audioResourceName": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "None"
+              },
+              "customCameraTarget": "ECCTV_All",
+              "displayDescription": {
+                "unk1": "0",
+                "value": ""
+              },
+              "displayName": {
+                "unk1": "0",
+                "value": ""
+              },
+              "e3ObjectRevealed": 0,
+              "forceDefeatReward": 0,
+              "forceRegisterInHudManager": 0,
+              "hasVisibilityForcedInAnimSystem": 0,
+              "hitInstigatorCooldownID": {
+                "$type": "gameDelayID"
+              },
+              "isDead": 0,
+              "isHighlightedInFocusMode": 0,
+              "isScannerDataDirty": 0,
+              "isTargetedWithSmartWeapon": 0,
+              "killRewardDisabled": 0,
+              "lastEngineTime": 0,
+              "lastHitInstigatorID": {
+                "$type": "entEntityID",
+                "hash": "0"
+              },
+              "markAsQuest": 0,
+              "persistentState": null,
+              "playerSocket": {
+                "$type": "gamePlayerSocket"
+              },
+              "prereqListeners": [],
+              "receivedDamageHistory": [],
+              "renderSceneLayerMask": "Default",
+              "scanningComponent": null,
+              "sourceShootComponent": null,
+              "squadMemberComponent": null,
+              "statusEffectComponent": null,
+              "statusEffectListeners": [],
+              "stimBroadcaster": null,
+              "tags": {
+                "$type": "redTagList",
+                "tags": []
+              },
+              "targetShootComponent": null,
+              "uiSlotComponent": null,
+              "visibilityCheckDistance": 16000,
+              "visionComponent": null,
+              "willDieSoon": 0,
+              "workspotMapper": null
+            },
+            {
+              "$type": "workWorkspotResourceComponent",
+              "deviceWorkspotResourceSync": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "uint64",
+                  "$value": "0"
+                },
+                "Flags": "Default"
+              },
+              "id": "971000000000000131",
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0,
+                  "j": 0,
+                  "k": 0,
+                  "r": 1
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  }
+                }
+              },
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "workspot"
+              },
+              "npcWorkspotResourceSync": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "uint64",
+                  "$value": "0"
+                },
+                "Flags": "Default"
+              },
+              "parentTransform": null,
+              "shouldCrouch": 0,
+              "syncSlotName": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "None"
+              },
+              "workspotResource": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "crimson_veil\\workspots\\cv_solis_loop.workspot"
+                },
+                "Flags": "Default"
+              }
+            },
+            {
+              "$type": "WorkspotMapperComponent",
+              "id": "971000000000000132",
+              "isReplicable": 0,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "workspotMapper"
+              },
+              "persistentState": null,
+              "priority": 0,
+              "workspotsMap": []
+            }
+          ]
+        }
+      },
+      "compiledEntityLODFlags": 0,
+      "componentResolveSettings": [],
+      "components": [
+        {
+          "$type": "workWorkspotResourceComponent",
+          "deviceWorkspotResourceSync": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "Flags": "Default"
+          },
+          "id": "971000000000000131",
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": 0,
+              "r": 1
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              }
+            }
+          },
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "workspot"
+          },
+          "npcWorkspotResourceSync": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "Flags": "Default"
+          },
+          "parentTransform": null,
+          "shouldCrouch": 0,
+          "syncSlotName": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "None"
+          },
+          "workspotResource": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "crimson_veil\\workspots\\cv_solis_loop.workspot"
+            },
+            "Flags": "Default"
+          }
+        },
+        {
+          "$type": "WorkspotMapperComponent",
+          "id": "971000000000000132",
+          "isReplicable": 0,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "workspotMapper"
+          },
+          "persistentState": null,
+          "priority": 0,
+          "workspotsMap": []
+        }
+      ],
+      "cookingPlatform": "PLATFORM_PC",
+      "defaultAppearance": {
+        "$type": "CName",
+        "$storage": "string",
+        "$value": "default"
+      },
+      "entity": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "gameObject",
+          "accumulatedTimePasssed": 0,
+          "audioResourceName": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "None"
+          },
+          "customCameraTarget": "ECCTV_All",
+          "displayDescription": {
+            "unk1": "0",
+            "value": ""
+          },
+          "displayName": {
+            "unk1": "0",
+            "value": ""
+          },
+          "e3ObjectRevealed": 0,
+          "forceDefeatReward": 0,
+          "forceRegisterInHudManager": 0,
+          "hasVisibilityForcedInAnimSystem": 0,
+          "hitInstigatorCooldownID": {
+            "$type": "gameDelayID"
+          },
+          "isDead": 0,
+          "isHighlightedInFocusMode": 0,
+          "isScannerDataDirty": 0,
+          "isTargetedWithSmartWeapon": 0,
+          "killRewardDisabled": 0,
+          "lastEngineTime": 0,
+          "lastHitInstigatorID": {
+            "$type": "entEntityID",
+            "hash": "0"
+          },
+          "markAsQuest": 0,
+          "persistentState": null,
+          "playerSocket": {
+            "$type": "gamePlayerSocket"
+          },
+          "prereqListeners": [],
+          "receivedDamageHistory": [],
+          "renderSceneLayerMask": "Default",
+          "scanningComponent": null,
+          "sourceShootComponent": null,
+          "squadMemberComponent": null,
+          "statusEffectComponent": null,
+          "statusEffectListeners": [],
+          "stimBroadcaster": null,
+          "tags": {
+            "$type": "redTagList",
+            "tags": []
+          },
+          "targetShootComponent": null,
+          "uiSlotComponent": null,
+          "visibilityCheckDistance": 16000,
+          "visionComponent": null,
+          "willDieSoon": 0,
+          "workspotMapper": null
+        }
+      },
+      "includeInstanceBuffer": null,
+      "includes": [],
+      "inplaceResources": [],
+      "localData": null,
+      "resolvedDependencies": [
+        {
+          "DepotPath": {
+            "$type": "ResourcePath",
+            "$storage": "string",
+            "$value": "crimson_veil\\workspots\\cv_solis_loop.workspot"
+          },
+          "Flags": "Default"
+        }
+      ],
+      "visualTagsSchema": null
+    },
+    "EmbeddedFiles": []
+  }
+}

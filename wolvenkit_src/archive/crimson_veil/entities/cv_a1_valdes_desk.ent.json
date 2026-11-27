@@ -1,0 +1,1681 @@
+{
+  "Header": {
+    "WolvenKitVersion": "9.1.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2310,
+    "ExportedDateTime": "2026-11-17T11:30:08.0116152Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "crimson_veil\\entities\\cv_a1_valdes_desk.ent"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "entEntityTemplate",
+      "appearances": [],
+      "backendDataOverrides": [],
+      "bindingOverrides": [],
+      "compiledData": {
+        "BufferId": "0",
+        "Flags": 7471104,
+        "Type": "WolvenKit.RED4.Archive.Buffer.RedPackage, WolvenKit.RED4, Version=9.1.1.0, Culture=neutral, PublicKeyToken=null",
+        "Data": {
+          "Version": 4,
+          "Sections": 7,
+          "CruidIndex": 0,
+          "CruidDict": {
+            "0": "0",
+            "1": "971000000000000630",
+            "2": "971000000000000631",
+            "3": "971000000000000632",
+            "4": "971000000000000633",
+            "5": "971000000000000634",
+            "6": "971000000000000636",
+            "7": "971000000000000635",
+            "8": "971000000000000637"
+          },
+          "Chunks": [
+            {
+              "$type": "gameObject",
+              "accumulatedTimePasssed": 0,
+              "audioResourceName": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "None"
+              },
+              "customCameraTarget": "ECCTV_All",
+              "displayDescription": {
+                "unk1": "0",
+                "value": ""
+              },
+              "displayName": {
+                "unk1": "0",
+                "value": ""
+              },
+              "e3ObjectRevealed": 0,
+              "forceDefeatReward": 0,
+              "forceRegisterInHudManager": 0,
+              "hasVisibilityForcedInAnimSystem": 0,
+              "hitInstigatorCooldownID": {
+                "$type": "gameDelayID"
+              },
+              "isDead": 0,
+              "isHighlightedInFocusMode": 0,
+              "isScannerDataDirty": 0,
+              "isTargetedWithSmartWeapon": 0,
+              "killRewardDisabled": 0,
+              "lastEngineTime": 0,
+              "lastHitInstigatorID": {
+                "$type": "entEntityID",
+                "hash": "0"
+              },
+              "markAsQuest": 0,
+              "persistentState": null,
+              "playerSocket": {
+                "$type": "gamePlayerSocket"
+              },
+              "prereqListeners": [],
+              "receivedDamageHistory": [],
+              "renderSceneLayerMask": "Default",
+              "scanningComponent": null,
+              "sourceShootComponent": null,
+              "squadMemberComponent": null,
+              "statusEffectComponent": null,
+              "statusEffectListeners": [],
+              "stimBroadcaster": null,
+              "tags": {
+                "$type": "redTagList",
+                "tags": []
+              },
+              "targetShootComponent": null,
+              "uiSlotComponent": null,
+              "visibilityCheckDistance": 16000,
+              "visionComponent": null,
+              "willDieSoon": 0,
+              "workspotMapper": null
+            },
+            {
+              "$type": "entColliderComponent",
+              "colliders": [
+                {
+                  "HandleId": "107",
+                  "Data": {
+                    "$type": "physicsColliderBox",
+                    "filterData": null,
+                    "halfExtents": {
+                      "$type": "Vector3",
+                      "X": 0.35,
+                      "Y": 0.35,
+                      "Z": 0.4
+                    },
+                    "isImported": 0,
+                    "isObstacle": 0,
+                    "isQueryShapeOnly": 0,
+                    "localToBody": {
+                      "$type": "Transform",
+                      "orientation": {
+                        "$type": "Quaternion",
+                        "i": 0,
+                        "j": 0,
+                        "k": 0,
+                        "r": 1
+                      },
+                      "position": {
+                        "$type": "Vector4",
+                        "W": 0,
+                        "X": 0,
+                        "Y": 0,
+                        "Z": 0
+                      }
+                    },
+                    "material": {
+                      "$type": "CName",
+                      "$storage": "string",
+                      "$value": "None"
+                    },
+                    "materialApperanceOverrides": [],
+                    "tag": {
+                      "$type": "CName",
+                      "$storage": "string",
+                      "$value": "None"
+                    },
+                    "volumeModifier": 1
+                  }
+                }
+              ],
+              "comOffset": {
+                "$type": "Transform",
+                "orientation": {
+                  "$type": "Quaternion",
+                  "i": 0,
+                  "j": 0,
+                  "k": 0,
+                  "r": 1
+                },
+                "position": {
+                  "$type": "Vector4",
+                  "W": 0,
+                  "X": 0,
+                  "Y": 0,
+                  "Z": 0
+                }
+              },
+              "dynamicTrafficSetting": {
+                "$type": "TrafficGenDynamicTrafficSetting",
+                "impact": "Ignored"
+              },
+              "filterData": {
+                "HandleId": "207",
+                "Data": {
+                  "$type": "physicsFilterData",
+                  "customFilterData": null,
+                  "preset": {
+                    "$type": "CName",
+                    "$storage": "string",
+                    "$value": "World Static"
+                  },
+                  "queryFilter": {
+                    "$type": "physicsQueryFilter",
+                    "mask1": "0",
+                    "mask2": "143769604"
+                  },
+                  "simulationFilter": {
+                    "$type": "physicsSimulationFilter",
+                    "mask1": "376836",
+                    "mask2": "5070"
+                  }
+                }
+              },
+              "id": "971000000000000630",
+              "inertia": {
+                "$type": "Vector3",
+                "X": 1,
+                "Y": 1,
+                "Z": 1
+              },
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0,
+                  "j": 0,
+                  "k": 0,
+                  "r": 1
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 52429
+                  }
+                }
+              },
+              "mass": 16000,
+              "massOverride": -1,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_col"
+              },
+              "parentTransform": null,
+              "simulationType": "Kinematic",
+              "startInactive": 0,
+              "useCCD": 0,
+              "volume": 0
+            },
+            {
+              "$type": "entMeshComponent",
+              "autoHideDistance": 0,
+              "castLocalShadows": "Always",
+              "castRayTracedGlobalShadows": "Always",
+              "castRayTracedLocalShadows": "Default",
+              "castShadows": "Always",
+              "chunkMask": "9223372036854775807",
+              "forcedLodDistance": "Default",
+              "forceLODLevel": -1,
+              "id": "971000000000000631",
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": 0.0,
+                  "k": 0.0,
+                  "r": 1.0
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  }
+                }
+              },
+              "LODMode": "AlwaysVisible",
+              "mesh": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "base\\environment\\decoration\\furniture\\outdoor\\poor_utility_table\\poor_utility_table_b.mesh"
+                },
+                "Flags": "Default"
+              },
+              "meshAppearance": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "default"
+              },
+              "motionBlurScale": 1,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_table"
+              },
+              "navigationImpact": {
+                "$type": "NavGenNavigationSetting",
+                "navmeshImpact": "Ignored"
+              },
+              "numInstances": 0,
+              "objectTypeID": "ROT_Static",
+              "order": 0,
+              "overrideMeshNavigationImpact": 1,
+              "parentTransform": null,
+              "renderingPlane": "RPl_Scene",
+              "renderSceneLayerMask": "Default",
+              "version": 0,
+              "visualScale": {
+                "$type": "Vector3",
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            },
+            {
+              "$type": "entMeshComponent",
+              "autoHideDistance": 0,
+              "castLocalShadows": "Always",
+              "castRayTracedGlobalShadows": "Always",
+              "castRayTracedLocalShadows": "Default",
+              "castShadows": "Always",
+              "chunkMask": "9223372036854775807",
+              "forcedLodDistance": "Default",
+              "forceLODLevel": -1,
+              "id": "971000000000000632",
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": 0.0,
+                  "k": 0.156434,
+                  "r": 0.987688
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": -20972
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 15729
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 105120
+                  }
+                }
+              },
+              "LODMode": "AlwaysVisible",
+              "mesh": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "base\\items\\interactive\\medical\\int_medical_002__cyberware_container\\int_medical_002__cyberware_container_01.mesh"
+                },
+                "Flags": "Default"
+              },
+              "meshAppearance": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "default"
+              },
+              "motionBlurScale": 1,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_med"
+              },
+              "navigationImpact": {
+                "$type": "NavGenNavigationSetting",
+                "navmeshImpact": "Ignored"
+              },
+              "numInstances": 0,
+              "objectTypeID": "ROT_Static",
+              "order": 0,
+              "overrideMeshNavigationImpact": 1,
+              "parentTransform": null,
+              "renderingPlane": "RPl_Scene",
+              "renderSceneLayerMask": "Default",
+              "version": 0,
+              "visualScale": {
+                "$type": "Vector3",
+                "X": 0.85,
+                "Y": 0.85,
+                "Z": 0.85
+              }
+            },
+            {
+              "$type": "entMeshComponent",
+              "autoHideDistance": 0,
+              "castLocalShadows": "Always",
+              "castRayTracedGlobalShadows": "Always",
+              "castRayTracedLocalShadows": "Default",
+              "castShadows": "Always",
+              "chunkMask": "9223372036854775807",
+              "forcedLodDistance": "Default",
+              "forceLODLevel": -1,
+              "id": "971000000000000633",
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": -0.0,
+                  "k": -0.21644,
+                  "r": 0.976296
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 23593
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": -15729
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 104989
+                  }
+                }
+              },
+              "LODMode": "AlwaysVisible",
+              "mesh": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "base\\environment\\decoration\\misc\\tarot\\tarot_card_deck_a.mesh"
+                },
+                "Flags": "Default"
+              },
+              "meshAppearance": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "default"
+              },
+              "motionBlurScale": 1,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_deck"
+              },
+              "navigationImpact": {
+                "$type": "NavGenNavigationSetting",
+                "navmeshImpact": "Ignored"
+              },
+              "numInstances": 0,
+              "objectTypeID": "ROT_Static",
+              "order": 0,
+              "overrideMeshNavigationImpact": 1,
+              "parentTransform": null,
+              "renderingPlane": "RPl_Scene",
+              "renderSceneLayerMask": "Default",
+              "version": 0,
+              "visualScale": {
+                "$type": "Vector3",
+                "X": 1.15,
+                "Y": 1.15,
+                "Z": 1.15
+              }
+            },
+            {
+              "$type": "entMeshComponent",
+              "autoHideDistance": 0,
+              "castLocalShadows": "Always",
+              "castRayTracedGlobalShadows": "Always",
+              "castRayTracedLocalShadows": "Default",
+              "castShadows": "Always",
+              "chunkMask": "9223372036854775807",
+              "forcedLodDistance": "Default",
+              "forceLODLevel": -1,
+              "id": "971000000000000634",
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": 0.0,
+                  "k": 0.0,
+                  "r": 1.0
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 31457
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 26214
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 104858
+                  }
+                }
+              },
+              "LODMode": "AlwaysVisible",
+              "mesh": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "base\\environment\\decoration\\lighting\\candles\\candle\\candle_a.mesh"
+                },
+                "Flags": "Default"
+              },
+              "meshAppearance": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "default"
+              },
+              "motionBlurScale": 1,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_candle"
+              },
+              "navigationImpact": {
+                "$type": "NavGenNavigationSetting",
+                "navmeshImpact": "Ignored"
+              },
+              "numInstances": 0,
+              "objectTypeID": "ROT_Static",
+              "order": 0,
+              "overrideMeshNavigationImpact": 1,
+              "parentTransform": null,
+              "renderingPlane": "RPl_Scene",
+              "renderSceneLayerMask": "Default",
+              "version": 0,
+              "visualScale": {
+                "$type": "Vector3",
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            },
+            {
+              "$type": "entMeshComponent",
+              "autoHideDistance": 0,
+              "castLocalShadows": "Always",
+              "castRayTracedGlobalShadows": "Always",
+              "castRayTracedLocalShadows": "Default",
+              "castShadows": "Always",
+              "chunkMask": "9223372036854775807",
+              "forcedLodDistance": "Default",
+              "forceLODLevel": -1,
+              "id": "971000000000000636",
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": -0.0,
+                  "k": -0.121869,
+                  "r": 0.992546
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": -2621
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": -23593
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 105120
+                  }
+                }
+              },
+              "LODMode": "AlwaysVisible",
+              "mesh": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "string",
+                  "$value": "base\\environment\\decoration\\electronics\\hardware\\shard\\shard_a.mesh"
+                },
+                "Flags": "Default"
+              },
+              "meshAppearance": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "default"
+              },
+              "motionBlurScale": 1,
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_cipher"
+              },
+              "navigationImpact": {
+                "$type": "NavGenNavigationSetting",
+                "navmeshImpact": "Ignored"
+              },
+              "numInstances": 0,
+              "objectTypeID": "ROT_Static",
+              "order": 0,
+              "overrideMeshNavigationImpact": 1,
+              "parentTransform": null,
+              "renderingPlane": "RPl_Scene",
+              "renderSceneLayerMask": "Default",
+              "version": 0,
+              "visualScale": {
+                "$type": "Vector3",
+                "X": 1.35,
+                "Y": 1.35,
+                "Z": 1.35
+              }
+            },
+            {
+              "$type": "entLightComponent",
+              "allowDistantLight": 1,
+              "areaRectSideA": 1,
+              "areaRectSideB": 1,
+              "areaShape": "ALS_Capsule",
+              "areaTwoSided": 1,
+              "attenuation": "LA_InverseSquare",
+              "autoHideDistance": 95.0,
+              "capsuleLength": 1,
+              "clampAttenuation": 1,
+              "color": {
+                "$type": "Color",
+                "Alpha": 255,
+                "Blue": 95,
+                "Green": 180,
+                "Red": 255
+              },
+              "colorGroupSaturation": 100,
+              "contactShadows": "CSR_None",
+              "directional": 0,
+              "enableContactShadows": 0,
+              "enableLocalShadows": 0,
+              "enableLocalShadowsForceStaticsOnly": 0,
+              "enableShadowAngleControl": 0,
+              "envColorGroup": "ECG_Default",
+              "EV": 0,
+              "flicker": {
+                "$type": "rendSLightFlickering",
+                "flickerPeriod": 0.200000003,
+                "flickerStrength": 0,
+                "positionOffset": 0
+              },
+              "forceLODLevel": -1,
+              "group": "LG_Group0",
+              "id": "971000000000000635",
+              "iesProfile": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "uint64",
+                  "$value": "0"
+                },
+                "Flags": "Soft"
+              },
+              "initialTransform": null,
+              "innerAngle": 260,
+              "intensity": 165,
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "lightChannel": "LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld",
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": 0.0,
+                  "k": 0.0,
+                  "r": 1.0
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": 0
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 167772
+                  }
+                }
+              },
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_warm"
+              },
+              "noSpecular": 0,
+              "outerAngle": 340,
+              "parentTransform": null,
+              "pathTracingLightUsage": "PTLU_Everywhere",
+              "pathTracingOverrideScaleGI": 1,
+              "placedEditorData": null,
+              "portalAngleCutoff": 0,
+              "radius": 3.6,
+              "rayTracedShadowsPlatform": "RLSP_All",
+              "rayTracingContactShadowRange": -1,
+              "rayTracingIntensityScale": 1,
+              "rayTracingLightSourceRadius": -1,
+              "renderSceneLayerMask": "Default",
+              "roughnessBias": 0,
+              "rtxdiShadowStartingDistance": -1,
+              "scaleEnvProbes": 100,
+              "scaleGI": 100,
+              "scaleVolFog": 100,
+              "sceneDiffuse": 1,
+              "sceneSpecular": 0,
+              "sceneSpecularScale": 100,
+              "shadowAngle": -1,
+              "shadowFadeDistance": 10,
+              "shadowFadeRange": 5,
+              "shadowRadius": -1,
+              "shadowSoftnessMode": "LSSM_Default",
+              "softness": 2,
+              "sourceRadius": 0.0500000007,
+              "spotCapsule": 0,
+              "temperature": -1,
+              "type": "LT_Point",
+              "unit": "LU_Lumen",
+              "useInEnvProbes": 0,
+              "useInFog": 0,
+              "useInGI": 0,
+              "useInParticles": 1,
+              "useInTransparents": 1
+            },
+            {
+              "$type": "entLightComponent",
+              "allowDistantLight": 1,
+              "areaRectSideA": 1,
+              "areaRectSideB": 1,
+              "areaShape": "ALS_Capsule",
+              "areaTwoSided": 1,
+              "attenuation": "LA_InverseSquare",
+              "autoHideDistance": 95.0,
+              "capsuleLength": 1,
+              "clampAttenuation": 1,
+              "color": {
+                "$type": "Color",
+                "Alpha": 255,
+                "Blue": 255,
+                "Green": 215,
+                "Red": 70
+              },
+              "colorGroupSaturation": 100,
+              "contactShadows": "CSR_None",
+              "directional": 0,
+              "enableContactShadows": 0,
+              "enableLocalShadows": 0,
+              "enableLocalShadowsForceStaticsOnly": 0,
+              "enableShadowAngleControl": 0,
+              "envColorGroup": "ECG_Default",
+              "EV": 0,
+              "flicker": {
+                "$type": "rendSLightFlickering",
+                "flickerPeriod": 0.200000003,
+                "flickerStrength": 0,
+                "positionOffset": 0
+              },
+              "forceLODLevel": -1,
+              "group": "LG_Group0",
+              "id": "971000000000000637",
+              "iesProfile": {
+                "DepotPath": {
+                  "$type": "ResourcePath",
+                  "$storage": "uint64",
+                  "$value": "0"
+                },
+                "Flags": "Soft"
+              },
+              "initialTransform": null,
+              "innerAngle": 260,
+              "intensity": 95,
+              "isEnabled": 1,
+              "isReplicable": 0,
+              "lightChannel": "LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld",
+              "localTransform": {
+                "$type": "WorldTransform",
+                "Orientation": {
+                  "$type": "Quaternion",
+                  "i": 0.0,
+                  "j": 0.0,
+                  "k": 0.0,
+                  "r": 1.0
+                },
+                "Position": {
+                  "$type": "WorldPosition",
+                  "x": {
+                    "$type": "FixedPoint",
+                    "Bits": -2621
+                  },
+                  "y": {
+                    "$type": "FixedPoint",
+                    "Bits": -23593
+                  },
+                  "z": {
+                    "$type": "FixedPoint",
+                    "Bits": 137626
+                  }
+                }
+              },
+              "name": {
+                "$type": "CName",
+                "$storage": "string",
+                "$value": "cv_a1_vdesk_cyan"
+              },
+              "noSpecular": 0,
+              "outerAngle": 340,
+              "parentTransform": null,
+              "pathTracingLightUsage": "PTLU_Everywhere",
+              "pathTracingOverrideScaleGI": 1,
+              "placedEditorData": null,
+              "portalAngleCutoff": 0,
+              "radius": 2.4,
+              "rayTracedShadowsPlatform": "RLSP_All",
+              "rayTracingContactShadowRange": -1,
+              "rayTracingIntensityScale": 1,
+              "rayTracingLightSourceRadius": -1,
+              "renderSceneLayerMask": "Default",
+              "roughnessBias": 0,
+              "rtxdiShadowStartingDistance": -1,
+              "scaleEnvProbes": 100,
+              "scaleGI": 100,
+              "scaleVolFog": 100,
+              "sceneDiffuse": 1,
+              "sceneSpecular": 0,
+              "sceneSpecularScale": 100,
+              "shadowAngle": -1,
+              "shadowFadeDistance": 10,
+              "shadowFadeRange": 5,
+              "shadowRadius": -1,
+              "shadowSoftnessMode": "LSSM_Default",
+              "softness": 2,
+              "sourceRadius": 0.0500000007,
+              "spotCapsule": 0,
+              "temperature": -1,
+              "type": "LT_Point",
+              "unit": "LU_Lumen",
+              "useInEnvProbes": 0,
+              "useInFog": 0,
+              "useInGI": 0,
+              "useInParticles": 1,
+              "useInTransparents": 1
+            }
+          ]
+        }
+      },
+      "compiledEntityLODFlags": 0,
+      "componentResolveSettings": [],
+      "components": [
+        {
+          "$type": "entColliderComponent",
+          "colliders": [
+            {
+              "HandleRefId": "107"
+            }
+          ],
+          "comOffset": {
+            "$type": "Transform",
+            "orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": 0,
+              "r": 1
+            },
+            "position": {
+              "$type": "Vector4",
+              "W": 0,
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            }
+          },
+          "dynamicTrafficSetting": {
+            "$type": "TrafficGenDynamicTrafficSetting",
+            "impact": "Ignored"
+          },
+          "filterData": {
+            "HandleRefId": "207"
+          },
+          "id": "971000000000000630",
+          "inertia": {
+            "$type": "Vector3",
+            "X": 1,
+            "Y": 1,
+            "Z": 1
+          },
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0,
+              "j": 0,
+              "k": 0,
+              "r": 1
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 52429
+              }
+            }
+          },
+          "mass": 16000,
+          "massOverride": -1,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_col"
+          },
+          "parentTransform": null,
+          "simulationType": "Kinematic",
+          "startInactive": 0,
+          "useCCD": 0,
+          "volume": 0
+        },
+        {
+          "$type": "entMeshComponent",
+          "autoHideDistance": 0,
+          "castLocalShadows": "Always",
+          "castRayTracedGlobalShadows": "Always",
+          "castRayTracedLocalShadows": "Default",
+          "castShadows": "Always",
+          "chunkMask": "9223372036854775807",
+          "forcedLodDistance": "Default",
+          "forceLODLevel": -1,
+          "id": "971000000000000631",
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": 0.0,
+              "k": 0.0,
+              "r": 1.0
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              }
+            }
+          },
+          "LODMode": "AlwaysVisible",
+          "mesh": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "base\\environment\\decoration\\furniture\\outdoor\\poor_utility_table\\poor_utility_table_b.mesh"
+            },
+            "Flags": "Default"
+          },
+          "meshAppearance": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "default"
+          },
+          "motionBlurScale": 1,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_table"
+          },
+          "navigationImpact": {
+            "$type": "NavGenNavigationSetting",
+            "navmeshImpact": "Ignored"
+          },
+          "numInstances": 0,
+          "objectTypeID": "ROT_Static",
+          "order": 0,
+          "overrideMeshNavigationImpact": 1,
+          "parentTransform": null,
+          "renderingPlane": "RPl_Scene",
+          "renderSceneLayerMask": "Default",
+          "version": 0,
+          "visualScale": {
+            "$type": "Vector3",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        {
+          "$type": "entMeshComponent",
+          "autoHideDistance": 0,
+          "castLocalShadows": "Always",
+          "castRayTracedGlobalShadows": "Always",
+          "castRayTracedLocalShadows": "Default",
+          "castShadows": "Always",
+          "chunkMask": "9223372036854775807",
+          "forcedLodDistance": "Default",
+          "forceLODLevel": -1,
+          "id": "971000000000000632",
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": 0.0,
+              "k": 0.156434,
+              "r": 0.987688
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": -20972
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": 15729
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 105120
+              }
+            }
+          },
+          "LODMode": "AlwaysVisible",
+          "mesh": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "base\\items\\interactive\\medical\\int_medical_002__cyberware_container\\int_medical_002__cyberware_container_01.mesh"
+            },
+            "Flags": "Default"
+          },
+          "meshAppearance": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "default"
+          },
+          "motionBlurScale": 1,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_med"
+          },
+          "navigationImpact": {
+            "$type": "NavGenNavigationSetting",
+            "navmeshImpact": "Ignored"
+          },
+          "numInstances": 0,
+          "objectTypeID": "ROT_Static",
+          "order": 0,
+          "overrideMeshNavigationImpact": 1,
+          "parentTransform": null,
+          "renderingPlane": "RPl_Scene",
+          "renderSceneLayerMask": "Default",
+          "version": 0,
+          "visualScale": {
+            "$type": "Vector3",
+            "X": 0.85,
+            "Y": 0.85,
+            "Z": 0.85
+          }
+        },
+        {
+          "$type": "entMeshComponent",
+          "autoHideDistance": 0,
+          "castLocalShadows": "Always",
+          "castRayTracedGlobalShadows": "Always",
+          "castRayTracedLocalShadows": "Default",
+          "castShadows": "Always",
+          "chunkMask": "9223372036854775807",
+          "forcedLodDistance": "Default",
+          "forceLODLevel": -1,
+          "id": "971000000000000633",
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": -0.0,
+              "k": -0.21644,
+              "r": 0.976296
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": 23593
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": -15729
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 104989
+              }
+            }
+          },
+          "LODMode": "AlwaysVisible",
+          "mesh": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "base\\environment\\decoration\\misc\\tarot\\tarot_card_deck_a.mesh"
+            },
+            "Flags": "Default"
+          },
+          "meshAppearance": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "default"
+          },
+          "motionBlurScale": 1,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_deck"
+          },
+          "navigationImpact": {
+            "$type": "NavGenNavigationSetting",
+            "navmeshImpact": "Ignored"
+          },
+          "numInstances": 0,
+          "objectTypeID": "ROT_Static",
+          "order": 0,
+          "overrideMeshNavigationImpact": 1,
+          "parentTransform": null,
+          "renderingPlane": "RPl_Scene",
+          "renderSceneLayerMask": "Default",
+          "version": 0,
+          "visualScale": {
+            "$type": "Vector3",
+            "X": 1.15,
+            "Y": 1.15,
+            "Z": 1.15
+          }
+        },
+        {
+          "$type": "entMeshComponent",
+          "autoHideDistance": 0,
+          "castLocalShadows": "Always",
+          "castRayTracedGlobalShadows": "Always",
+          "castRayTracedLocalShadows": "Default",
+          "castShadows": "Always",
+          "chunkMask": "9223372036854775807",
+          "forcedLodDistance": "Default",
+          "forceLODLevel": -1,
+          "id": "971000000000000634",
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": 0.0,
+              "k": 0.0,
+              "r": 1.0
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": 31457
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": 26214
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 104858
+              }
+            }
+          },
+          "LODMode": "AlwaysVisible",
+          "mesh": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "base\\environment\\decoration\\lighting\\candles\\candle\\candle_a.mesh"
+            },
+            "Flags": "Default"
+          },
+          "meshAppearance": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "default"
+          },
+          "motionBlurScale": 1,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_candle"
+          },
+          "navigationImpact": {
+            "$type": "NavGenNavigationSetting",
+            "navmeshImpact": "Ignored"
+          },
+          "numInstances": 0,
+          "objectTypeID": "ROT_Static",
+          "order": 0,
+          "overrideMeshNavigationImpact": 1,
+          "parentTransform": null,
+          "renderingPlane": "RPl_Scene",
+          "renderSceneLayerMask": "Default",
+          "version": 0,
+          "visualScale": {
+            "$type": "Vector3",
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        {
+          "$type": "entMeshComponent",
+          "autoHideDistance": 0,
+          "castLocalShadows": "Always",
+          "castRayTracedGlobalShadows": "Always",
+          "castRayTracedLocalShadows": "Default",
+          "castShadows": "Always",
+          "chunkMask": "9223372036854775807",
+          "forcedLodDistance": "Default",
+          "forceLODLevel": -1,
+          "id": "971000000000000636",
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": -0.0,
+              "k": -0.121869,
+              "r": 0.992546
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": -2621
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": -23593
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 105120
+              }
+            }
+          },
+          "LODMode": "AlwaysVisible",
+          "mesh": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "string",
+              "$value": "base\\environment\\decoration\\electronics\\hardware\\shard\\shard_a.mesh"
+            },
+            "Flags": "Default"
+          },
+          "meshAppearance": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "default"
+          },
+          "motionBlurScale": 1,
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_cipher"
+          },
+          "navigationImpact": {
+            "$type": "NavGenNavigationSetting",
+            "navmeshImpact": "Ignored"
+          },
+          "numInstances": 0,
+          "objectTypeID": "ROT_Static",
+          "order": 0,
+          "overrideMeshNavigationImpact": 1,
+          "parentTransform": null,
+          "renderingPlane": "RPl_Scene",
+          "renderSceneLayerMask": "Default",
+          "version": 0,
+          "visualScale": {
+            "$type": "Vector3",
+            "X": 1.35,
+            "Y": 1.35,
+            "Z": 1.35
+          }
+        },
+        {
+          "$type": "entLightComponent",
+          "allowDistantLight": 1,
+          "areaRectSideA": 1,
+          "areaRectSideB": 1,
+          "areaShape": "ALS_Capsule",
+          "areaTwoSided": 1,
+          "attenuation": "LA_InverseSquare",
+          "autoHideDistance": 95.0,
+          "capsuleLength": 1,
+          "clampAttenuation": 1,
+          "color": {
+            "$type": "Color",
+            "Alpha": 255,
+            "Blue": 95,
+            "Green": 180,
+            "Red": 255
+          },
+          "colorGroupSaturation": 100,
+          "contactShadows": "CSR_None",
+          "directional": 0,
+          "enableContactShadows": 0,
+          "enableLocalShadows": 0,
+          "enableLocalShadowsForceStaticsOnly": 0,
+          "enableShadowAngleControl": 0,
+          "envColorGroup": "ECG_Default",
+          "EV": 0,
+          "flicker": {
+            "$type": "rendSLightFlickering",
+            "flickerPeriod": 0.200000003,
+            "flickerStrength": 0,
+            "positionOffset": 0
+          },
+          "forceLODLevel": -1,
+          "group": "LG_Group0",
+          "id": "971000000000000635",
+          "iesProfile": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "Flags": "Soft"
+          },
+          "initialTransform": null,
+          "innerAngle": 260,
+          "intensity": 165,
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "lightChannel": "LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld",
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": 0.0,
+              "k": 0.0,
+              "r": 1.0
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": 0
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 167772
+              }
+            }
+          },
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_warm"
+          },
+          "noSpecular": 0,
+          "outerAngle": 340,
+          "parentTransform": null,
+          "pathTracingLightUsage": "PTLU_Everywhere",
+          "pathTracingOverrideScaleGI": 1,
+          "placedEditorData": null,
+          "portalAngleCutoff": 0,
+          "radius": 3.6,
+          "rayTracedShadowsPlatform": "RLSP_All",
+          "rayTracingContactShadowRange": -1,
+          "rayTracingIntensityScale": 1,
+          "rayTracingLightSourceRadius": -1,
+          "renderSceneLayerMask": "Default",
+          "roughnessBias": 0,
+          "rtxdiShadowStartingDistance": -1,
+          "scaleEnvProbes": 100,
+          "scaleGI": 100,
+          "scaleVolFog": 100,
+          "sceneDiffuse": 1,
+          "sceneSpecular": 0,
+          "sceneSpecularScale": 100,
+          "shadowAngle": -1,
+          "shadowFadeDistance": 10,
+          "shadowFadeRange": 5,
+          "shadowRadius": -1,
+          "shadowSoftnessMode": "LSSM_Default",
+          "softness": 2,
+          "sourceRadius": 0.0500000007,
+          "spotCapsule": 0,
+          "temperature": -1,
+          "type": "LT_Point",
+          "unit": "LU_Lumen",
+          "useInEnvProbes": 0,
+          "useInFog": 0,
+          "useInGI": 0,
+          "useInParticles": 1,
+          "useInTransparents": 1
+        },
+        {
+          "$type": "entLightComponent",
+          "allowDistantLight": 1,
+          "areaRectSideA": 1,
+          "areaRectSideB": 1,
+          "areaShape": "ALS_Capsule",
+          "areaTwoSided": 1,
+          "attenuation": "LA_InverseSquare",
+          "autoHideDistance": 95.0,
+          "capsuleLength": 1,
+          "clampAttenuation": 1,
+          "color": {
+            "$type": "Color",
+            "Alpha": 255,
+            "Blue": 255,
+            "Green": 215,
+            "Red": 70
+          },
+          "colorGroupSaturation": 100,
+          "contactShadows": "CSR_None",
+          "directional": 0,
+          "enableContactShadows": 0,
+          "enableLocalShadows": 0,
+          "enableLocalShadowsForceStaticsOnly": 0,
+          "enableShadowAngleControl": 0,
+          "envColorGroup": "ECG_Default",
+          "EV": 0,
+          "flicker": {
+            "$type": "rendSLightFlickering",
+            "flickerPeriod": 0.200000003,
+            "flickerStrength": 0,
+            "positionOffset": 0
+          },
+          "forceLODLevel": -1,
+          "group": "LG_Group0",
+          "id": "971000000000000637",
+          "iesProfile": {
+            "DepotPath": {
+              "$type": "ResourcePath",
+              "$storage": "uint64",
+              "$value": "0"
+            },
+            "Flags": "Soft"
+          },
+          "initialTransform": null,
+          "innerAngle": 260,
+          "intensity": 95,
+          "isEnabled": 1,
+          "isReplicable": 0,
+          "lightChannel": "LC_Channel1, LC_Channel2, LC_Channel3, LC_Channel4, LC_Channel5, LC_Channel6, LC_Channel7, LC_Channel8, LC_ChannelWorld",
+          "localTransform": {
+            "$type": "WorldTransform",
+            "Orientation": {
+              "$type": "Quaternion",
+              "i": 0.0,
+              "j": 0.0,
+              "k": 0.0,
+              "r": 1.0
+            },
+            "Position": {
+              "$type": "WorldPosition",
+              "x": {
+                "$type": "FixedPoint",
+                "Bits": -2621
+              },
+              "y": {
+                "$type": "FixedPoint",
+                "Bits": -23593
+              },
+              "z": {
+                "$type": "FixedPoint",
+                "Bits": 137626
+              }
+            }
+          },
+          "name": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "cv_a1_vdesk_cyan"
+          },
+          "noSpecular": 0,
+          "outerAngle": 340,
+          "parentTransform": null,
+          "pathTracingLightUsage": "PTLU_Everywhere",
+          "pathTracingOverrideScaleGI": 1,
+          "placedEditorData": null,
+          "portalAngleCutoff": 0,
+          "radius": 2.4,
+          "rayTracedShadowsPlatform": "RLSP_All",
+          "rayTracingContactShadowRange": -1,
+          "rayTracingIntensityScale": 1,
+          "rayTracingLightSourceRadius": -1,
+          "renderSceneLayerMask": "Default",
+          "roughnessBias": 0,
+          "rtxdiShadowStartingDistance": -1,
+          "scaleEnvProbes": 100,
+          "scaleGI": 100,
+          "scaleVolFog": 100,
+          "sceneDiffuse": 1,
+          "sceneSpecular": 0,
+          "sceneSpecularScale": 100,
+          "shadowAngle": -1,
+          "shadowFadeDistance": 10,
+          "shadowFadeRange": 5,
+          "shadowRadius": -1,
+          "shadowSoftnessMode": "LSSM_Default",
+          "softness": 2,
+          "sourceRadius": 0.0500000007,
+          "spotCapsule": 0,
+          "temperature": -1,
+          "type": "LT_Point",
+          "unit": "LU_Lumen",
+          "useInEnvProbes": 0,
+          "useInFog": 0,
+          "useInGI": 0,
+          "useInParticles": 1,
+          "useInTransparents": 1
+        }
+      ],
+      "cookingPlatform": "PLATFORM_PC",
+      "defaultAppearance": {
+        "$type": "CName",
+        "$storage": "string",
+        "$value": "default"
+      },
+      "entity": {
+        "HandleId": "999",
+        "Data": {
+          "$type": "gameObject",
+          "accumulatedTimePasssed": 0,
+          "audioResourceName": {
+            "$type": "CName",
+            "$storage": "string",
+            "$value": "None"
+          },
+          "customCameraTarget": "ECCTV_All",
+          "displayDescription": {
+            "unk1": "0",
+            "value": ""
+          },
+          "displayName": {
+            "unk1": "0",
+            "value": ""
+          },
+          "e3ObjectRevealed": 0,
+          "forceDefeatReward": 0,
+          "forceRegisterInHudManager": 0,
+          "hasVisibilityForcedInAnimSystem": 0,
+          "hitInstigatorCooldownID": {
+            "$type": "gameDelayID"
+          },
+          "isDead": 0,
+          "isHighlightedInFocusMode": 0,
+          "isScannerDataDirty": 0,
+          "isTargetedWithSmartWeapon": 0,
+          "killRewardDisabled": 0,
+          "lastEngineTime": 0,
+          "lastHitInstigatorID": {
+            "$type": "entEntityID",
+            "hash": "0"
+          },
+          "markAsQuest": 0,
+          "persistentState": null,
+          "playerSocket": {
+            "$type": "gamePlayerSocket"
+          },
+          "prereqListeners": [],
+          "receivedDamageHistory": [],
+          "renderSceneLayerMask": "Default",
+          "scanningComponent": null,
+          "sourceShootComponent": null,
+          "squadMemberComponent": null,
+          "statusEffectComponent": null,
+          "statusEffectListeners": [],
+          "stimBroadcaster": null,
+          "tags": {
+            "$type": "redTagList",
+            "tags": []
+          },
+          "targetShootComponent": null,
+          "uiSlotComponent": null,
+          "visibilityCheckDistance": 16000,
+          "visionComponent": null,
+          "willDieSoon": 0,
+          "workspotMapper": null
+        }
+      },
+      "includeInstanceBuffer": null,
+      "includes": [],
+      "inplaceResources": [],
+      "localData": null,
+      "resolvedDependencies": [
+        {
+          "DepotPath": {
+            "$type": "ResourcePath",
+            "$storage": "string",
+            "$value": "base\\environment\\decoration\\electronics\\hardware\\shard\\shard_a.mesh"
+          },
+          "Flags": "Soft"
+        },
+        {
+          "DepotPath": {
+            "$type": "ResourcePath",
+            "$storage": "string",
+            "$value": "base\\environment\\decoration\\furniture\\outdoor\\poor_utility_table\\poor_utility_table_b.mesh"
+          },
+          "Flags": "Soft"
+        },
+        {
+          "DepotPath": {
+            "$type": "ResourcePath",
+            "$storage": "string",
+            "$value": "base\\environment\\decoration\\lighting\\candles\\candle\\candle_a.mesh"
+          },
+          "Flags": "Soft"
+        },
+        {
+          "DepotPath": {
+            "$type": "ResourcePath",
+            "$storage": "string",
+            "$value": "base\\environment\\decoration\\misc\\tarot\\tarot_card_deck_a.mesh"
+          },
+          "Flags": "Soft"
+        },
+        {
+          "DepotPath": {
+            "$type": "ResourcePath",
+            "$storage": "string",
+            "$value": "base\\items\\interactive\\medical\\int_medical_002__cyberware_container\\int_medical_002__cyberware_container_01.mesh"
+          },
+          "Flags": "Soft"
+        }
+      ],
+      "visualTagsSchema": null
+    },
+    "EmbeddedFiles": []
+  }
+}

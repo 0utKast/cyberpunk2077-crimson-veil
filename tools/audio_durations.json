@@ -1,0 +1,834 @@
+{
+  "sfx": {
+    "cv_sfx_tarot_flip": 1.48,
+    "cv_sfx_uv_overload": 2.28,
+    "cv_sfx_night_chime": 2.0,
+    "cv_sfx_forensic_scan": 1.6
+  },
+  "voices": {
+    "cv_p0_misty_esoterica_01": {
+      "en": 7.32,
+      "es": 7.72,
+      "max": 7.72
+    },
+    "cv_p0_misty_rooftop_01": {
+      "en": 6.5,
+      "es": 6.74,
+      "max": 6.74
+    },
+    "cv_p0_misty_rooftop_02": {
+      "en": 8.76,
+      "es": 7.48,
+      "max": 8.76
+    },
+    "cv_p0_v_ask_chorus": {
+      "en_fem": 5.36,
+      "es_fem": 5.55,
+      "en_male": 5.68,
+      "es_male": 5.09,
+      "max": 5.68
+    },
+    "cv_p0_misty_ans_chorus": {
+      "en": 10.84,
+      "es": 9.56,
+      "max": 10.84
+    },
+    "cv_p0_v_ask_uv": {
+      "en_fem": 6.84,
+      "es_fem": 7.22,
+      "en_male": 7.48,
+      "es_male": 7.3,
+      "max": 7.48
+    },
+    "cv_p0_misty_ans_uv": {
+      "en": 9.24,
+      "es": 9.14,
+      "max": 9.24
+    },
+    "cv_p0_misty_tarot_forensic": {
+      "en": 9.08,
+      "es": 8.44,
+      "max": 9.08
+    },
+    "cv_p0_misty_tarot_symbolic": {
+      "en": 8.18,
+      "es": 8.82,
+      "max": 8.82
+    },
+    "cv_p0_v_oilfields_arrive": {
+      "en_fem": 9.16,
+      "es_fem": 8.69,
+      "en_male": 8.54,
+      "es_male": 8.45,
+      "max": 9.16
+    },
+    "cv_p0_vampyre_ambush": {
+      "en": 7.36,
+      "es": 6.45,
+      "max": 7.36
+    },
+    "cv_p0_v_uv_hint": {
+      "en_fem": 6.42,
+      "es_fem": 6.68,
+      "en_male": 6.12,
+      "es_male": 6.05,
+      "max": 6.68
+    },
+    "cv_p0_v_sample_taken": {
+      "en_fem": 6.76,
+      "es_fem": 5.48,
+      "en_male": 6.42,
+      "es_male": 5.41,
+      "max": 6.76
+    },
+    "cv_p0_misty_debrief_01": {
+      "en": 8.82,
+      "es": 8.18,
+      "max": 8.82
+    },
+    "cv_p0_misty_debrief_02": {
+      "en": 7.86,
+      "es": 8.74,
+      "max": 8.74
+    },
+    "cv_a1_v_kabuki_arrive": {
+      "en_fem": 6.92,
+      "es_fem": 6.76,
+      "en_male": 7.14,
+      "es_male": 6.64,
+      "max": 7.14
+    },
+    "cv_a1_v_clue_blood": {
+      "en_fem": 6.98,
+      "es_fem": 7.4,
+      "en_male": 6.11,
+      "es_male": 6.56,
+      "max": 7.4
+    },
+    "cv_a1_v_clue_tarot": {
+      "en_fem": 8.02,
+      "es_fem": 7.46,
+      "en_male": 6.77,
+      "es_male": 7.86,
+      "max": 8.02
+    },
+    "cv_a1_v_clue_relay": {
+      "en_fem": 7.68,
+      "es_fem": 6.76,
+      "en_male": 7.78,
+      "es_male": 6.58,
+      "max": 7.78
+    },
+    "cv_a1_valdes_intro_01": {
+      "en": 7.36,
+      "es": 5.6,
+      "max": 7.36
+    },
+    "cv_a1_v_ask_nox9": {
+      "en_fem": 6.5,
+      "es_fem": 6.6,
+      "en_male": 5.84,
+      "es_male": 7.06,
+      "max": 7.06
+    },
+    "cv_a1_valdes_ans_nox9": {
+      "en": 12.44,
+      "es": 9.52,
+      "max": 12.44
+    },
+    "cv_a1_v_ask_misty": {
+      "en_fem": 6.77,
+      "es_fem": 5.64,
+      "en_male": 6.39,
+      "es_male": 5.41,
+      "max": 6.77
+    },
+    "cv_a1_valdes_ans_misty": {
+      "en": 11.44,
+      "es": 9.49,
+      "max": 11.44
+    },
+    "cv_a1_valdes_give_trust": {
+      "en": 10.11,
+      "es": 8.6,
+      "max": 10.11
+    },
+    "cv_a1_valdes_give_pressure": {
+      "en": 13.7,
+      "es": 10.96,
+      "max": 13.7
+    },
+    "cv_a1_v_valdes_depart": {
+      "en_fem": 5.92,
+      "es_fem": 5.8,
+      "en_male": 5.89,
+      "es_male": 5.4,
+      "max": 5.92
+    },
+    "cv_a1_v_pier_arrive": {
+      "en_fem": 7.88,
+      "es_fem": 7.36,
+      "en_male": 7.56,
+      "es_male": 7.73,
+      "max": 7.88
+    },
+    "cv_a1_gate_challenge": {
+      "en": 6.68,
+      "es": 7.14,
+      "max": 7.14
+    },
+    "cv_a1_v_gate_bluff": {
+      "en_fem": 6.96,
+      "es_fem": 6.19,
+      "en_male": 6.61,
+      "es_male": 6.04,
+      "max": 6.96
+    },
+    "cv_a1_gate_bluff_ok": {
+      "en": 8.04,
+      "es": 7.28,
+      "max": 8.04
+    },
+    "cv_a1_gate_hostile": {
+      "en": 6.24,
+      "es": 4.85,
+      "max": 6.24
+    },
+    "cv_a1_v_manifest_taken": {
+      "en_fem": 9.72,
+      "es_fem": 8.36,
+      "en_male": 8.97,
+      "es_male": 7.88,
+      "max": 9.72
+    },
+    "cv_a1_misty_debrief_stealth": {
+      "en": 7.06,
+      "es": 7.56,
+      "max": 7.56
+    },
+    "cv_a1_misty_debrief_combat": {
+      "en": 8.88,
+      "es": 8.6,
+      "max": 8.88
+    },
+    "cv_a1_misty_debrief_badlands": {
+      "en": 8.66,
+      "es": 9.48,
+      "max": 9.48
+    },
+    "cv_a1_misty_cliffhanger": {
+      "en": 8.82,
+      "es": 8.2,
+      "max": 8.82
+    },
+    "cv_r2_call_misty_01": {
+      "en": 6.92,
+      "es": 6.93,
+      "max": 6.93
+    },
+    "cv_r2_call_v_01": {
+      "en_fem": 4.52,
+      "es_fem": 4.02,
+      "en_male": 4.2,
+      "es_male": 4.02,
+      "max": 4.52
+    },
+    "cv_r2_call_misty_02": {
+      "en": 15.96,
+      "es": 18.44,
+      "max": 18.44
+    },
+    "cv_r2_call_v_02": {
+      "en_fem": 5.73,
+      "es_fem": 4.68,
+      "en_male": 4.48,
+      "es_male": 4.6,
+      "max": 5.73
+    },
+    "cv_r2_alley_misty_warn": {
+      "en": 8.67,
+      "es": 8.44,
+      "max": 8.67
+    },
+    "cv_r2_alley_v_scan": {
+      "en_fem": 16.02,
+      "es_fem": 15.0,
+      "en_male": 14.26,
+      "es_male": 15.08,
+      "max": 16.02
+    },
+    "cv_r2_alley_misty_lucia_01": {
+      "en": 2.13,
+      "es": 1.04,
+      "max": 2.13
+    },
+    "cv_r2_alley_v_lucia_01": {
+      "en_fem": 3.7,
+      "es_fem": 2.93,
+      "en_male": 3.2,
+      "es_male": 2.85,
+      "max": 3.7
+    },
+    "cv_r2_alley_misty_lucia_02": {
+      "en": 26.4,
+      "es": 25.1,
+      "max": 26.4
+    },
+    "cv_r2_alley_v_candles": {
+      "en_fem": 12.1,
+      "es_fem": 9.8,
+      "en_male": 10.68,
+      "es_male": 9.34,
+      "max": 12.1
+    },
+    "cv_r2_alley_qa_missing_v": {
+      "en_fem": 4.52,
+      "es_fem": 4.77,
+      "en_male": 4.08,
+      "es_male": 4.64,
+      "max": 4.77
+    },
+    "cv_r2_alley_qa_missing_m": {
+      "en": 15.64,
+      "es": 16.12,
+      "max": 16.12
+    },
+    "cv_r2_alley_qa_watched_v": {
+      "en_fem": 2.88,
+      "es_fem": 2.99,
+      "en_male": 2.5,
+      "es_male": 2.8,
+      "max": 2.99
+    },
+    "cv_r2_alley_qa_watched_m": {
+      "en": 11.96,
+      "es": 13.16,
+      "max": 13.16
+    },
+    "cv_r2_alley_qa_chorus_v": {
+      "en_fem": 3.78,
+      "es_fem": 3.52,
+      "en_male": 3.38,
+      "es_male": 3.65,
+      "max": 3.78
+    },
+    "cv_r2_alley_qa_chorus_m": {
+      "en": 13.58,
+      "es": 13.16,
+      "max": 13.58
+    },
+    "cv_r2_alley_misty_rooftop": {
+      "en": 11.96,
+      "es": 10.84,
+      "max": 11.96
+    },
+    "cv_r2_alley_v_rooftop": {
+      "en_fem": 4.12,
+      "es_fem": 3.72,
+      "en_male": 4.66,
+      "es_male": 3.86,
+      "max": 4.66
+    },
+    "cv_r2_roof_misty_intro": {
+      "en": 13.8,
+      "es": 13.36,
+      "max": 13.8
+    },
+    "cv_r2_roof_misty_uv": {
+      "en": 11.38,
+      "es": 11.8,
+      "max": 11.8
+    },
+    "cv_r2_roof_v_depart": {
+      "en_fem": 7.44,
+      "es_fem": 6.02,
+      "en_male": 7.44,
+      "es_male": 5.84,
+      "max": 7.44
+    },
+    "cv_r2_oil_v_arrive": {
+      "en_fem": 8.98,
+      "es_fem": 8.2,
+      "en_male": 8.24,
+      "es_male": 8.2,
+      "max": 8.98
+    },
+    "cv_r2_oil_misty_radio": {
+      "en": 9.96,
+      "es": 10.04,
+      "max": 10.04
+    },
+    "cv_r2_oil_v_note": {
+      "en_fem": 16.56,
+      "es_fem": 18.53,
+      "en_male": 18.14,
+      "es_male": 16.09,
+      "max": 18.53
+    },
+    "cv_r2_debrief_m1": {
+      "en": 8.0,
+      "es": 8.84,
+      "max": 8.84
+    },
+    "cv_r2_debrief_v1": {
+      "en_fem": 13.94,
+      "es_fem": 12.34,
+      "en_male": 13.2,
+      "es_male": 12.34,
+      "max": 13.94
+    },
+    "cv_r2_debrief_m2": {
+      "en": 11.3,
+      "es": 11.84,
+      "max": 11.84
+    },
+    "cv_r2_roof_open_m1": {
+      "en": 7.6,
+      "es": 6.56,
+      "max": 7.6
+    },
+    "cv_r2_roof_open_m2": {
+      "en": 14.61,
+      "es": 13.24,
+      "max": 14.61
+    },
+    "cv_r2_roof_open_m3": {
+      "en": 10.59,
+      "es": 10.6,
+      "max": 10.6
+    },
+    "cv_r2_roof_chem_v": {
+      "en_fem": 11.0,
+      "es_fem": 9.64,
+      "en_male": 10.98,
+      "es_male": 9.56,
+      "max": 11.0
+    },
+    "cv_r2_roof_chem_m": {
+      "en": 12.28,
+      "es": 11.72,
+      "max": 12.28
+    },
+    "cv_r2_roof_cards_v": {
+      "en_fem": 7.32,
+      "es_fem": 7.24,
+      "en_male": 7.22,
+      "es_male": 6.42,
+      "max": 7.32
+    },
+    "cv_r2_roof_cards_m": {
+      "en": 18.72,
+      "es": 14.76,
+      "max": 18.72
+    },
+    "cv_r2_roof_tower_v": {
+      "en_fem": 12.5,
+      "es_fem": 10.04,
+      "en_male": 10.42,
+      "es_male": 9.68,
+      "max": 12.5
+    },
+    "cv_r2_roof_promise_m": {
+      "en": 11.94,
+      "es": 10.2,
+      "max": 11.94
+    },
+    "cv_a1_r2_call_m1": {
+      "en": 20.76,
+      "es": 20.44,
+      "max": 20.76
+    },
+    "cv_a1_r2_call_v1": {
+      "en_fem": 8.9,
+      "es_fem": 8.37,
+      "en_male": 8.42,
+      "es_male": 7.92,
+      "max": 8.9
+    },
+    "cv_a1_r2_call_m2": {
+      "en": 16.6,
+      "es": 17.01,
+      "max": 17.01
+    },
+    "cv_a1_r2_call_v2": {
+      "en_fem": 5.6,
+      "es_fem": 5.24,
+      "en_male": 5.29,
+      "es_male": 5.09,
+      "max": 5.6
+    },
+    "cv_a1_r2_kabuki_arrive": {
+      "en_fem": 9.64,
+      "es_fem": 10.36,
+      "en_male": 9.28,
+      "es_male": 9.06,
+      "max": 10.36
+    },
+    "cv_a1_r2_clue_cooler": {
+      "en_fem": 18.16,
+      "es_fem": 19.22,
+      "en_male": 17.91,
+      "es_male": 18.04,
+      "max": 19.22
+    },
+    "cv_a1_r2_clue_tarot": {
+      "en_fem": 16.34,
+      "es_fem": 16.36,
+      "en_male": 15.33,
+      "es_male": 16.26,
+      "max": 16.36
+    },
+    "cv_a1_r2_clue_relay": {
+      "en_fem": 11.56,
+      "es_fem": 12.36,
+      "en_male": 10.8,
+      "es_male": 11.0,
+      "max": 12.36
+    },
+    "cv_a1_r2_valdes_intro": {
+      "en": 6.36,
+      "es": 5.25,
+      "max": 6.36
+    },
+    "cv_a1_r2_v_intro": {
+      "en_fem": 13.14,
+      "es_fem": 12.2,
+      "en_male": 12.71,
+      "es_male": 12.12,
+      "max": 13.14
+    },
+    "cv_a1_r2_v_ask_role": {
+      "en_fem": 7.48,
+      "es_fem": 6.94,
+      "en_male": 6.28,
+      "es_male": 6.58,
+      "max": 7.48
+    },
+    "cv_a1_r2_valdes_ans_role": {
+      "en": 27.62,
+      "es": 25.01,
+      "max": 27.62
+    },
+    "cv_a1_r2_v_ask_sect": {
+      "en_fem": 5.76,
+      "es_fem": 5.41,
+      "en_male": 5.25,
+      "es_male": 5.71,
+      "max": 5.76
+    },
+    "cv_a1_r2_valdes_ans_sect": {
+      "en": 34.37,
+      "es": 28.93,
+      "max": 34.37
+    },
+    "cv_a1_r2_v_ask_leads": {
+      "en_fem": 7.48,
+      "es_fem": 6.2,
+      "en_male": 6.09,
+      "es_male": 6.0,
+      "max": 7.48
+    },
+    "cv_a1_r2_valdes_ans_leads": {
+      "en": 23.35,
+      "es": 19.23,
+      "max": 23.35
+    },
+    "cv_a1_r2_v_trust": {
+      "en_fem": 8.96,
+      "es_fem": 8.68,
+      "en_male": 10.22,
+      "es_male": 9.24,
+      "max": 10.22
+    },
+    "cv_a1_r2_valdes_give_trust": {
+      "en": 21.24,
+      "es": 15.8,
+      "max": 21.24
+    },
+    "cv_a1_r2_v_pressure": {
+      "en_fem": 8.42,
+      "es_fem": 7.68,
+      "en_male": 7.6,
+      "es_male": 7.89,
+      "max": 8.42
+    },
+    "cv_a1_r2_valdes_give_pressure": {
+      "en": 17.56,
+      "es": 14.75,
+      "max": 17.56
+    },
+    "cv_a1_r2_v_depart": {
+      "en_fem": 13.86,
+      "es_fem": 14.0,
+      "en_male": 11.96,
+      "es_male": 12.5,
+      "max": 14.0
+    },
+    "cv_a1_r2_debrief_m1_stealth": {
+      "en": 10.9,
+      "es": 10.53,
+      "max": 10.9
+    },
+    "cv_a1_r2_debrief_m1_combat": {
+      "en": 11.93,
+      "es": 10.51,
+      "max": 11.93
+    },
+    "cv_a1_r2_debrief_v1": {
+      "en_fem": 21.89,
+      "es_fem": 21.24,
+      "en_male": 19.14,
+      "es_male": 19.48,
+      "max": 21.89
+    },
+    "cv_a1_r2_debrief_m2": {
+      "en": 18.32,
+      "es": 17.48,
+      "max": 18.32
+    },
+    "cv_a1_r2_debrief_v2": {
+      "en_fem": 22.32,
+      "es_fem": 20.29,
+      "en_male": 18.93,
+      "es_male": 20.98,
+      "max": 22.32
+    },
+    "cv_a1_r2_debrief_m3": {
+      "en": 24.92,
+      "es": 24.68,
+      "max": 24.92
+    },
+    "cv_a1_r2_debrief_v3": {
+      "en_fem": 9.78,
+      "es_fem": 8.92,
+      "en_male": 9.04,
+      "es_male": 9.4,
+      "max": 9.78
+    },
+    "cv_a2_call_m1": {
+      "en": 7.72,
+      "es": 8.36,
+      "max": 8.36
+    },
+    "cv_a2_call_v1": {
+      "en_fem": 4.61,
+      "es_fem": 5.34,
+      "en_male": 5.07,
+      "es_male": 5.01,
+      "max": 5.34
+    },
+    "cv_a2_call_m2": {
+      "en": 10.44,
+      "es": 10.92,
+      "max": 10.92
+    },
+    "cv_a2_call_v2": {
+      "en_fem": 5.54,
+      "es_fem": 5.36,
+      "en_male": 5.22,
+      "es_male": 5.16,
+      "max": 5.54
+    },
+    "cv_a2_flats_arrive": {
+      "en_fem": 7.6,
+      "es_fem": 8.36,
+      "en_male": 7.99,
+      "es_male": 8.04,
+      "max": 8.36
+    },
+    "cv_a2_clue_pod": {
+      "en_fem": 10.45,
+      "es_fem": 10.16,
+      "en_male": 9.92,
+      "es_male": 10.08,
+      "max": 10.45
+    },
+    "cv_a2_clue_mateo": {
+      "en_fem": 11.6,
+      "es_fem": 13.2,
+      "en_male": 12.64,
+      "es_male": 11.88,
+      "max": 13.2
+    },
+    "cv_a2_clue_relay": {
+      "en_fem": 10.26,
+      "es_fem": 10.52,
+      "en_male": 9.68,
+      "es_male": 10.44,
+      "max": 10.52
+    },
+    "cv_a2_bunker_arrive": {
+      "en_fem": 11.46,
+      "es_fem": 9.84,
+      "en_male": 11.39,
+      "es_male": 9.04,
+      "max": 11.46
+    },
+    "cv_a2_lucia_intro": {
+      "en": 7.54,
+      "es": 8.08,
+      "max": 8.08
+    },
+    "cv_a2_v_lucia_intro": {
+      "en_fem": 7.46,
+      "es_fem": 7.48,
+      "en_male": 7.28,
+      "es_male": 7.78,
+      "max": 7.78
+    },
+    "cv_a2_v_lucia_q1": {
+      "en_fem": 7.2,
+      "es_fem": 5.8,
+      "en_male": 6.0,
+      "es_male": 5.62,
+      "max": 7.2
+    },
+    "cv_a2_lucia_a1": {
+      "en": 13.2,
+      "es": 14.82,
+      "max": 14.82
+    },
+    "cv_a2_v_lucia_q2": {
+      "en_fem": 6.08,
+      "es_fem": 5.41,
+      "en_male": 4.91,
+      "es_male": 5.65,
+      "max": 6.08
+    },
+    "cv_a2_lucia_a2": {
+      "en": 10.32,
+      "es": 14.76,
+      "max": 14.76
+    },
+    "cv_a2_v_lucia_adv": {
+      "en_fem": 6.76,
+      "es_fem": 6.44,
+      "en_male": 5.88,
+      "es_male": 6.26,
+      "max": 6.76
+    },
+    "cv_a2_lucia_adv": {
+      "en": 8.82,
+      "es": 9.68,
+      "max": 9.68
+    },
+    "cv_a2_solis_intro": {
+      "en": 10.28,
+      "es": 9.0,
+      "max": 10.28
+    },
+    "cv_a2_v_solis_q1": {
+      "en_fem": 9.08,
+      "es_fem": 7.08,
+      "en_male": 8.16,
+      "es_male": 7.09,
+      "max": 9.08
+    },
+    "cv_a2_solis_a1": {
+      "en": 11.2,
+      "es": 14.6,
+      "max": 14.6
+    },
+    "cv_a2_v_solis_q2": {
+      "en_fem": 6.61,
+      "es_fem": 6.56,
+      "en_male": 6.1,
+      "es_male": 6.12,
+      "max": 6.61
+    },
+    "cv_a2_solis_a2": {
+      "en": 14.84,
+      "es": 16.05,
+      "max": 16.05
+    },
+    "cv_a2_v_solis_q3": {
+      "en_fem": 6.52,
+      "es_fem": 6.82,
+      "en_male": 5.44,
+      "es_male": 6.83,
+      "max": 6.83
+    },
+    "cv_a2_solis_a3": {
+      "en": 9.73,
+      "es": 13.84,
+      "max": 13.84
+    },
+    "cv_a2_v_end_cure": {
+      "en_fem": 9.56,
+      "es_fem": 8.92,
+      "en_male": 8.04,
+      "es_male": 8.52,
+      "max": 9.56
+    },
+    "cv_a2_solis_combat": {
+      "en": 6.66,
+      "es": 7.63,
+      "max": 7.63
+    },
+    "cv_a2_v_end_pact": {
+      "en_fem": 9.72,
+      "es_fem": 9.68,
+      "en_male": 9.52,
+      "es_male": 10.56,
+      "max": 10.56
+    },
+    "cv_a2_solis_pact": {
+      "en": 9.86,
+      "es": 9.32,
+      "max": 9.86
+    },
+    "cv_a2_v_end_burn": {
+      "en_fem": 9.24,
+      "es_fem": 8.0,
+      "en_male": 8.16,
+      "es_male": 8.08,
+      "max": 9.24
+    },
+    "cv_a2_v_core_secured": {
+      "en_fem": 7.8,
+      "es_fem": 8.28,
+      "en_male": 7.62,
+      "es_male": 7.16,
+      "max": 8.28
+    },
+    "cv_a2_v_core_destroyed": {
+      "en_fem": 8.26,
+      "es_fem": 8.12,
+      "en_male": 8.1,
+      "es_male": 8.02,
+      "max": 8.26
+    },
+    "cv_a2_roof_lucia_greet": {
+      "en": 8.1,
+      "es": 8.42,
+      "max": 8.42
+    },
+    "cv_a2_roof_misty_cure": {
+      "en": 12.92,
+      "es": 11.8,
+      "max": 12.92
+    },
+    "cv_a2_roof_misty_pact": {
+      "en": 12.52,
+      "es": 12.04,
+      "max": 12.52
+    },
+    "cv_a2_roof_misty_burn": {
+      "en": 11.48,
+      "es": 12.26,
+      "max": 12.26
+    },
+    "cv_a2_roof_misty_epilogue": {
+      "en": 13.94,
+      "es": 15.46,
+      "max": 15.46
+    },
+    "cv_a2_roof_v_close": {
+      "en_fem": 10.5,
+      "es_fem": 9.12,
+      "en_male": 9.14,
+      "es_male": 9.57,
+      "max": 10.5
+    }
+  }
+}

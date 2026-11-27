@@ -1,0 +1,13 @@
+[center][size=5][b]Crimson Veil / Velo Carmesi[/b][/size][/center]
+
+[b]Compatibility / Compatibilidad:[/b] Cyberpunk 2077 2.x — Base Game Compatible (No Phantom Liberty required)
+[b]Core Frameworks Required:[/b] ArchiveXL, TweakXL, redscript, Cyber Engine Tweaks, Audioware
+
+[size=4][b]Features[/b][/size]
+[list]
+[*]Standalone mod with zero closed third-party content dependencies.
+[*]Clean modular architecture (no base game files overwritten).
+[/list]
+
+[size=4][b]Open Permissions & Credits[/b][/size]
+100% Open Permissions: Free to modify, reuse, translate, and redistribute with credit to 0utKast and the open-source REDModding / WolvenKit / RED4ext authors.
