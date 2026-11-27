@@ -1,13 +1,112 @@
-[center][size=5][b]Crimson Veil / Velo Carmesi[/b][/size][/center]
+[center][size=6][b]CRIMSON VEIL / VELO CARMESÍ[/b][/size]
+[size=4][b]v0.9.0 — Complete Techno-Occult Narrative Expansion Starring Misty Olszewski & V (EN & ES)[/b][/size]
+[size=3][i]Prologue + Act I + Act II "Liturgy of Ash" + 3 Playable Endings • 410 Custom Bilingual Studio Voice Lines (205 EN + 205 ES) + 4 SFX • 30 FPS JALI Lip-Sync • Interactive Codeware Tarot & 10-Shard Forensic Codex • 365 nm UV Combat Mechanics • 3 Iconic Weapons • Free 39-Page Illustrated Companion Novella PDF • Base Game 2.x Compatible (0 Phantom Liberty / 0 ep1) • 100% Open Permissions[/i][/size]
+[size=3][b]Official 4K Trailer (YouTube):[/b] [url=https://youtu.be/97ip0hhgN1c]youtu.be/97ip0hhgN1c[/url]  •  [b]GitHub Open Source (MIT / Open Permissions):[/b] [url=https://github.com/0utKast/cyberpunk2077-crimson-veil]github.com/0utKast/cyberpunk2077-crimson-veil[/url]  •  [b]Release v0.9.0 (ZIP + Novella PDF):[/b] [url=https://github.com/0utKast/cyberpunk2077-crimson-veil/releases/tag/v0.9.0]releases/tag/v0.9.0[/url][/size]
 
-[b]Compatibility / Compatibilidad:[/b] Cyberpunk 2077 2.x — Base Game Compatible (No Phantom Liberty required)
-[b]Core Frameworks Required:[/b] ArchiveXL, TweakXL, redscript, Cyber Engine Tweaks, Audioware
+[youtube]97ip0hhgN1c[/youtube][/center]
 
-[size=4][b]Features[/b][/size]
+[line]
+
+[size=5][b]WHAT IS CRIMSON VEIL? (ENGLISH)[/b][/size]
+[i]"The Moon means: I am awake in the darkness, yet I cannot step into the light."[/i]
+
+[b]Crimson Veil (v0.9.0)[/b] ([i]Velo Carmesí[/i]) is a standalone, fully voiced 3-chapter techno-occult narrative expansion for [b]Cyberpunk 2077 (2.x Base Game — no Phantom Liberty DLC required)[/b], starring [b]Misty Olszewski[/b] (strictly non-combatant) and [b]V[/b] investigating Night City's nocturnal biosculpt cult [b]"The Pale Chorus"[/b] and experimental pulmonary compound [b]NOX-9[/b].
+
+When several young Watson residents vanish without leaving scavenged chrome behind, a makeshift shrine of six damp wax candles and a single blood-stained Tarot card ([i]The Moon[/i]) appears outside [i]Misty's Esoterica[/i]. Kiroshi forensic scans reveal synthetic hemoglobin, an experimental stabilizer, and reactive porphyrins—pointing straight to [b]Lucía Reyes (Subject L-14)[/b], a 23-year-old neighbor using Misty's private Tarot lessons as an SOS written in her own blood.
+
+[line]
+
+[size=5][b]KEY FEATURES & SYSTEMS[/b][/size]
 [list]
-[*]Standalone mod with zero closed third-party content dependencies.
-[*]Clean modular architecture (no base game files overwritten).
+[*][b]Three-Chapter Voiced Narrative Campaign + 3 Playable Endings:[/b] Follow the mystery from [i]Esoterica's[/i] back alley and midnight rooftop in Watson through Kabuki's crimson canal, a fugitive hematologist's southern Little China alley, and West Pier, out into the ambushed Biotechnica Flats convoy and a closed subterranean Badlands geothermal bunker.[/*]
+[*][b]Interactive Codeware Arcana Spread & 10-Shard Forensic Codex:[/b] Open custom in-world Tarot readings contrasting Misty's symbolic interpretation alongside V's biochemical forensic analysis, backed by a 10-entry 4K-readable Case Codex.[/*]
+[*][b]365 nm UV Emitter Tactical Combat & Enemy Regeneration Counter:[/b] Pale Chorus guards infused with reactive porphyrins rapidly regenerate in darkness—overload nearby [font=Courier New]365 nm[/font] ultraviolet field emitters ([font=Courier New]24 m[/font] violet flash) to suppress enemy regeneration and shatter their defenses.[/*]
+[*][b]Custom-Rigged Cast, Workspots & 30 FPS Procedural JALI Lip-Sync:[/b] Features locked unique appearances, dedicated looping workspots cleanly isolated from vanilla Esoterica, and full [font=Courier New]30 FPS[/font] facial lip-sync across [b]Misty Olszewski[/b] ([font=Courier New]cv_misty[/font]), [b]Dr. Adrián Valdés[/b] ([font=Courier New]cv_valdes[/font]), [b]Lucía Reyes[/b] ([font=Courier New]cv_lucia[/font]), and [b]Dra. Helena Solís[/b] ([font=Courier New]cv_solis[/font]).[/*]
+[*][b]Standard Cyberpunk Dialogue Hubs:[/b] Unified blue optional Q&A lore questions ordered cleanly on top and yellow quest-progression decisions below.[/*]
+[*][b]100% Bilingual Full Voice-Over & Localization (English & Spanish in One Archive):[/b] Includes [b]410 studio voice lines[/b] ([font=Courier New]205 EN + 205 ES[/font]) plus [b]4 custom SFX[/b] routed dynamically by [b]Audioware[/b] to match your game language settings.[/*]
 [/list]
 
-[size=4][b]Open Permissions & Credits[/b][/size]
-100% Open Permissions: Free to modify, reuse, translate, and redistribute with credit to 0utKast and the open-source REDModding / WolvenKit / RED4ext authors.
+[line]
+
+[size=5][b]COMPLETE CAMPAIGN INCLUDED (PROLOGUE + ACT I + ACT II + 3 ENDINGS)[/b][/size]
+[list]
+[*][b]Prologue — «The Stained Moon» (Watson & Northside):[/b] Answer Misty's urgent incoming holocall, perform Kiroshi forensics on the stained [i]Moon[/i] card at [i]Esoterica's[/i] back alley altar, decipher Lucía's two fingernail notches, meet Misty on the rooftop at [font=Courier New]22:00[/font] under a [font=Courier New]365 nm[/font] UV lamp, and raid the midnight Pale Chorus oilfields shrine in Northside to recover the empty NOX-9 vial and torn transport slip confirming Lucía is alive. [b]Reward:[/b] [font=Courier New]+1,200 E$[/font], [font=Courier New]+500 XP[/font] & Iconic neurotoxin knife [i]Pale Fang / Colmillo Pálido[/i].[/*]
+[*][b]Act I — «Pulse of Batch NOX-9» (Kabuki, Little China & West Pier):[/b] Trace the clinical batch from the crimson-lit Kabuki Canal shrine and cryo cooler to fugitive ex-Biotechnica creator [b]Dr. Adrián Valdés[/b] in a secluded street-level southern Little China alley, then execute a branching stealth cipher infiltration at Watson's [b]West Pier[/b] cryo checkpoint ([i]"The shadow drinks before dawn"[/i]) to pinpoint the Badlands relay. [b]Reward:[/b] Iconic suppressed Nue pistol [i]Silent Veil / Velo Silente[/i].[/*]
+[*][b]Act II — «Liturgy of Ash» (Biotechnica Flats & Badlands Geothermal Bunker):[/b] Inspect the ambushed [b]Biotechnica Flats[/b] convoy ([font=Courier New]3[/font] forensic clues uncovering [b]Mateo M-09[/b]'s sacrifice to protect Lucía), breach the closed Badlands geothermal bunker across Sublevels [font=Courier New]-1[/font] and [font=Courier New]-2[/font], reunite with [b]Lucía Reyes (L-14)[/b], and confront Pale Chorus architect [b]Dra. Helena Solís ("The Cantor")[/b] inside the [b]NOX-9B Bioreactor Chamber[/b] across [b]3 playable endings[/b]:
+• [b]Ending A — The Second Serum:[/b] Defeat Solís, preserve the purified NOX-9B formula, and bring Lucía home for clinical recovery.
+• [b]Ending B — Pact in the Penumbra:[/b] Negotiate a covert pragmatic containment pact inside the chamber on your own terms.
+• [b]Ending C — Dawn of Blood:[/b] Trigger a total bioreactor purge in lethal daylight rupture.
+[b]Rooftop Epilogue Reward:[/b] [font=Courier New]+4,000 E$[/font], [font=Courier New]+1,500 XP[/font], Iconic thermal Burya revolver [i]Crimson Dawn / Alba Carmesí[/i] & expanded [b]10-shard[/b] Codex.[/*]
+[/list]
+
+[line]
+
+[size=5][b]CUSTOM ICONIC WEAPONS & REWARDS[/b][/size]
+[list]
+[*][b]Pale Fang ([i]Colmillo Pálido[/i])[/b] ([i]Epic Iconic Modified Neurotoxin Knife[/i]): +28.0 Chemical Damage • +18% Crit Chance • +25% Crit Damage ([i]Prologue[/i]).[/*]
+[*][b]Silent Veil ([i]Velo Silente[/i])[/b] ([i]Epic Iconic Suppressed Nue Pistol[/i]): +35.0 Chemical Damage • +22% Crit Chance • +35% Headshot Multiplier • -15% Reload Time ([i]Act I[/i]).[/*]
+[*][b]Crimson Dawn ([i]Alba Carmesí[/i])[/b] ([i]Legendary Iconic Thermal Burya Revolver[/i]): +40.0 Thermal Damage • +25% Crit Chance • +40% Headshot Multiplier ([i]Act II Finale[/i]).[/*]
+[/list]
+
+[line]
+
+[size=5][b]FREE 39-PAGE ILLUSTRATED COMPANION NOVELLA (OPTIONAL DOWNLOAD)[/b][/size]
+Included as an optional archive in the [b]Files[/b] tab (and inside the GitHub repository) is [b]Crimson Veil: Blood Beneath the Neon[/b], a 39-page Collector's Illustrated Companion Novella rendered in Typst featuring full narrative prose across all three acts, interleaved Kiroshi forensic dossiers, 21 curated 4K campaign stills, and 5 bespoke cyberpunk-esoteric Tarot plates.
+
+[line]
+
+[size=5][b]WHEN DOES IT START? COMPATIBILITY, REQUIREMENTS & INSTALLATION[/b][/size]
+[list]
+[*][b]Automatic Act 2 + Level 10 Start Gate:[/b] Triggers automatically via an incoming native holocall from Misty Olszewski once [b]Act 2[/b] is reached (after completing [i]Playing for Time[/i]) and [b]V is Level 10 or higher[/b] (while out of combat and at least [font=Courier New]15 m[/font] away from [i]Misty's Esoterica[/i]). You can also start or jump chapters manually anytime from the optional Cyber Engine Tweaks (CET) panel.[/*]
+[*][b]100% Base Game 2.x Compatible (Zero Phantom Liberty Required):[/b] Uses zero [font=Courier New]ep1[/font] paths or paid DLC assets, zero third-party closed mods, and zero overwritten base game files.[/*]
+[/list]
+
+[b]Required Open-Source Core Frameworks[/b] (install separately—never bundled inside this archive):
+[list]
+[*][url=https://github.com/WopsS/RED4ext]RED4ext[/url][/*]
+[*][url=https://github.com/psiberx/cp2077-archive-xl]ArchiveXL[/url][/*]
+[*][url=https://github.com/psiberx/cp2077-tweak-xl]TweakXL[/url][/*]
+[*][url=https://github.com/psiberx/cp2077-codeware]Codeware[/url][/*]
+[*][url=https://github.com/jac3km4/redscript]redscript[/url][/*]
+[*][url=https://github.com/cyb3rpsych0s1s/audioware]Audioware[/url][/*]
+[*][url=https://github.com/maximegmd/CyberEngineTweaks]Cyber Engine Tweaks (CET)[/url][/*]
+[/list]
+
+[b]Installation & Language Switching (EN / ES):[/b]
+[list=1]
+[*]Download [font=Courier New]CrimsonVeil_v0.9.0.zip[/font] from the [b]Files[/b] tab and install via [b]Vortex[/b] / [b]Mod Organizer 2[/b], or extract directly into your [font=Courier New]Cyberpunk 2077[/font] root directory ([font=Courier New]archive/[/font], [font=Courier New]bin/[/font], [font=Courier New]r6/[/font]).[/*]
+[*]Set Cyberpunk 2077 [b]Settings -> Language -> Text, Subtitles, and Voice-Over[/b] all to [b]English[/b] (or [b]Spanish / Español[/b]) to experience all 205 studio-voiced lines per language, localized Tarot UI, subtitles, Journal entries, and Shards natively.[/*]
+[/list]
+
+[size=4][b]Voice Acting Transparency Note[/b][/size]
+To strictly respect copyright and CD Projekt RED's original voice cast, [b]zero vanilla game audio is extracted, sampled, or cloned[/b]. Misty Olszewski and all original characters are voiced using [b]100% original synthetic voices[/b] designed from scratch via ElevenLabs Voice Design / TTS and mastered with FFmpeg.
+
+[line]
+
+[center][size=6][b]EDICIÓN COMPLETA EN ESPAÑOL — VELO CARMESÍ v0.9.0[/b][/size]
+[size=4][b]Expansión Narrativa en 3 Partes + 3 Finales (Doblaje y Localización Completa ES / EN — Juego Base 2.x)[/b][/size]
+[size=3][b]Tráiler Oficial 4K (YouTube):[/b] [url=https://youtu.be/97ip0hhgN1c]youtu.be/97ip0hhgN1c[/url]  •  [b]Repositorio GitHub (MIT):[/b] [url=https://github.com/0utKast/cyberpunk2077-crimson-veil]github.com/0utKast/cyberpunk2077-crimson-veil[/url][/size][/center]
+
+[size=4][b]¿Qué es Velo Carmesí / Crimson Veil?[/b][/size]
+[i]"La Luna significa: Estoy despierta en la oscuridad, pero no puedo salir a la luz."[/i]
+
+[b]Velo Carmesí (v0.9.0)[/b] ([i]Crimson Veil[/i]) es una campaña narrativa independiente de horror urbano y ciencia oscura para el [b]Juego Base de Cyberpunk 2077 (2.x — cero dependencias de Phantom Liberty)[/b], protagonizada por [b]Misty Olszewski[/b] (estrictamente no combatiente) y [b]V[/b] frente al culto biomédico nocturno [b]«El Coro Pálido»[/b] y el compuesto experimental [b]NOX-9[/b].
+
+[size=4][b]Campaña Completa Incluida (Prólogo + Acto I + Acto II + 3 Finales RPG)[/b][/size]
+[list]
+[*][b]Prólogo — «La Luna Manchada» (Watson y Northside):[/b] Holollamada urgente de Misty al alcanzar el [b]Acto 2 y Nivel 10[/b], escaneo forense Kiroshi del altar de seis cirios húmedos y [i]La Luna[/i] manchada en el callejón de [i]Esoterica[/i] (revelando el código secreto de [b]Lucía Reyes, Sujeto L-14[/b]), cita nocturna en la azotea a las [font=Courier New]22:00[/font] bajo lámpara UV de [font=Courier New]365 nm[/font] e incursión en los depósitos de Northside. Recompensa: [font=Courier New]+1.200 €$, +500 XP[/font] y cuchillo icónico [i]Colmillo Pálido[/i].[/*]
+[*][b]Acto I — «El Pulso del Lote NOX-9» (Kabuki, Little China y Muelle Oeste):[/b] Sigue el rastro desde el santuario rojo del canal de Kabuki hasta el escondite a cota de calle del hematólogo fugitivo [b]Dr. Adrián Valdés[/b] al sur de Little China y completa la infiltración ramificada en el terminal criogénico del [b]Muelle Oeste[/b] con todas las preguntas informativas azules arriba y decisiones amarillas abajo. Recompensa: pistola silenciada icónica [i]Velo Silente[/i].[/*]
+[*][b]Acto II — «Liturgia de Ceniza» (Biotechnica Flats y Búnker de las Badlands):[/b] Investiga las [font=Courier New]3[/font] pistas del convoy emboscado en Biotechnica Flats sobre el sacrificio de [b]Mateo M-09[/b], asalta el búnker geotérmico clausurado en las Badlands ([font=Courier New]Subniveles -1 y -2[/font] con Emisores UV de [font=Courier New]365 nm[/font]), reencuéntrate con [b]Lucía Reyes[/b] y enfréntate a la [b]Dra. Helena Solís («La Cantora»)[/b] en la [b]Cámara NOX-9B[/b] con [b]3 finales jugables[/b] ([i]Final A · El Segundo Suero[/i], [i]Final B · Pacto en la Penumbra[/i] o [i]Final C · Alba de Sangre[/i]). Epílogo en la azotea: [font=Courier New]+4.000 €$, +1.500 XP[/font], revólver térmico icónico [i]Alba Carmesí[/i] y Códice ampliado a [b]10 fragmentos[/b].[/*]
+[/list]
+
+[size=4][b]Doblaje Completo, Novela Ilustrada e Instalación[/b][/size]
+[list=1]
+[*]Instala por separado los frameworks open-source requeridos ([b]RED4ext, ArchiveXL, TweakXL, Codeware, redscript, Audioware y Cyber Engine Tweaks[/b]; nunca van incluidos en el ZIP).[/*]
+[*]Extrae [font=Courier New]CrimsonVeil_v0.9.0.zip[/font] en la raíz de [b]Cyberpunk 2077[/b]. Incluye [b]205 líneas de estudio en español + 205 en inglés + 4 SFX[/b] con lip-sync JALI a 30 FPS (voces 100 % originales creadas con ElevenLabs Voice Design, sin clonar ni extraer audio de CDPR).[/*]
+[*]Descarga también de forma opcional en [b]Files[/b] la [b]Novela Ilustrada de 39 páginas en PDF[/b] ([i]Crimson Veil: Blood Beneath the Neon[/i]).[/*]
+[/list]
+
+[line]
+
+[size=5][b]OPEN PERMISSIONS & CREDITS / PERMISOS ABIERTOS Y CRÉDITOS[/b][/size]
+Released under the [b]MIT License & 100% Open Modding Permissions[/b]: you are completely free to modify, study, reuse assets, translate, and redistribute this mod with attribution to [b]0utKast[/b] ([url=https://github.com/0utKast/cyberpunk2077-crimson-veil]GitHub Repository[/url]). Built with community open-source tools by [b]WolvenKit Team & REDModding[/b], [b]WopsS[/b] (RED4ext), [b]psiberx[/b] (ArchiveXL / TweakXL / Codeware), [b]jac3km4[/b] (redscript), [b]yamashi & maximegmd[/b] (Cyber Engine Tweaks), [b]cyb3rpsych0s1s / Roms1383[/b] (Audioware), ElevenLabs + FFmpeg (original EN/ES voice acting & SFX), Typst (Illustrated Novella typesetting), and [b]CD Projekt RED[/b] (Cyberpunk 2077 2.x Base Game).

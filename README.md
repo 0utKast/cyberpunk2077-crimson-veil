@@ -2,6 +2,8 @@
 ### *Techno-Occult Narrative Expansion Starring Misty Olszewski & V* — **3-Part Voiced Campaign (`Prologue` + `Act I` + `Act II` + `3 Endings`)** · **100% Bilingual (`EN` & `ES`: `410` Studio Voice Lines + `4` SFX)** · **100% Base Game `2.x`**
 
 [![License: MIT & Open Permissions](https://img.shields.io/badge/License-MIT%20%28100%25%20Open%20Permissions%29-brightgreen.svg)](LICENSE)
+[![Nexus Mods #39814](https://img.shields.io/badge/Nexus%20Mods-%2339814-da8e35.svg)](https://www.nexusmods.com/cyberpunk2077/mods/39814)
+[![YouTube 4K Official Trailer](https://img.shields.io/badge/YouTube-Official%204K%20Trailer-ff0000.svg)](https://youtu.be/97ip0hhgN1c)
 [![Release v0.9.0](https://img.shields.io/badge/Release-v0.9.0%20Complete%20Campaign-dc143c.svg)](https://github.com/0utKast/cyberpunk2077-crimson-veil/releases/tag/v0.9.0)
 [![Cyberpunk 2077 2.x](https://img.shields.io/badge/Cyberpunk%202077-2.x%20Base%20Game%20%280%20ep1%29-00f0ff.svg)](#universal-compatibility)
 [![Languages EN & ES](https://img.shields.io/badge/Languages-English%20%26%20Spanish%20%28410%20Lines%29-00e676.svg)](#language--voice-transparency)
@@ -12,6 +14,8 @@
 </p>
 
 > **🌍 Navigation & Direct Downloads / Navegación y Descarga Directa (`v0.9.0`):**
+> - 🧩 **[Nexus Mods Page (`cyberpunk2077/mods/39814`)](https://www.nexusmods.com/cyberpunk2077/mods/39814)**
+> - 🎬 **[Watch the Official 4K Trailer on YouTube (`youtu.be/97ip0hhgN1c`)](https://youtu.be/97ip0hhgN1c)**
 > - 📦 **[Download `CrimsonVeil_v0.9.0.zip` (GitHub Release `v0.9.0`)](https://github.com/0utKast/cyberpunk2077-crimson-veil/releases/tag/v0.9.0)** — *Unified Bilingual Mod Package (Full English & Full Spanish Voice-Over + Text Included)*
 > - 📖 **[Download `Crimson_Veil_Illustrated_Novella_EN.pdf` (`39` Pages)](fanfic/Crimson_Veil_Illustrated_Novella_EN.pdf)** — *Illustrated Companion Novella ("Blood Beneath the Neon", rendered offline in Typst with 21 4K plates & 5 Tarot illustrations)*
 > - 🇺🇸 **[English Documentation (Campaign, Mechanics, Endings & Install)](#english-documentation)**
